@@ -1,0 +1,48 @@
+body {
+  padding-top: 6rem;
+}
+.navbar {
+  background-color: #091b2a;
+}
+.navbar a.nav-link {
+  color: #fff !important;
+}
+.navbar a.nav-link:hover, .navbar a.nav-link:active {
+  color: #eb1946 !important;
+}
+
+.rg-landing-raven {
+  background: no-repeat center -150px url("/assets/images/bg.png");
+  color: #fff;
+  min-height: 38rem;
+  text-align: center;
+}
+.rg-landing-raven .rg-welcome {
+  padding: 7rem 0;
+  text-shadow: 2px 2px #0c1e2a;
+  margin-bottom: 4rem;
+}
+.display-3 {
+  font-weight: 600;
+}
+
+a.rg-button {
+  display: inline-block;
+  padding: 0 30px;
+  font-size: 25px;
+  line-height: 65px;
+  border-radius: 10px;
+  background-color: #e51564;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 auto;
+  box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+}
+a.rg-button:hover {
+  background-color: #eb1946;
+}
+
+footer {
+  background-color: #091b2a;
+  color: #fff;
+}
