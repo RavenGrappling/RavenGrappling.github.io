@@ -1,5 +1,5 @@
 body {
-  padding-top: 6rem;
+  padding-top: 118px;
 }
 .navbar {
   background-color: #091b2a;
@@ -10,22 +10,41 @@ body {
 .navbar a.nav-link:hover, .navbar a.nav-link:active {
   color: #eb1946 !important;
 }
+li.nav-item {
+  margin-left: 20px;
+}
+a.nav-link {
+  font-size: 20px;
+}
+button.navbar-toggler {
+  background-color: #fefefe;
+}
+h1 {
+  margin-bottom: 30px;
+}
+p, dd {
+  line-height: 30px;
+}
 
 .rg-landing-raven {
-  background: no-repeat center -150px url("/assets/images/bg.png");
+  background: no-repeat center -240px url("/assets/images/bg.jpg") #02010f;
   color: #fff;
-  min-height: 38rem;
+  min-height: 600px;
   text-align: center;
-}
-.rg-landing-raven .rg-welcome {
-  padding: 7rem 0;
-  text-shadow: 2px 2px #0c1e2a;
-  margin-bottom: 4rem;
-}
-.display-3 {
-  font-weight: 600;
-}
+  padding-top: 50px;
 
+}
+.rg-welcome {
+  text-shadow: 2px 2px #0c1e2a;
+  margin-bottom: 100px;
+}
+.rg-welcome h1 {
+  margin: 0;
+}
+.rg-container-bg {
+  background-color: rgba(0, 114, 166, 0.05);
+  border-radius: 10px;
+}
 a.rg-button {
   display: inline-block;
   padding: 0 30px;
@@ -36,13 +55,34 @@ a.rg-button {
   color: #fff;
   text-decoration: none;
   margin: 0 auto;
-  box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+
+  margin-bottom: 10px;
 }
 a.rg-button:hover {
   background-color: #eb1946;
 }
+a.rg-button-large {
+  font-size: 30px;
+  line-height: 80px;
+  padding: 0 30px;
+  box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
 
 footer {
   background-color: #091b2a;
   color: #fff;
+}
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+footer a.rg-social {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  margin-left: 25px;
 }
