@@ -86,3 +86,12 @@ footer a.rg-social {
   width: 50px;
   margin-left: 25px;
 }
+
+@media (max-width: 991.98px) {
+  a.rg-button {
+    display: block;
+  }
+  footer {
+    text-align: center;
+  }
+}
