@@ -120,6 +120,11 @@ layout: default
         <div class="rg-calendar-day-name">
           Friday
         </div>
+        <div class="rg-calendar-day-events">
+          <div class="rg-calendar-day-event rg-event-start-900 rg-event-end-2100 rg-event-off">
+            No Classes
+          </div>
+        </div>
       </div>
 
       <div class="rg-calendar-day">
