@@ -71,3 +71,7 @@ layout: default
 
   {% include gallery.html %}
 </div>
+
+<div class="container">
+  {% include location-and-contact.html %}
+</div>
