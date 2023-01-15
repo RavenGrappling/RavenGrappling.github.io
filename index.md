@@ -81,22 +81,22 @@ layout: default
 
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="/assets/images/gallery/1.jpg" class="d-block w-100" alt="">
+        <img src="/assets/images/gallery/1.jpg" class="d-block w-100" loading="lazy" alt="">
       </div>
       <div class="carousel-item">
-        <img src="/assets/images/gallery/2.jpg" class="d-block w-100" alt="">
+        <img src="/assets/images/gallery/2.jpg" class="d-block w-100" loading="lazy" alt="">
       </div>
       <div class="carousel-item">
-        <img src="/assets/images/gallery/3.jpg" class="d-block w-100" alt="">
+        <img src="/assets/images/gallery/3.jpg" class="d-block w-100" loading="lazy" alt="">
       </div>
       <div class="carousel-item">
-        <img src="/assets/images/gallery/4.jpg" class="d-block w-100" alt="">
+        <img src="/assets/images/gallery/4.jpg" class="d-block w-100" loading="lazy" alt="">
       </div>
       <div class="carousel-item">
-        <img src="/assets/images/gallery/5.jpg" class="d-block w-100" alt="">
+        <img src="/assets/images/gallery/5.jpg" class="d-block w-100" loading="lazy" alt="">
       </div>
       <div class="carousel-item">
-        <img src="/assets/images/gallery/6.jpg" class="d-block w-100" alt="">
+        <img src="/assets/images/gallery/6.jpg" class="d-block w-100" loading="lazy" alt="">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#rg-gallery" data-bs-slide="prev">
