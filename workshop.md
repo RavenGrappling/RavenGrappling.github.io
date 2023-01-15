@@ -12,7 +12,6 @@ layout: default
   <h3>
     Program description
   </h3>
-
   <p>
     This class is designed for the specific purpose of providing students with protected time for self-learning as well as the opportunity to continue to practice what they had learned in class.
   </p>

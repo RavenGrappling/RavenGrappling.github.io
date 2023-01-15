@@ -20,7 +20,7 @@ layout: default
   </p>
 </div>
 
-<div class="container py-5 px-4 p-lg-5">
+<div class="container py-5 px-4 p-lg-5 rg-container-bg">
   <h1 class="text-center">Meet the Team</h1>
 
   <div class="row">
@@ -49,4 +49,10 @@ layout: default
     </div>
 
   </div>
+</div>
+
+<div class="container py-5 px-4 p-lg-5 ">
+  <h1 class="text-center">Our Space</h1>
+
+  {% include gallery.html %}
 </div>
