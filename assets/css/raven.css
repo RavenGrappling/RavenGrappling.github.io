@@ -27,7 +27,7 @@ h1 small {
   vertical-align: middle;
   color: #e51564;
 }
-p, dd {
+p, dd, li {
   line-height: 30px;
 }
 .rg-container-bg {
