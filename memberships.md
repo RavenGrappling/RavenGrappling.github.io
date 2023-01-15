@@ -61,13 +61,13 @@ layout: default
     </div>
   </a>
 
-  <div class="rg-membership-button rg-membership-button--private">
+  <a href="/contact-us" class="rg-membership-button rg-membership-button--private">
     <div class="rg-membership-button-label">Private Sessions</div>
     <div class="rg-membership-button-desc">
       Contact for pricing
     </div>
     <div class="rg-membership-button-price"></div>
-  </div>
+  </a>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/r08o" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">7-Day Trial</div>
