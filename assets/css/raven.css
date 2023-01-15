@@ -22,6 +22,11 @@ button.navbar-toggler {
 h1 {
   margin-bottom: 30px;
 }
+h1 small {
+  font-size: 18px;
+  vertical-align: middle;
+  color: #e51564;
+}
 p, dd {
   line-height: 30px;
 }
@@ -39,7 +44,8 @@ a.rg-button {
   background-color: #e51564;
   color: #fff;
   text-decoration: none;
-  margin: 0 15px 15px 15px;
+  margin: 0 15px 15px 0;
+  text-align: center;
 }
 a.rg-button:hover {
   background-color: #eb1946;

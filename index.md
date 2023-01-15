@@ -61,7 +61,7 @@ layout: default
 
 <div class="container py-5 px-4 p-lg-5 text-center">
   <h1 class="text-center">We Offer Programs To</h1>
-  <a href="" class="rg-button">Beginners</a>
+  <a href="/fundamentals" class="rg-button">Beginners</a>
   <a href="" class="rg-button">Advanced</a>
   <a href="" class="rg-button">Kids / Teens</a>
 </div>
