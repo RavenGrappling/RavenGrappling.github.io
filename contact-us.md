@@ -27,7 +27,7 @@ layout: default
       <table class="table">
         <tr>
           <th>Monday</th>
-          <td>6pm - 8:30pm</td>
+          <td>4pm - 8:30pm</td>
         </tr>
         <tr>
           <th>Tuesday</th>
@@ -35,7 +35,7 @@ layout: default
         </tr>
         <tr>
           <th>Wednesday</th>
-          <td>6pm - 8:30pm</td>
+          <td>4pm - 8:30pm</td>
         </tr>
         <tr>
           <th>Thursday</th>
@@ -47,11 +47,11 @@ layout: default
         </tr>
         <tr>
           <th>Saturday</th>
-          <td>11am - 1:30pm</td>
+          <td>10am - 12:30pm</td>
         </tr>
         <tr>
           <th>Sunday</th>
-          <td>11am - 1:30pm</td>
+          <td>10am - 12pm</td>
         </tr>
       </table>
     </div>
