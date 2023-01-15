@@ -1,5 +1,5 @@
 ---
-title: To Raven Grappling - Memberships
+title: Raven Grappling - Memberships
 layout: default
 ---
 
@@ -54,7 +54,6 @@ layout: default
     <div class="rg-membership-button-label">Flex Pass</div>
     <div class="rg-membership-button-desc">
       10 classes per 6 months
-      <br>
       <small>* Cannot be used for The Workshop</small>
     </div>
     <div class="rg-membership-button-price">
