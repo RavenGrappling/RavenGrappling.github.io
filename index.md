@@ -1,5 +1,5 @@
 ---
-title: Page Title
+title: Welcome To Raven Grappling
 layout: default
 ---
 
@@ -11,7 +11,7 @@ layout: default
       <h3>Coquitlam BC, Canada</h3>
     </div>
 
-    <a href="#" class="rg-button rg-button-large">Get Started Now</a>
+    <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>
 </div>
 

@@ -47,27 +47,73 @@ p, dd {
 }
 a.rg-button {
   display: inline-block;
-  padding: 0 30px;
-  font-size: 25px;
-  line-height: 65px;
-  border-radius: 10px;
-  background-color: #e51564;
-  color: #fff;
-  text-decoration: none;
-  margin: 0 auto;
-
-  margin-bottom: 10px;
-}
-a.rg-button:hover {
-  background-color: #eb1946;
-}
-a.rg-button-large {
   font-size: 30px;
   line-height: 80px;
   padding: 0 30px;
   box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  background-color: #e51564;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px 15px 15px;
+}
+a.rg-button:hover {
+  background-color: #eb1946;
 }
 
+.rg-membership-button {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #0076a8;
+  border: 5px solid #0076a8;
+  border-radius: 15px;
+  padding: 30px;
+  color: #fff;
+  font-size: 25px;
+  align-items: center;
+  margin: 0 100px 30px 100px;
+  text-decoration: none;
+}
+.rg-membership-button:hover {
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.rg-membership-button-label, .rg-membership-button-desc, .rg-membership-button-price {
+  flex: 1;
+  text-align: center;
+}
+.rg-membership-button-label {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: left;
+}
+.rg-membership-button-desc small {
+  font-size: 16px;
+}
+.rg-membership-button--standard {
+  background-color: #000;
+  border-color: #000;
+}
+.rg-membership-button--premium {
+  background-color: #eb1946;
+  border-color: #eb1946;
+}
+.rg-membership-button--kids {
+  background-color: #7a498b;
+  border-color: #7a498b;
+}
+.rg-membership-button--flex {
+  background-color: #58b1c1;
+  border-color: #58b1c1;
+}
+.rg-membership-button--private {
+  background-color: #fff;
+  color: #0076a8;
+}
+.rg-membership-button--trial {
+  background-color: #fff;
+  border-color: #000;
+  color: #000;
+}
 
 footer {
   background-color: #091b2a;
@@ -90,6 +136,15 @@ footer a.rg-social {
 @media (max-width: 991.98px) {
   a.rg-button {
     display: block;
+    margin: 0 0 15px 0;
+  }
+  .rg-membership-button {
+    display: block;
+    margin: 0 0 30px 0;
+    padding: 15px;
+  }
+  .rg-membership-button-label {
+    text-align: center;
   }
   footer {
     text-align: center;
