@@ -84,6 +84,17 @@ footer a.rg-social {
   }
 }
 
+/* -- Alert ---------------------------------------------------------------- */
+.rg-alert {
+  text-align: center;
+  padding: 8px;
+  background-color: #67EBEB;
+}
+.rg-alert a {
+  color: #000;
+  font-weight: 600;
+}
+
 /* -- Landing -------------------------------------------------------------- */
 .rg-landing-raven {
   background: no-repeat center -240px url("/assets/images/bg.jpg") #02010f;
