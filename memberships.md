@@ -6,6 +6,16 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1 class="text-center">Memberships</h1>
 
+  <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
+    <div class="rg-membership-button-label">Kids / Teens</div>
+    <div class="rg-membership-button-desc">
+      unlimited classes
+    </div>
+    <div class="rg-membership-button-price">
+      $130 + tax
+    </div>
+  </a>
+  
   <a href="https://ravengrappling.pushpress.com/open/subscribe/tczp" class="rg-membership-button">
     <div class="rg-membership-button-label">Basic</div>
     <div class="rg-membership-button-desc">
@@ -36,15 +46,6 @@ layout: default
     </div>
   </a>
 
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
-    <div class="rg-membership-button-label">Kids / Teens</div>
-    <div class="rg-membership-button-desc">
-      unlimited classes
-    </div>
-    <div class="rg-membership-button-price">
-      $130 + tax
-    </div>
-  </a>
 </div>
 
 <div class="container py-5 px-4 p-lg-5">
