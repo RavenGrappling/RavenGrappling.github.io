@@ -51,22 +51,22 @@ layout: default
       </p>
     </div>
 
-  </div>
-</div>
-
-<div class="row">
-    <div class="col-lg">
-      <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
+    <div class="row">
+      <div class="col-lg">
+        <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
+      </div>
+      <div class="col-lg">
+        <h3>
+          Yoko
+        </h3>
+        <h4>
+          Assistant Instructor - Kids/Teens
+        </h4>
+        <p>
+          Bio coming soon
+        </p>
+      </div>
     </div>
-    <div class="col-lg">
-      <h3>
-        Yoko
-      </h3>
-      <h4>
-        Assistant Instructor - Kids/Teens
-      </h4>      
-    </div>
-
   </div>
 </div>
 
