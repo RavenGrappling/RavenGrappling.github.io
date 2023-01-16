@@ -31,6 +31,9 @@ layout: default
       <h3>
         Dmytro
       </h3>
+      <h4>
+        Founder & Head Instructor
+      </h4>
       <p>
         Dmytro has been practicing Brazilian Jiu Jitsu since he was 15 years old.
       </p>
@@ -46,6 +49,22 @@ layout: default
       <p>
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
       </p>
+    </div>
+
+  </div>
+</div>
+
+<div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3>
+        Yoko
+      </h3>
+      <h4>
+        Assistant Instructor - Kids/Teens
+      </h4>      
     </div>
 
   </div>
