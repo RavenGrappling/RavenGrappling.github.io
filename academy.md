@@ -63,14 +63,13 @@ layout: default
           Assistant Instructor - Kids/Teens
         </h4>
         <p>
-          Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature then her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized how empowering Brazilian Jiu Jitsu was her. Yoko understood that the techniques that she was learning provided her with the knowledge as well as the ability defend herself against larger opponents, in safe and practical way.
+          Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized how empowering Brazilian Jiu Jitsu was for her. Yoko understood that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
         </p>
         <p>
-          Fast-forward eight years later, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. Aside from her invaluable experience on the mats, Yoko is also an amazing coach and mentor to both advanced student that those who are just starting their journey in Brazilian Jiu Jitsu. 
+          Fast-forward eight years later, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. Aside from her invaluable experience on the mats, Yoko is also an amazing coach and mentor to both advanced students and those who are just starting their journey in Brazilian Jiu Jitsu. 
         </p>  
         <p>
-          Whether you are in the Kids/Teen, Fundamentals or Advanced class, Yoko is keen to make you feel welcome and make your learning a great experience. For this reason and others like them, Yoko is and will always be an integral member of the Raven Grappling team.
-        </p>  
+          Whether you are in the Kids/Teen, Fundamentals or Advanced class, Yoko is keen to make you feel welcome and make your learning a great experience.
       </div>
     </div>
   </div>
