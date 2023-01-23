@@ -59,8 +59,9 @@ layout: default
         <li>Back-control</li>
         <li>Side-control</li>
         <li>Leg entanglements</li>
-        <li>Takedowns</li>
-        <li>Guided positional / live sparring</li>
+    <li>
+      Guided positional / live sparring
+      <ul>
       </ul>
     </li>
   </ul>
