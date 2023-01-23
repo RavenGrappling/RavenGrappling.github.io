@@ -60,7 +60,7 @@ layout: default
         <li>Side-control</li>
         <li>Leg entanglements</li>
     <li>Guided positional / live sparring</li>
-  </ul>
+  </ul> 
 </div>
 
 <div class="container py-5 px-4 p-lg-5">
