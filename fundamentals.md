@@ -61,7 +61,6 @@ layout: default
         <li>Leg entanglements</li>
     <li>
       Guided positional / live sparring
-      <ul>
       </ul>
     </li>
   </ul>
