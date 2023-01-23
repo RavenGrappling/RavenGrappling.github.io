@@ -70,6 +70,7 @@ layout: default
         </p>  
         <p>
           Whether you are in the Kids/Teen, Fundamentals or Advanced class, Yoko is keen to make you feel welcome and make your learning a great experience.
+        </p>  
       </div>
     </div>
   </div>
