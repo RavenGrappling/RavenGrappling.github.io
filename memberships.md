@@ -4,6 +4,15 @@ layout: default
 ---
 
 <div class="container py-5 px-4 p-lg-5">
+  
+  <a href="https://ravengrappling.pushpress.com/open/subscribe/r08o" class="rg-membership-button rg-membership-button--trial">
+    <div class="rg-membership-button-label">7-Day Trial</div>
+    <div class="rg-membership-button-desc">
+      Free (new clients only)
+    </div>
+    <div class="rg-membership-button-price"></div>
+  </a>
+  
   <h1 class="text-center">Memberships</h1>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
@@ -46,9 +55,6 @@ layout: default
     </div>
   </a>
 
-</div>
-
-<div class="container py-5 px-4 p-lg-5">
   <h1 class="text-center">Non-Memberships</h1>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/xlfv" class="rg-membership-button rg-membership-button--flex">
@@ -66,14 +72,6 @@ layout: default
     <div class="rg-membership-button-label">Private Sessions</div>
     <div class="rg-membership-button-desc">
       Contact for pricing
-    </div>
-    <div class="rg-membership-button-price"></div>
-  </a>
-
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/r08o" class="rg-membership-button rg-membership-button--trial">
-    <div class="rg-membership-button-label">7-Day Trial</div>
-    <div class="rg-membership-button-desc">
-      Free (new clients only)
     </div>
     <div class="rg-membership-button-price"></div>
   </a>
