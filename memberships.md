@@ -8,7 +8,7 @@ layout: default
   <a href="https://ravengrappling.pushpress.com/open/subscribe/r08o" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">7-Day Trial</div>
     <div class="rg-membership-button-desc">
-      Free (new clients only)
+      Free (new members only)
     </div>
     <div class="rg-membership-button-price"></div>
   </a>
