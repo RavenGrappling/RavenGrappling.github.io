@@ -32,7 +32,7 @@ layout: default
         Dmytro
       </h3>
       <h4>
-        Founder & Head Instructor
+        Owner & Head Instructor
       </h4>
       <p>
         Dmytro has been practicing Brazilian Jiu Jitsu since he was 15 years old.
