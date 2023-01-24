@@ -50,31 +50,31 @@ layout: default
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
       </p>
     </div>
+  </div>
 
-    <div class="row">
-      <div class="col-lg">
-        <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
-      </div>
-      <div class="col-lg">
-        <h3>
-          Yoko
-        </h3>
-        <h4>
-          Assistant Instructor - Kids/Teens
-        </h4>
-        <p>
-          Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized how empowering Brazilian Jiu Jitsu was for her. Yoko understood that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
-        </p>
-        <p>
-          Fast-forward eight years later, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. This is most exemplified by her recent major accomplishment, which was winning the 2022 IBJJF Master Words, in her weight and age division, which is an incredible testament to her hard work.
-        </p>  
-        <p>  
-          Aside from her invaluable expertise on the mats, Yoko is also an amazing coach and mentor to both advanced students and those who are just starting their journey in Brazilian Jiu Jitsu. 
-        </p>  
-        <p>
-          Whether you are in the Kids/Teen, Fundamentals or Advanced class, Yoko is always keen to make you feel welcome and make your learning a great experience.
-        </p>  
-      </div>
+  <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3>
+        Yoko
+      </h3>
+      <h4>
+        Assistant Instructor - Kids/Teens
+      </h4>
+      <p>
+        Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized how empowering Brazilian Jiu Jitsu was for her. Yoko understood that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
+      </p>
+      <p>
+        Fast-forward eight years later, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. This is most exemplified by her recent major accomplishment, which was winning the 2022 IBJJF Master Words, in her weight and age division, which is an incredible testament to her hard work.
+      </p>
+      <p>
+        Aside from her invaluable expertise on the mats, Yoko is also an amazing coach and mentor to both advanced students and those who are just starting their journey in Brazilian Jiu Jitsu.
+      </p>
+      <p>
+        Whether you are in the Kids/Teen, Fundamentals or Advanced class, Yoko is always keen to make you feel welcome and make your learning a great experience.
+      </p>
     </div>
   </div>
 </div>
