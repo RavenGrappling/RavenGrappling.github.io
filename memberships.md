@@ -5,7 +5,7 @@ layout: default
 
 <div class="container py-5 px-4 p-lg-5">
   
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/r08o" class="rg-membership-button rg-membership-button--trial">
+  <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">10-Day Trial</div>
     <div class="rg-membership-button-desc">
       Free (new members only)
