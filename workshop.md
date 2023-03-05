@@ -6,7 +6,7 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>
     The Workshop
-    <small>Adults (16+), Members Only</small>
+    <small>Adults (16+)</small>
   </h1>
 
   <h3>
