@@ -20,12 +20,12 @@ layout: default
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
             <div>Kids (8-12)</div>
-            <div>Gi</div>
+            <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
             <div>Teens (13-15)</div>
-            <div>Gi</div>
+            <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
@@ -48,6 +48,16 @@ layout: default
           <div class="rg-calendar-day-event rg-event-start-900 rg-event-end-1500 rg-event-private">
             <div class="rg-calendar-day-event-time">9am - 3pm</div>
             <div>Private Sessions</div>
+          </div>
+          <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
+            <div class="rg-calendar-day-event-time">4 - 5pm</div>
+            <div>Kids (8-12)</div>
+            <div>Gi</div>
+          </div>
+          <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
+            <div class="rg-calendar-day-event-time">5 - 6pm</div>
+            <div>Teens (13-15)</div>
+            <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
@@ -74,12 +84,12 @@ layout: default
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
             <div>Kids (8-12)</div>
-            <div>Gi</div>
+            <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
             <div>Teens (13-15)</div>
-            <div>Gi</div>
+            <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
@@ -102,6 +112,16 @@ layout: default
           <div class="rg-calendar-day-event rg-event-start-900 rg-event-end-1500 rg-event-private">
             <div class="rg-calendar-day-event-time">9am - 3pm</div>
             <div>Private Sessions</div>
+          </div>
+          <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
+            <div class="rg-calendar-day-event-time">4 - 5pm</div>
+            <div>Kids (8-12)</div>
+            <div>Gi</div>
+          </div>
+          <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
+            <div class="rg-calendar-day-event-time">5 - 6pm</div>
+            <div>Teens (13-15)</div>
+            <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
