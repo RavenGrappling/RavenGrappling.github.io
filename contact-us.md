@@ -31,7 +31,7 @@ layout: default
         </tr>
         <tr>
           <th>Tuesday</th>
-          <td>6pm - 8:30pm</td>
+          <td>4pm - 8:30pm</td>
         </tr>
         <tr>
           <th>Wednesday</th>
@@ -39,7 +39,7 @@ layout: default
         </tr>
         <tr>
           <th>Thursday</th>
-          <td>6pm - 8:30pm</td>
+          <td>4pm - 8:30pm</td>
         </tr>
         <tr>
           <th>Friday</th>
