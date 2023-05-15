@@ -6,9 +6,9 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>
     Kids
-    <small>(8-12 years)</small>
+    <small>(6-11 years)</small>
     & Teens
-    <small>(13-15 years)</small>
+    <small>(12-15 years)</small>
   </h1>
 
   <h3>
