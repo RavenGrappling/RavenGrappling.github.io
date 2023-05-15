@@ -35,7 +35,8 @@ layout: default
     Attire
   </h3>
   <ul>
-    <li>Gi (Monday & Wednesday)</li>
+    <li>No-Gi (Monday & Wednesday)</li>
+    <li>Gi (Tuesday & Thursday)</li>
   </ul>
 
   <h3>Program Goals</h3>
