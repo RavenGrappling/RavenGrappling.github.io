@@ -44,9 +44,6 @@ layout: default
         For the first several years, Dmytro was predominately focused on No-Gi grappling, but as the sport began to evolve and grow in popularity, he then had an opportunity to fully commit himself to learn from instructors that primarily specialized in Brazilian Jiu Jitsu.
       </p>
       <p>
-        Throughout his training, Dmytro was able to learn full-time, from amazing practitioners and instructors, at schools such as Kombat Arts Training Academy, OpenMat, InFighting, and North Vancouver BJJ.
-      </p>
-      <p>
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
       </p>
     </div>
