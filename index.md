@@ -30,7 +30,7 @@ layout: default
       Self-Defense
     </dt>
     <dd>
-      BJJ will teach you how to defend yourself against an attacker who is larger or stronger, in real-world situations, using control, leverage and submissions.
+      BJJ will teach you how to defend yourself against an attacker who is bigger and stronger, using control, leverage and submissions.
     </dd>
     <dt>
       Physical Fitness
@@ -42,7 +42,7 @@ layout: default
       Stress Relief
     </dt>
     <dd>
-      BJJ is a great way to release tension after a long day and it can have a  positive impact on improving your mental as well as physical well-being.
+      BJJ is a great way to release tension after a long day and it can have a positive impact on improving your mental as well as physical well-being.
     </dd>
     <dt>
       Character Development
@@ -54,7 +54,7 @@ layout: default
       Community Building
     </dt>
     <dd>
-      It is a fun and engaging activity, which can be a great way to meet new people and build new friendships.
+      Brazilian Jiu Jitsu is a fun and engaging activity, which can be a great way to meet new people and build new friendships.
     </dd>
   </dl>
 </div>
