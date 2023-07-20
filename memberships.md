@@ -60,7 +60,7 @@ layout: default
   <a href="https://ravengrappling.pushpress.com/open/subscribe/xlfv" class="rg-membership-button rg-membership-button--flex">
     <div class="rg-membership-button-label">Flex Pass</div>
     <div class="rg-membership-button-desc">
-      10 classes per 6 months    
+      10 classes   
     </div>
     <div class="rg-membership-button-price">
       $250 + tax
