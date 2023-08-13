@@ -1,11 +1,11 @@
 ---
-title: Raven Grappling - Shop
+title: Raven Grappling - Store
 layout: default
 ---
 
 <div class="container py-5 px-4 p-lg-5">
   <h1>
-    Shop
+    Store
   </h1>
   <div class="row">
     <div class="col-lg">
