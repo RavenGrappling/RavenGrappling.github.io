@@ -87,7 +87,11 @@ footer a.rg-social:last-child {
     text-align: center;
   }
 }
-
+/* -- Carousel ------------------------------------------------------------- */
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
 /* -- Alert ---------------------------------------------------------------- */
 .rg-alert {
   text-align: center;
