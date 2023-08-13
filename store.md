@@ -7,9 +7,7 @@ layout: default
   <h1>
     Store
   </h1>
-</div>  
 
-<div class="container py-5 px-4 p-lg-5">
   <div class="row">
     <div class="col-lg">
       <div id="rg-gallery" class="carousel slide">
