@@ -84,7 +84,7 @@ layout: default
         Professor Brent Burniston
       </h3>
       <h4>
-        3RD Degree Black Belt <br>
+        3rd Degree Black Belt <br>
         Subconscious Founder <br>
         HQ Head Instructor
       </h4>
@@ -108,9 +108,35 @@ layout: default
       </p>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/sbjjnick2.jpg" alt="Nick" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3>
+        Professor Nicholas Gregoriades
+      </h3>
+      <h4>
+        4th Degree Black Belt <br>
+        Association Director <br>
+        Instructor
+      </h4>
+      <p>
+        Nicolas Gregoriades is a South African grappler who is the first jiu-jitsu practitioner to be promoted to black belt by the greatest grappler of all-time, Roger Gracie. 
+      </p>
+      <p>
+        Gregoriades is an accomplished competitor and national champion in both South Africa and England. He is also the author of two books on the art, The Black Belt Blueprint and Beyond the Black Belt, and his popular instructional videos are known as some of the best on the market.
+      </p>
+      <p>
+        Over the last 20 years he has taught jiu-jitsu to thousands of students all over the world and is widely regarded as one of the best instructors working today. 
+      </p>
+      <p>
+        He is also well-known for his ‘Spirit of Jiu-Jitsu’ and ‘Soul of Jiu-Jitsu’ short films and his holistic, conceptually-based approach to teaching.
+      </p>
+    </div>
+  </div>
 </div>
-
-
 
 <div class="container py-5 px-4 p-lg-5 ">
   <h1 class="text-center">Our Space</h1>
