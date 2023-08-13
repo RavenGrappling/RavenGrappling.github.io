@@ -66,12 +66,6 @@ layout: default
   <a href="/advanced" class="rg-button">Advanced</a>
 </div>
 
-<div class="container py-5 px-4 p-lg-5 rg-container-bg">
-  <h1 class="text-center">Our Space</h1>
-
-  {% include gallery.html %}
-</div>
-
 <div class="container">
   {% include location-and-contact.html %}
 </div>
