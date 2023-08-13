@@ -35,7 +35,27 @@ layout: default
       </div>
     </div>
     <div class="col-lg">
-      Raven Grappling Gi
+      <h3>Raven Grappling Gi</h3>
+      <p>
+        To Do
+      </p>
+      <table class="table table-striped table-sm">
+        <tr>
+          <th>Size</th>
+          <th>Height</th>
+          <th>Weight</th>
+        </tr>
+        <tr>
+          <td>C00</td>
+          <td>3'4" - 3'8"</td>
+          <td>35 - 45lb</td>
+        </tr>
+        <tr>
+          <td>C0</td>
+          <td>3'9" - 4'1"</td>
+          <td>45 - 50lb</td>
+        </tr>
+      </table>
     </div>
   </div>
 </div>  
