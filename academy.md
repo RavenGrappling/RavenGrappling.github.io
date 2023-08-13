@@ -58,7 +58,7 @@ layout: default
         Yoko
       </h3>
       <h4>
-        Assistant Instructor - Kids/Teens
+        Visiting Assistant Instructor - Kids/Teens
       </h4>
       <p>
         Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized how empowering Brazilian Jiu Jitsu was for her. Yoko understood that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
@@ -74,7 +74,43 @@ layout: default
       </p>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/sbjjbrent2.jpg" alt="Brent" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3>
+        Professor Brent Burniston
+      </h3>
+      <h4>
+        3RD Degree Black Belt <br>
+        Subconscious Founder <br>
+        HQ Head Instructor
+      </h4>
+      <p>
+        Brent Burniston received his Black Belt in Brazilian Jiu-Jitsu from the legendary Jean Jacques Machado.  
+      </p>
+      <p>
+        As one of Machado’s top black belts and instructors, Brent was often called upon to teach classes at his prestigious academy in Tarzana, CA and specifically selected to assist in  seminars and conferences with international icons such as Dan Inosanto.
+      </p>
+      <p>
+        Brent’s is known in the elite circles of martial arts for his innovation, detailed instruction, and endless encyclopedia of technique knowledge. 
+      </p>
+      <p>
+        In 2015, Brent was honored by being appointed as a Brazilian Jiu-Jitsu Advisor to the UFAF, founded by Chuck Norris - one of the leading and most recognizable martial arts organizations in the world.  
+      </p>
+      <p>
+        Brent worked closely with co-founder and Chief Instructor David Dunn in developing the UFAF’s Brazilian Jiu-Jitsu curriculum.  
+      </p>
+      <p>
+        According to David, “Brent played a crucial role in the development of our curriculum, and is a huge asset to our organization.” At the annual 2015 conference, Brent took part in teaching several massive workshops of over 300 plus UFAF students from all around the world.
+      </p>
+    </div>
+  </div>
 </div>
+
+
 
 <div class="container py-5 px-4 p-lg-5 ">
   <h1 class="text-center">Our Space</h1>
