@@ -7,4 +7,13 @@ layout: default
   <h1>
     Shop
   </h1>
+  <div class="row">
+    <div class="col-lg">
+      To do
+    </div>
+    <div class="col-lg">
+      Raven Grappling Gi
+    </div>
+  </div>
 </div>  
+  
