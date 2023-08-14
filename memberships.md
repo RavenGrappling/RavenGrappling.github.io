@@ -13,7 +13,9 @@ layout: default
     <div class="rg-membership-button-price"></div>
   </a>
   
-  <h3 class="text-center">Memberships</h3>
+  <h1 class="text-center">Memberships</h1>
+  <p> class="text-center" (We offer no fixed contracts) 
+  </p>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
     <div class="rg-membership-button-label">Kids / Teens</div>
