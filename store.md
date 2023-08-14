@@ -33,7 +33,7 @@ layout: default
         Raven Grappling Gi
       </h3>
       <p>
-        Our entry-level Kimonos feature Raven Grappling logos.
+        Our entry-level Kimonos feature Raven Grappling school logos.
       </p>
       <p>
         Colours Availible: White, Blue, Black
