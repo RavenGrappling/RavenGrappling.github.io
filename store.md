@@ -42,7 +42,7 @@ layout: default
         Please make sure you refer to our sizing chart before placing an order.  
       </p>
       <p>
-        Children sizes are marked by "C" & Adult sizes are marked by "A"
+        Children sizes are marked by "C" and Adult sizes are marked by "A"
       </p>
       <table class="table table-striped table-sm">
         <tr>
