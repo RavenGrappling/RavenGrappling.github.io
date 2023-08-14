@@ -49,7 +49,7 @@ layout: default
         <tr>
           <td>C0</td>
           <td>3'9" - 4'1"</td>
-          <td>45 - 50lb</td>
+          <td>45 - 60lb</td>
         </tr>
         <tr>
           <td>C1</td>
@@ -83,7 +83,7 @@ layout: default
         </tr>
         <tr>
           <td>A3</td>
-          <td>5'11" - 5'9"</td>
+          <td>5'11" - 6'1"</td>
           <td>178 - 192lb</td>
         </tr>
         <tr>
@@ -93,7 +93,7 @@ layout: default
         </tr>
         <tr>
           <td>A5</td>
-          <td>6'3" - 6'5"</td>
+          <td>6'5" - 6'7"</td>
           <td>220 - 250lb</td>
         </tr>
       </table>
