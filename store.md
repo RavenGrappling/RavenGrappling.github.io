@@ -43,6 +43,8 @@ layout: default
       </p>
       <p>
         Children sizes are marked by "C"
+      </p>
+      <p>
         Adult sizes are marked by "A"
       </p>
       <table class="table table-striped table-sm">
