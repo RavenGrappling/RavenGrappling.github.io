@@ -51,6 +51,51 @@ layout: default
           <td>3'9" - 4'1"</td>
           <td>45 - 50lb</td>
         </tr>
+        <tr>
+          <td>C1</td>
+          <td>4'2" - 4'5"</td>
+          <td>60 - 75lb</td>
+        </tr>
+        <tr>
+          <td>C2</td>
+          <td>4'6" - 4'9"</td>
+          <td>75 - 90lb</td>
+        </tr>
+        <tr>
+          <td>C3</td>
+          <td>4'10" - 5'1"</td>
+          <td>90 - 105lb</td>
+        </tr>
+        <tr>
+          <td>A0</td>
+          <td>4'11" - 5'3"</td>
+          <td>105 - 125lb</td>
+        </tr>
+        <tr>
+          <td>A1</td>
+          <td>5'3" - 5'6"</td>
+          <td>125 - 141lb</td>
+        </tr>
+        <tr>
+          <td>A2</td>
+          <td>5'6" - 5'9"</td>
+          <td>141 - 165lb</td>
+        </tr>
+        <tr>
+          <td>A3</td>
+          <td>5'11" - 5'9"</td>
+          <td>178 - 192lb</td>
+        </tr>
+        <tr>
+          <td>A4</td>
+          <td>6'3" - 6'5"</td>
+          <td>200 - 220lb</td>
+        </tr>
+        <tr>
+          <td>A5</td>
+          <td>6'3" - 6'5"</td>
+          <td>220 - 250lb</td>
+        </tr>
       </table>
       <div class="container py-4 px-4 p-lg-4 text-center">
         <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
