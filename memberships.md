@@ -13,7 +13,7 @@ layout: default
     <div class="rg-membership-button-price"></div>
   </a>
   
-  <h1 class="text-center">Memberships</h1>
+  <h3class="text-center">Memberships</h3>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
     <div class="rg-membership-button-label">Kids / Teens</div>
