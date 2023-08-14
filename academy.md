@@ -44,7 +44,7 @@ layout: default
         For the first several years, Dmytro was predominately focused on No-Gi grappling, but as the sport began to evolve and grow in popularity, he then had an opportunity to fully commit himself to learn from instructors that specialized in Brazilian Jiu Jitsu.
       </p>
       <p>
-        Following the opening of Raven Grappling, Dmytro continued to better himself as instructor, owner as well as a practitioner, and has been fortunate to do so under the direct guidance of Professor Brent Burniston and Professor Nicholas Gregoriades of Subconscious Jiu Jitsu Association. Since joining, Dmytro has been growing his relationship with the like-minded members that not only had the same goals and vision, but who also were willing to share their experiences and knowledge to make it all possible. 
+        Following the opening of Raven Grappling, Dmytro continued to better himself as an instructor, owner as well as a practitioner, and has been fortunate to do so under the direct guidance of Professor Brent Burniston and Professor Nicholas Gregoriades of Subconscious Jiu Jitsu Association. Since joining, Dmytro has been growing his relationship with the like-minded members that not only have the same goals and vision, but who also are willing to share their experiences and knowledge to make it all possible. 
       </p>
       <p>
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
