@@ -50,9 +50,11 @@ layout: default
           <td>45 - 50lb</td>
         </tr>
       </table>
-      <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
-        Purchase
-      </a>
+      <div class="container py-5 px-4 p-lg-5 text-center">
+        <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
+          Buy Now
+        </a>
+      </div>
     </div>
   </div>
 </div>  
