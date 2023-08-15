@@ -61,7 +61,7 @@ layout: default
         Yoko
       </h3>
       <h4>
-        Visiting Assistant Instructor - Kids/Teens
+        Visiting Instructor
       </h4>
       <p>
         Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized how empowering Brazilian Jiu Jitsu was for her. Yoko understood that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
