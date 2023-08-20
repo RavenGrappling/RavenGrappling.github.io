@@ -64,7 +64,7 @@ layout: default
         Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
       </p>
       <p>
-        Fast-forward to the present, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. This is most exemplified by her recent major accomplishment, which was winning the 2022 IBJJF Master Words, which is an incredible testament to her hard work.
+        Fast-forward to the present, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. This is most exemplified by her recent major accomplishment, which was winning the 2022 IBJJF Master Words - an incredible testament to her hard work.
       </p>
       <p>
         Aside from her invaluable expertise on the mats, Yoko is also an amazing coach and mentor to both advanced students and those who are just starting their journey in Brazilian Jiu Jitsu.
