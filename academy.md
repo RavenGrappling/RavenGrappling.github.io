@@ -58,18 +58,18 @@ layout: default
         Chris
       </h3>
       <h4>
-        Assistant Instructor - Kids & Teens Program
+        Assistant Instructor - Kids & Teens Programs
       </h4>
       <p>
         As an early childhood educator, and a father, Chris has a great ability in being able
-to connect with children due to his warm and kind demeanor. He is always striving to make sure that those in the kids/teens programs are having fun while also staying focused on the learning for the day.
+to connect with children due to his warm and kind demeanor. He is always striving to make sure that kids and teens are having fun, while also staying focused on the learning for the day.
       </p>
       <p>
         Chris is also an original member of Raven Grappling, and as such is well versed in the fundamental curriculum that is taught to all beginners. He
 is skilled in providing constructive feedback in a positive and supportive manner, so that everyone feels that they are making progress in their individual development.
       </p>
       <p>
-        Whether you are in the Kids/Teen, Fundamentals or Advanced class, Chris is always keen to make you feel welcome and make your learning a great experience.
+        Whether you are in the Kids/Teens Programs, Chris is always keen to make you feel welcome and make your learning a great experience.
       </p>
     </div>
   </div>
