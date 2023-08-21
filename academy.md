@@ -47,6 +47,31 @@ layout: default
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
       </p>
     </div>
+    
+  </div>
+    <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/chris2.jpg" alt="Chris" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3>
+        Chris
+      </h3>
+      <h4>
+        Assistant Instructor - Kids & Teens Program
+      </h4>
+      <p>
+        As an early childhood educator, and a father, Chris has a great ability in being able
+to connect with children due to his warm and kind demeanor. He is always striving to make sure that those in the kids/teens programs are having fun while also staying focused on the learning for the day.
+      </p>
+      <p>
+        Chris is also an original member of Raven Grappling, and as such is well versed in the fundamental curriculum that is taught to all beginners. He
+is skilled in providing constructive feedback in a positive and supportive manner, so that everyone feels that they are making progress in their individual development.
+      </p>
+      <p>
+        Whether you are in the Kids/Teen, Fundamentals or Advanced class, Chris is always keen to make you feel welcome and make your learning a great experience.
+      </p>
+    </div>
   </div>
 
   <div class="row">
@@ -68,9 +93,6 @@ layout: default
       </p>
       <p>
         Aside from her invaluable expertise on the mats, Yoko is also an amazing coach and mentor to both advanced students and those who are just starting their journey in Brazilian Jiu Jitsu.
-      </p>
-      <p>
-        Whether you are in the Kids/Teen, Fundamentals or Advanced class, Yoko is always keen to make you feel welcome and make your learning a great experience.
       </p>
     </div>
   </div>
