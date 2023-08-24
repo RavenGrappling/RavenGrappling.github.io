@@ -13,7 +13,7 @@ layout: default
     <div class="rg-membership-button-price"></div>
   </a>
   
-  <h1 class="text-center">Memberships</h1>
+  <h1 class="text-center my-1">Memberships</h1>
   
   <p class="text-center">
     <strong>
