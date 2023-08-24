@@ -3,7 +3,7 @@ title: Raven Grappling - The Academy
 layout: default
 ---
 
-<div class="container py-5 px-4 p-lg-5">
+<div class="container py-5 px-4 p-lg-5 rg-subconscious-logo-bg">
   <h1 class="text-center">About Us</h1>
 
   <p>
