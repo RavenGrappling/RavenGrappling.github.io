@@ -120,6 +120,11 @@ footer a.rg-social:last-child {
   margin: 0;
 }
 
+/* -- Academy -------------------------------------------------------------- */
+.rg-subconscious-logo-bg {
+  background: url('/assets/images/academy/subconscious_logo_bg.png') center 120px no-repeat
+}
+
 /* -- Memberships ---------------------------------------------------------- */
 .rg-membership-button {
   display: flex;
