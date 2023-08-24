@@ -16,9 +16,7 @@ layout: default
   <h1 class="text-center my-1">Memberships</h1>
   
   <p class="text-center">
-    <strong>
-      No Contracts. No Sign-up Fees. No Hidden Costs
-    </strong>
+    No Contracts. No Sign-up Fees. No Hidden Costs
   </p> 
     
   <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
