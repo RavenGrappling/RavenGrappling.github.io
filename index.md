@@ -72,7 +72,6 @@ layout: default
   {% include people.html %}
 </div>
 
-
 <div class="container">
   {% include location-and-contact.html %}
 </div>
