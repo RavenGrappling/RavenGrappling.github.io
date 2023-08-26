@@ -77,9 +77,7 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-5 ">
-  <h1 class="text-center">Our Members</h1>
-
-  {% include members.html %}
+    {% include members.html %}
 </div>
 
 <div class="container">
