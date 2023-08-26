@@ -13,7 +13,7 @@ layout: default
     At Raven Grappling, students can expect a relaxed yet professional training environment. We take great pride in preparing daily lessons and curriculum in order to ensure that individual growth is always progressing. Our goal is to simplify the complexity of this martial art, so that students have a clear path in terms of their individual skill development.
   </p>
   <p>
-    Also, as much as we recognize the value of a competitive environment, we equally strive to preserve a training space where students can be as casual as they like. Because of this mindset, students can always rely on our ongoing determination to keep them safe, regardless of their skill level or ability.
+    Also, as much as we recognize the value of a competitive environment, we equally preserve a training space where students can be as casual as they like. Because of this mindset, students can always rely on our ongoing determination to keep them safe, regardless of their skill level or ability.
   </p>
   <p>
     In all, students and visitors alike, can count on being well treated and welcomed, regardless of training background or affiliation. Our main priority is to create a fun and nurturing environment, where everyone can enjoy the benefits of Brazilian Jiu Jitsu as well as the wonderful people who practice it.
@@ -35,7 +35,7 @@ layout: default
         Owner & Head Instructor
       </h4>
       <p>
-        Dmytro has been practicing Brazilian Jiu Jitsu since he was only 15 years old. Unlike most students today, his first exposure was through the practice of MMA as there were only a small number of schools that specialized in Brazilian Jiu Jitsu during that time.
+        Dmytro has been practicing Brazilian Jiu Jitsu since he was only 15 years old. Unlike most students today, his first exposure was through the practice of MMA as there were only a small number of schools that specialized in Brazilian Jiu Jitsu at that time.
       </p>
       <p>
         For the first several years, Dmytro was predominately focused on No-Gi grappling, but as the sport began to evolve and grow in popularity, he then had an opportunity to fully commit himself to learn from instructors that specialized in Brazilian Jiu Jitsu.
