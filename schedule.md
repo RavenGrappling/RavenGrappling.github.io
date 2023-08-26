@@ -39,7 +39,6 @@ layout: default
           </div>
         </div>
       </div>
-
       <div class="rg-calendar-day">
         <div class="rg-calendar-day-name">
           Tuesday
