@@ -13,7 +13,7 @@ layout: default
     Program description
   </h3>
   <p>
-    This class is designed to provide students, who have a fundamental understanding of the art, with an opportunity to learn advanced techniques and strategies that they can successfully apply against other trained practitioners.
+    This class is designed to provide students, who have a fundamental understanding of the martial art, with an opportunity to learn advanced techniques and strategies that they can successfully apply against other trained practitioners.
   </p>
   <p>
     Acknowledging the complexity of advanced techniques and concepts, the class format will focus on a core position, and its variations, for a 2-week duration. This approach is intended to provide students with the time necessary to gain a deep understanding of what is being taught and also with confidence on how to apply it against resisting opponents.
@@ -41,10 +41,10 @@ layout: default
     Program Goals
   </h3>
   <ul>
-    <li>Enable students to reach high-level proficiency in the art</li>
+    <li>Enable students to reach high-level proficiency in the martial art</li>
     <li>Exploration of advanced techniques and concepts</li>
     <li>Learning about positional strategies and their associated tactics</li>
-    <li>Incorporation of complimentary techniques from other grappling arts</li>
+    <li>Incorporation of complimentary techniques from other grappling martial arts</li>
   </ul>
 
   <h3>
