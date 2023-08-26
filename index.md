@@ -6,8 +6,8 @@ layout: default
 <div class="container-fluid rg-landing-raven">
   <div class="container">
     <div class="rg-welcome">
-      <h1 class="display-3">Welcome to Raven Grappling</h1>
-      <h1 class="display-3">A Modern Brazilian Jiu-Jitsu Studio</h1>
+      <h1 class="display-3">Welcome to Raven Grappling - Brazilian Jiu Jitsu</h1>
+      <h1 class="display-3">A Modern Martial Arts Gym</h1>
       <h3>Coquitlam BC, Canada</h3>
     </div>
 
