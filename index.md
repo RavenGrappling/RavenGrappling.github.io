@@ -17,7 +17,7 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1 class="text-center">What is Brazilian Jiu-Jitsu?</h1>
   <p>
-    Brazilian Jiu-Jitsu (BJJ) is a martial art that teaches both practical self-defence as well as sportive applications. Students will learn how to efficiently overcome larger and stronger opponents, through the use of techniques that allow for control, escapes, and submissions. BJJ is suitable for people from all ages and fitness levels. It is a highly adaptable martial art that can be modified to suit the needs and abilities of individual practitioners.
+    Brazilian Jiu-Jitsu (BJJ) is a martial art that teaches both self-defence and sportive applications. Students will learn how to overcome bigger and stronger opponents, through the use of techniques that allow for control, escapes, and submissions. BJJ is suitable for people of all ages and fitness levels. It is a highly adaptable martial art that can be modified to work for people with different physical abilities.
   </p>
 </div>
 
@@ -29,13 +29,13 @@ layout: default
       Self-Defense
     </dt>
     <dd>
-      BJJ will teach you how to defend yourself against an attacker who is bigger and stronger, using control, leverage and submissions.
+      BJJ will teach you how to defend yourself against people who are bigger and stronger, by using control, leverage and submissions.
     </dd>
     <dt>
       Physical Fitness
     </dt>
     <dd>
-      It provides a full-body workout that will help you improve your strength, endurance, flexibility, and overall health.
+      It is great for providing a full-body workout that will help you improve your strength, endurance, flexibility, and overall health.
     </dd>
     <dt>
       Stress Relief
@@ -53,7 +53,7 @@ layout: default
       Community Building
     </dt>
     <dd>
-      Brazilian Jiu Jitsu is a fun and engaging activity, which can be a great way to meet new people and build new friendships.
+      Brazilian Jiu Jitsu is a fun and engaging activity, which is a great way to meet new people and build new friendships.
     </dd>
   </dl>
 </div>
