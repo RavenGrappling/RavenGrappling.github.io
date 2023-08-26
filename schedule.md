@@ -29,7 +29,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
-            <div>Fundamentals</div>
+            <div>Beginners</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-advanced">
@@ -61,7 +61,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
-            <div>Fundamentals</div>
+            <div>Beginners</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-advanced">
@@ -93,7 +93,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
-            <div>Fundamentals</div>
+            <div>Beginners</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-advanced">
@@ -125,7 +125,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">6 - 7pm</div>
-            <div>Fundamentals</div>
+            <div>Beginners</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-advanced">
@@ -154,7 +154,7 @@ layout: default
         <div class="rg-calendar-day-events">
           <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1200 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">11am - 12pm</div>
-            <div>Fundamentals</div>
+            <div>Beginners</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1200 rg-event-end-1330 rg-event-advanced">
