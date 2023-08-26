@@ -9,7 +9,7 @@ layout: default
       <h1 class="display-3">Raven Grappling - Brazilian Jiu Jitsu</h1>
       <h1 class="display-3">A Modern Martial Arts Gym</h1>
       <h3>Coquitlam BC, Canada</h3>
-    </div>
+  </div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>
 </div>
