@@ -59,11 +59,22 @@ layout: default
   </dl>
 </div>
 
-<div class="container py-5 px-4 p-lg-5 text-center">
+<div class="container py-5 px-4 p-lg-5">
   <h1 class="text-center">We Offer Programs To</h1>
-  <a href="/kids-teens" class="rg-button">Kids / Teens</a>
-  <a href="/fundamentals" class="rg-button">Beginners</a>
-  <a href="/advanced" class="rg-button">Advanced</a>
+  <div class="rg-image-buttons">
+    <a href="/kids-teens">
+      <div class="rg-image-button-kids"></div>
+      <span>Kids / Teens</span>
+    </a>
+    <a href="/beginners">
+      <div class="rg-image-button-beginners"></div>
+      <span>Beginners</span>
+    </a>
+    <a href="/advanced">
+      <div class="rg-image-button-advanced"></div>
+      <span>Advanced</span>
+    </a>
+  </div>
 </div>
 
 <div class="container">

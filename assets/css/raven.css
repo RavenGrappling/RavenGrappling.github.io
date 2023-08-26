@@ -120,6 +120,60 @@ footer a.rg-social:last-child {
   margin: 0;
 }
 
+.rg-image-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-direction: row;
+}
+.rg-image-buttons a {
+  display: block;
+  width: 350px;
+  text-decoration: none;
+  border: 2px solid #e51564;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+}
+.rg-image-buttons a:hover {
+  box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.1);
+}
+.rg-image-buttons a:hover div {
+  opacity: 1;
+}
+.rg-image-buttons div {
+  height: 210px;
+  background-size: cover;
+  opacity: 0.9;
+}
+.rg-image-buttons a span {
+  display: block;
+  font-size: 30px;
+  line-height: 80px;
+  padding: 0 30px;
+  background-color: #e51564;
+  color: #fff;
+  text-align: center;
+}
+.rg-image-buttons .rg-image-button-kids {
+  background-image: url("/assets/images/button_kids.jpg")
+}
+.rg-image-buttons .rg-image-button-beginners {
+  background-image: url("/assets/images/button_beginners.jpg")
+}
+.rg-image-buttons .rg-image-button-advanced {
+  background-image: url("/assets/images/button_advanced.jpg")
+}
+
+@media (max-width: 991.98px) {
+  .rg-image-buttons {
+    flex-direction: column
+  }
+  .rg-image-buttons a {
+    width: 100%;
+  }
+}
+
 /* -- Academy -------------------------------------------------------------- */
 .rg-subconscious-logo-bg {
   background: url('/assets/images/academy/subconscious_logo_bg.png') center 40px no-repeat

@@ -1,11 +1,11 @@
 ---
-title: Raven Grappling - Fundamentals
+title: Raven Grappling - Beginners
 layout: default
 ---
 
 <div class="container py-5 px-4 p-lg-5">
   <h1>
-    Fundamentals
+    Beginners
     <small>Adults (16+)</small>
   </h1>
 
