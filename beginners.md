@@ -16,10 +16,10 @@ layout: default
     The fundamental program has been carefully designed to provide students with a welcoming and nurturing learning environment. Emphasis is always placed on safety, so that all students can benefit from learning at their own pace and comfort level.
   </p>
   <p>
-    To guide students in their learning, the fundamental program follows a set curriculum that introduces beginners to 4 core positions of Brazilian Jiu Jitsu. Students will be immersed in each position for 2 weeks, before transitioning to the next. With this model of teaching, the fundamental program can be fully explored by a student every 2 months. The goal is to make sure that each position can be revisited frequently, so that students can better retain what they learned on previous rotations, both as theory and practice.
+    To guide students in their learning, the fundamental program follows a set curriculum that introduces beginners to 4 core positions of Brazilian Jiu Jitsu. Students will be focused on each position for 2 weeks, before transitioning to the next. With this model of learning, the fundamental program can be fully explored by a student every 2 months. The goal is to make sure that each position can be revisited frequently, so that students can better retain what they learned on previous rotations, both as theory and practice.
   </p>
   <p>
-    When fully committed, and with regular attendance, students can expect to see improvements in their confidence, fitness as well as proficiency in the art.
+    When fully committed, and with regular attendance, students can expect to see improvements in their confidence, fitness as well as proficiency in the martial art.
   </p>
 
   <h3>
@@ -54,10 +54,10 @@ layout: default
     <li>
       Exploration of core fundamental positions:
       <ul>
-        <li>Guard</li>
-        <li>Mount</li>
-        <li>Back-control</li>
         <li>Side-control</li>
+        <li>Back-control</li>
+        <li>Mount</li>
+        <li>Guard</li>        
       </ul>
     </li>  
     <li>Guided positional / live sparring</li>
