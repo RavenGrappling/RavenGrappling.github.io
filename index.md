@@ -44,7 +44,7 @@ layout: default
       BJJ is a great way to release tension after a long day and it can have a positive impact on improving your mental as well as physical well-being.
     </dd>
     <dt>
-      Character Development
+      Personal Development
     </dt>
     <dd>
       Children and adults alike, will find that the practice of BJJ can help them develop a strong sense of discipline, focus, and confidence.
