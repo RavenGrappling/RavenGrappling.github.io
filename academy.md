@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="container py-5 px-4 p-lg-5 rg-subconscious-logo-bg">
-  <h1 class="text-center">About Us</h1>
+  <h1 class="text-center fw-bold">About Us</h1>
 
   <p>
     Raven Grappling is a modern Brazilian Jiu Jitsu school, located in Coquitlam, that prides itself on making this martial art accessible and safe for everyone. We are also proudly associated with Subconscious Jiu Jitsu, under the direct guidance of Professor Nicholas Gregoriades and Professor Brent Burniston, who have become instrumental mentors to the growth of the school as well as its students.
@@ -20,15 +20,15 @@ layout: default
   </p>
 </div>
 
-<div class="container py-5 px-4 p-lg-5 rg-container-bg">
-  <h1 class="text-center">Meet the Team</h1>
+<div class="container py-3 px-4 p-lg-3 rg-container-bg">
+  <h1 class="text-center fw-bold">Meet the Team</h1>
 
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/dmytro.jpg" alt="Dmytro" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
-      <h3>
+      <h3 class="fw-bold">
         Dmytro
       </h3>
       <h4>
@@ -54,7 +54,7 @@ layout: default
       <img src="/assets/images/academy/chris2.jpg" alt="Chris" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
-      <h3>
+      <h3 class="fw-bold">
         Chris
       </h3>
       <h4>
@@ -79,7 +79,7 @@ is skilled in providing constructive feedback in a positive and supportive manne
       <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
-      <h3>
+      <h3 class="fw-bold">
         Yoko
       </h3>
       <h4>
@@ -102,7 +102,7 @@ is skilled in providing constructive feedback in a positive and supportive manne
       <img src="/assets/images/academy/sbjjbrent2.jpg" alt="Brent" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
-      <h3>
+      <h3 class="fw-bold">
         Professor Brent Burniston
       </h3>
       <h4>
@@ -136,7 +136,7 @@ is skilled in providing constructive feedback in a positive and supportive manne
       <img src="/assets/images/academy/sbjjnick2.jpg" alt="Nick" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
-      <h3>
+      <h3 class="fw-bold">
         Professor Nicholas Gregoriades
       </h3>
       <h4>
@@ -160,8 +160,8 @@ is skilled in providing constructive feedback in a positive and supportive manne
   </div>
 </div>
 
-<div class="container py-5 px-4 p-lg-5 ">
-  <h1 class="text-center">Our Space</h1>
+<div class="container py-3 px-4 p-lg-3 ">
+  <h1 class="text-center fw-bold">Our Space</h1>
 
   {% include gallery.html %}
 </div>
