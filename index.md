@@ -79,7 +79,7 @@ layout: default
 <div class="container py-3 px-4 p-lg-3">
   <h1 class="text-center fw-bold">Our Community</h1>
 
-<div class="container py-5 px-4 p-lg-5 ">
+<div class="container py-3 px-4 p-lg-3">
     {% include members.html %}
 </div>
 
