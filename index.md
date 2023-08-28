@@ -15,14 +15,14 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-5">
-  <h1 class="text-center">What is Brazilian Jiu-Jitsu?</h1>
+  <h1 class="text-center fw-bold">What is Brazilian Jiu-Jitsu?</h1>
   <p>
     Brazilian Jiu-Jitsu (BJJ) is a martial art that teaches both self-defence and sportive applications. Students will learn how to overcome bigger and stronger opponents, through the use of techniques that allow for control, escapes, and submissions. BJJ is suitable for people of all ages and fitness levels. It is a highly adaptable martial art that can be modified to work for people with different physical abilities.
   </p>
 </div>
 
 <div class="container py-5 px-4 p-lg-5 rg-container-bg">
-  <h1 class="text-center">The  Benefits of Brazilian Jiu-Jitsu</h1>
+  <h1 class="text-center fw-bold">The  Benefits of Brazilian Jiu-Jitsu</h1>
 
   <dl>
     <dt>
@@ -59,7 +59,7 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-5">
-  <h1 class="text-center">We Offer Programs To</h1>
+  <h1 class="text-center fw-bold">We Offer Programs To</h1>
   <div class="rg-image-buttons">
     <a href="/kids-teens">
       <div class="rg-image-button-kids"></div>
@@ -77,7 +77,7 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-5 ">
-  <h1 class="text-center">Our Community</h1>
+  <h1 class="text-center fw-bold">Our Community</h1>
 
 <div class="container py-5 px-4 p-lg-5 ">
     {% include members.html %}
