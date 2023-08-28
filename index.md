@@ -21,7 +21,7 @@ layout: default
   </p>
 </div>
 
-<div class="container py-5 px-4 p-lg-5 rg-container-bg">
+<div class="container py-3 px-4 p-lg-3 rg-container-bg">
   <h1 class="text-center fw-bold">The  Benefits of Brazilian Jiu-Jitsu</h1>
 
   <dl>
@@ -58,7 +58,7 @@ layout: default
   </dl>
 </div>
 
-<div class="container py-5 px-4 p-lg-5">
+<div class="container py-3 px-4 p-lg-3">
   <h1 class="text-center fw-bold">We Offer Programs To</h1>
   <div class="rg-image-buttons">
     <a href="/kids-teens">
@@ -76,7 +76,7 @@ layout: default
   </div>
 </div>
 
-<div class="container py-5 px-4 p-lg-5 ">
+<div class="container py-3 px-4 p-lg-3">
   <h1 class="text-center fw-bold">Our Community</h1>
 
 <div class="container py-5 px-4 p-lg-5 ">
