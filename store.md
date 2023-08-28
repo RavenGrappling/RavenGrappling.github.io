@@ -36,7 +36,7 @@ layout: default
         Our entry-level Kimonos feature Raven Grappling school logos.
       </p>
       <p>
-        Colours Available: White, Blue, Black
+        Colours Available: White, Blue, Black (white belt included)
       </p>
       <p>
         Please make sure you refer to our sizing chart before placing an order.  
