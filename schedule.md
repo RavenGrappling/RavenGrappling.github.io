@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="container py-5 px-4 p-lg-5">
-  <h1 class="text-center">Class Schedule</h1>
+  <h1 class="text-center fw-bold text-uppercase">Class Schedule</h1>
 
   <div class="rg-calendar">
     <div class="rg-calendar-days">
