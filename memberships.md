@@ -59,7 +59,7 @@ layout: default
     </div>
   </a>
 
-  <h1 class="text-center">Non-Memberships</h1>
+  <h1 class="text-center fw-bold">Non-Memberships</h1>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/xlfv" class="rg-membership-button rg-membership-button--flex">
     <div class="rg-membership-button-label">Flex Pass</div>
