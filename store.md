@@ -29,7 +29,7 @@ layout: default
       </div>
     </div>
     <div class="col-lg">
-      <h3 class="text-center fs-1 fs-bold">
+      <h3 class="text-center fs-1 fw-bold">
         Raven Grappling Gi
       </h3>
       <p>
