@@ -77,11 +77,11 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-5 ">
-    {% include members.html %}
-</div>
+  <h1 class="text-center">Our Community</h1>
 
 <div class="container py-5 px-4 p-lg-5 ">
-  <h1 class="text-center">Our Community</h1>
+    {% include members.html %}
+</div>
 
 <div class="container">
   {% include location-and-contact.html %}
