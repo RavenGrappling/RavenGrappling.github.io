@@ -15,14 +15,14 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-4">
-  <h1 class="text-center fw-bold">What is Brazilian Jiu-Jitsu?</h1>
+  <h1 class="text-center fw-bold">What is Brazilian Jiu Jitsu?</h1>
   <p>
     Brazilian Jiu-Jitsu (BJJ) is a martial art that teaches both self-defence and sportive applications. Students will learn how to overcome bigger and stronger opponents, through the use of techniques that allow for control, escapes, and submissions. BJJ is suitable for people of all ages and fitness levels. It is a highly adaptable martial art that can be modified to work for people with different physical abilities.
   </p>
 </div>
 
 <div class="container py-3 px-4 p-lg-3 rg-container-bg">
-  <h1 class="text-center fw-bold">The  Benefits of Brazilian Jiu-Jitsu</h1>
+  <h1 class="text-center fw-bold">The  Benefits of Brazilian Jiu Jitsu</h1>
 
   <dl>
     <dt>
