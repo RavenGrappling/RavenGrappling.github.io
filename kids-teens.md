@@ -64,8 +64,5 @@ layout: default
     </li>
     <li>Guided and supervised positional / live sparring</li>
   </ul>
-</div>
-
-<div class="container py-5 px-4 p-lg-5">
   <a href="/memberships" class="rg-button">Register</a>
 </div>
