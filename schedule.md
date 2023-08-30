@@ -141,8 +141,8 @@ layout: default
           Friday
         </div>
         <div class="rg-calendar-day-events">
-          <div class="rg-calendar-day-event rg-event-start-900 rg-event-end-2100 rg-event-off">
-            No Classes
+          <div class="rg-calendar-day-event fw-bold rg-event-start-900 rg-event-end-2100 rg-event-off">
+            NO CLASSES
           </div>
         </div>
       </div>
