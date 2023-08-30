@@ -151,7 +151,8 @@ layout: default
         <div class="rg-calendar-day-name">
           Saturday
         </div>
-        <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1100 rg-event-teens">
+        <div class="rg-calendar-day-events">
+          <div class="rg-calender-day-event rg-event-start-1000 rg-event-end-1100 rg-event-teens">
             <div class="rg-calendar-day-event-time">10 - 11am</div>
             <div>Kids/Teens (Mixed)</div>
             <div>Gi</div>
