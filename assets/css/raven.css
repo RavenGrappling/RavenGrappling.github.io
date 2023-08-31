@@ -292,6 +292,10 @@ footer a.rg-social:last-child {
   background-color: #f5f5f5;
   color: #212529;
 }
+.rg-event-kids-teens   { 
+  background-color: #697da2; 
+  background-image: linear-gradient(to bottom right, #9d2273, #697da2);
+}
 
 .rg-event-start-900  { grid-row-start: 1; }
 .rg-event-start-930  { grid-row-start: 2; }
