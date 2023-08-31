@@ -154,7 +154,7 @@ layout: default
         <div class="rg-calendar-day-events">
           <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1100 rg-event-kids-teens">
             <div class="rg-calendar-day-event-time">10am - 11am</div>
-            <div>Kids and Teens</div>
+            <div>Kids & Teens</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1200 rg-event-fundamentals">
