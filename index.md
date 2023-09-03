@@ -26,7 +26,7 @@ layout: default
 
   <dl>
     <dt>
-      Self-Defense
+      Self-Defence
     </dt>
     <dd>
       BJJ will teach you how to defend yourself against people who are bigger and stronger, by using control, leverage and submissions.
