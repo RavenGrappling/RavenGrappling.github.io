@@ -47,7 +47,7 @@ layout: default
         </tr>
         <tr>
           <th>Saturday</th>
-          <td>11am - 1:30pm</td>
+          <td>10am - 1:30pm</td>
         </tr>
         <tr>
           <th>Sunday</th>
