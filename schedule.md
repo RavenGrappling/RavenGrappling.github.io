@@ -19,12 +19,12 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-11)</div>
+            <div>Kids (6-10)</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
-            <div>Teens (12-15)</div>
+            <div>Juniors/Teens (11-15)</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
@@ -51,12 +51,12 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-11)</div>
+            <div>Kids (6-10)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
-            <div>Teens (12-15)</div>
+            <div>Juniors/Teens (11-15)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
@@ -83,12 +83,12 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-11)</div>
+            <div>Kids (6-10)</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
-            <div>Teens (12-15)</div>
+            <div>Juniors/Teens (11-15)</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
@@ -115,12 +115,12 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-11)</div>
+            <div>Kids (6-10)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
-            <div>Teens (12-15)</div>
+            <div>Juniors/Teens (12-15)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
@@ -154,7 +154,7 @@ layout: default
         <div class="rg-calendar-day-events">
           <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1100 rg-event-kids-teens">
             <div class="rg-calendar-day-event-time">10am - 11am</div>
-            <div>Kids & Teens</div>
+            <div>Kids & Juniors/Teens</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1200 rg-event-fundamentals">
