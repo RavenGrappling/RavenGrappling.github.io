@@ -6,16 +6,16 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>
     Kids
-    <small>(6-11 years)</small>
-    & Teens
-    <small>(12-15 years)</small>
+    <small>(6-10 years)</small>
+    & Juniors/Teens
+    <small>(11-15 years)</small>
   </h1>
 
   <h3>
     Program description
   </h3>
   <p>
-    The kids and teens classes are designed specifically for our young practitioners, and it will be their first introduction to Brazilian Jiu Jitsu at our school. They will learn how a grappling-focused martial art can give them the tools to prevent bullying as well as how to safely deescalate an aggressor, through the use of a self-defence oriented mindset and techniques.
+    The kids and juniors/teens classes are designed specifically for our young practitioners, and it will be their first introduction to Brazilian Jiu Jitsu at our school. They will learn how a grappling-focused martial art can give them the tools to prevent bullying as well as how to safely deescalate an aggressor, through the use of a self-defence oriented mindset and techniques.
   </p>
   <p>
     In each class, the goal will be focused on making sure that your children are kept on task and engaged on their learning for the day. Our instructors' main priority is to make sure that the children are enjoying their time, while building their confidence through successful experiences.
