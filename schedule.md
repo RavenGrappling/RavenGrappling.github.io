@@ -120,7 +120,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
-            <div>Juniors/Teens (12-15)</div>
+            <div>Juniors/Teens (11-15)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1800 rg-event-end-1900 rg-event-fundamentals">
