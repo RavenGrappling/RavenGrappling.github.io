@@ -14,6 +14,7 @@ layout: default
     <div class="rg-welcome">
       <h1 class="display-5 fw-bold"> Austin Heights, Coquitlam</h1>
       <h1 class="fs-5 fw-bold">(5 min from Lougheed Town Centre)</h1>
+    </div>  
   </div>  
 </div>
 
