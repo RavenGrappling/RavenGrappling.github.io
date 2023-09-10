@@ -11,8 +11,9 @@ layout: default
   </div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>
-    <div class="display-5 fw-bold">Located in Austin Heights, Coquitlam</div>
-    <div class="display-6 fw-bold">(5min from Lougheed Town Centre)</div>
+  <div class="container">
+    <h1 class="display-5 fw-bold">Located in Austin Heights, Coquitlam</h1>
+    <h1 class="display-6 fw-bold">(5min from Lougheed Town Centre)</h1>
 </div>
 
 <div class="container py-5 px-4 p-lg-4">
