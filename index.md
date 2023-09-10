@@ -11,7 +11,7 @@ layout: default
   </div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>
-    <div class="display-7 fw-bold">Located in Austin Heights (5min from Lougheed Town Centre)</div>
+    <div class="display-5 fw-bold">Located in Austin Heights (5min from Lougheed Town Centre)</div>
 </div>
 
 <div class="container py-5 px-4 p-lg-4">
