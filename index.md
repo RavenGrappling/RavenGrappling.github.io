@@ -6,7 +6,7 @@ layout: default
 <div class="container-fluid rg-landing-raven">
   <div class="container">
     <div class="rg-welcome">
-      <h1 class="display-3 fw-bold">Providing a Modern Martial Arts Experience</h1>
+      <h1 class="display-4 fw-bold">Providing a Modern Martial Arts Experience</h1>
   </div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>
