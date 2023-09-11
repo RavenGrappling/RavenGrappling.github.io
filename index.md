@@ -7,7 +7,7 @@ layout: default
   <div class="container">
     <div class="rg-welcome">
       <h1 class="display-4 fw-bold">Providing a Modern Martial Arts Experience</h1>
-  </div>
+    </div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>
   <div class="container py-5 px-4 p-lg-4">
