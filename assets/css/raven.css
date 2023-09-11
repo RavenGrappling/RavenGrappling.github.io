@@ -110,15 +110,10 @@ footer a.rg-social:last-child {
   min-height: 600px;
   text-align: center;
   padding-top: 50px;
-
 }
 .rg-welcome {
   text-shadow: 2px 2px #0c1e2a;
 }
-.rg-welcome h1 {
-  margin: 0;
-}
-
 .rg-image-buttons {
   display: flex;
   justify-content: center;
