@@ -5,7 +5,7 @@ layout: default
 
 <div class="container-fluid rg-landing-raven">
   <div class="container">
-    <h1 class="display-4 fw-bold rg-welcome">Providing a Modern Martial Arts Experience</h1>
+    <h1 class="display-5 fw-bold rg-welcome">Raven Grappling: Providing A Modern Martial Arts Experience</h1>
     <h1 class="display-5 fw-bold mb-1 rg-welcome"> Austin Heights, Coquitlam</h1>
     <div class="fs-5 fw-bold mb-5 rg-welcome">(5 min from Lougheed Town Centre)</div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
