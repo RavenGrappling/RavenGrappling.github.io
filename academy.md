@@ -10,7 +10,7 @@ layout: default
     Raven Grappling is a modern Brazilian Jiu Jitsu school, located in Coquitlam, that prides itself on making this martial art accessible and safe for everyone. We are also proudly associated with Subconscious Jiu Jitsu, under the direct guidance of Professor Nicholas Gregoriades and Professor Brent Burniston, who have become instrumental mentors to the growth of the school as well as its students.
   </p>
   <p>
-    At Raven Grappling, students can expect a relaxed yet professional training environment. We take great pride in preparing daily lessons and curriculum to ensure that individual growth is always progressing. Our goal is to simplify the complexity of this martial art, so that students have a clear path in terms of their individual skill development.
+    At Raven Grappling, students can expect a relaxed yet professional training environment. We take great care in preparing daily lessons and curriculum to ensure that individual growth is always progressing. Our goal is to simplify the complexity of this martial art, so that students have a clear path in terms of their individual skill development.
   </p>
   <p>
     Also, as much as we recognize the value of a competitive environment, we equally preserve a training space where students can be as casual as they like. Because of this, students can always rely on our ongoing determination to keep them safe, regardless of their skill level or ability.
@@ -41,7 +41,7 @@ layout: default
         For the first several years, Dmytro was primarily focused on No-Gi grappling, but as the sport began to evolve and grow in popularity, he then had an opportunity to fully commit himself to learn from instructors that specialized in Brazilian Jiu Jitsu.
       </p>
       <p>
-        Following the opening of Raven Grappling, Dmytro continues stive to better himself as an instructor, practitioner and owner, under the direct guidance of Professor Brent Burniston and Professor Nicholas Gregoriades of Subconscious Jiu Jitsu Association, whose HQ is located in California, US. 
+        Following the opening of Raven Grappling, Dmytro continues strive to better himself as an instructor, practitioner and owner, under the direct guidance of Professor Brent Burniston and Professor Nicholas Gregoriades of Subconscious Jiu Jitsu Association, whose HQ is located in California, US. 
       </p>
       <p>
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
