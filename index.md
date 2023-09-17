@@ -19,7 +19,7 @@ layout: default
 </div>
 
 <div class="container py-3 px-4 p-lg-3 rg-container-bg">
-  <h1 class="text-center fw-bold">The  Benefits of Brazilian Jiu Jitsu</h1>
+  <h1 class="text-center fw-bold">Benefits of Brazilian Jiu Jitsu</h1>
 
   <dl>
     <dt>
