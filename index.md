@@ -19,7 +19,7 @@ layout: default
 </div>
 
 <div class="container py-3 px-4 p-lg-3 rg-container-bg">
-  <h1 class="text-center fw-bold">Benefits of Brazilian Jiu Jitsu</h1>
+  <h1 class="text-center fw-bold">Why Brazilian Jiu Jitsu?</h1>
 
   <dl>
     <dt>
@@ -32,7 +32,7 @@ layout: default
       Physical Fitness
     </dt>
     <dd>
-      It is great for providing a full-body workout that will help you improve your strength, endurance, flexibility, and overall health.
+      It's great for providing you with a full-body workout and it will help you improve your strength, endurance, flexibility, and overall health.
     </dd>
     <dt>
       Stress Relief
