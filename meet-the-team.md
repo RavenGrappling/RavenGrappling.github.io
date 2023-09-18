@@ -1,6 +1,9 @@
-<div class="container py-3 px-4 p-lg-3 rg-container-bg">
-  <h1 class="text-center fw-bold">Meet the Team</h1>
+---
+title: Raven Grappling - Meet The Team
+layout: default
+---
 
+<div class="container py-3 px-4 p-lg-3 rg-container-bg">
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/dmytro.jpg" alt="Dmytro" class="img-fluid mb-5">
