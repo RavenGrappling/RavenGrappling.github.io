@@ -85,20 +85,7 @@
       </div>
     </div>
   </div>
-    </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-        Do I need previousmartial arts experience?
-      </button>
-    </h2>
-    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-        Fill in Text Here
-      </div>
-    </div>
-  </div>
-    </div>
+     </div>
    <div class="accordion-item">
      <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
