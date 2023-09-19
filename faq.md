@@ -1,3 +1,8 @@
+<div class="container py-5 px-4 p-lg-5 fw-bold">
+  <h1>
+    About BJJ
+  </h1>
+
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
@@ -82,6 +87,10 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
+  <div class="container py-5 px-4 p-lg-5 fw-bold">
+  <h1>
+    Safety
+  </h1>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
@@ -118,6 +127,10 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
+  <div class="container py-5 px-4 p-lg-5 fw-bold">
+  <h1>
+    Kids/Teens
+  </h1>  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingNine">
       <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
@@ -159,6 +172,10 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
+  <div class="container py-5 px-4 p-lg-5 fw-bold">
+  <h1>
+    Promotions/Grading
+  </h1>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwelve">
       <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
@@ -183,6 +200,10 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
+  <div class="container py-5 px-4 p-lg-5 fw-bold">
+  <h1>
+    Memberships
+  </h1>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFourteen">
       <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
