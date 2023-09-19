@@ -1,5 +1,5 @@
-<div class="container py-5 px-4 p-lg-5 fw-bold">
-  <h1>
+<div class="container py-5 px-4 p-lg-5">
+  <h1 class="fw-bold">
     About BJJ
   </h1>
 
@@ -87,8 +87,8 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-<div class="container py-5 px-4 p-lg-5 fw-bold">
-  <h1>
+<div class="container py-5 px-4 p-lg-5">
+  <h1 class="fw-bold">
     Safety
   </h1>
   <div class="accordion-item">
@@ -127,8 +127,8 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-<div class="container py-5 px-4 p-lg-5 fw-bold">
-  <h1>
+<div class="container py-5 px-4 p-lg-5">
+  <h1 class="fw-bold">
     Kids/Teens
   </h1>  
   <div class="accordion-item">
@@ -172,8 +172,8 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-<div class="container py-5 px-4 p-lg-5 fw-bold">
-  <h1>
+<div class="container py-5 px-4 p-lg-5">
+  <h1 class="fw-bold">
     Promotions/Grading
   </h1>
   <div class="accordion-item">
@@ -200,8 +200,8 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-<div class="container py-5 px-4 p-lg-5 fw-bold">
-  <h1>
+<div class="container py-5 px-4 p-lg-5">
+  <h1 class="fw-bold">
     Memberships
   </h1>
   <div class="accordion-item">
