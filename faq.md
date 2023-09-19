@@ -87,7 +87,7 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-  <div class="container py-5 px-4 p-lg-5 fw-bold">
+<div class="container py-5 px-4 p-lg-5 fw-bold">
   <h1>
     Safety
   </h1>
@@ -127,7 +127,7 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-  <div class="container py-5 px-4 p-lg-5 fw-bold">
+<div class="container py-5 px-4 p-lg-5 fw-bold">
   <h1>
     Kids/Teens
   </h1>  
@@ -172,7 +172,7 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-  <div class="container py-5 px-4 p-lg-5 fw-bold">
+<div class="container py-5 px-4 p-lg-5 fw-bold">
   <h1>
     Promotions/Grading
   </h1>
@@ -200,7 +200,7 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
       </div>
     </div>
   </div>
-  <div class="container py-5 px-4 p-lg-5 fw-bold">
+<div class="container py-5 px-4 p-lg-5 fw-bold">
   <h1>
     Memberships
   </h1>
