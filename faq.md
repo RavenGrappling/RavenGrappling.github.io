@@ -117,7 +117,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        We begin teaching kids as early as 6 years old. We also have two seperate programs: kids (6-10) & youth/teens (11 -15).
+        At our school, we begin teaching kids as early as 6 years old. We also have two seperate classes/programs: kids (6-10) & youth/teens (11 -15).
       </div>
     </div>
   </div>
