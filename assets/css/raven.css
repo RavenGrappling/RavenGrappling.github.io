@@ -28,6 +28,7 @@ button.navbar-toggler {
 }
 h1 {
   margin-bottom: 30px;
+  font-weight: bold;
 }
 h1 small {
   font-size: 18px;
