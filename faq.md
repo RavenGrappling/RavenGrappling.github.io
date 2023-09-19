@@ -39,7 +39,8 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Gi or commonly referred to as Kimono, is when you are wearing the traditional uniform, which consists of jacket, pants and a belt. No-Gi is when practitioners wear a rashguard/t-shirt and shorts.
+        Gi or commonly referred to as Kimono, is when you are wearing the traditional uniform, which consists of jacket, pants and a ranked belt. 
+        No-Gi is when a practitioner wears a rashguard/t-shirt and shorts, without a belt showing their rank.
         When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and they way they are performed can differ from Gi and No-Gi.
     </div>
    </div>
