@@ -2,7 +2,6 @@
   <h1 class="fw-bold">
     About BJJ
   </h1>
-
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
