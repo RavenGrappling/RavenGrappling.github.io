@@ -52,7 +52,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Most of our classes are 1 hour long. The only class that is 1.5 hours long, is for students in the Advanced program.
+        Most of our classes are 1 hour long. The only class that is 1.5 hours long, is the Advanced program.
       </div>
     </div>
   </div>
