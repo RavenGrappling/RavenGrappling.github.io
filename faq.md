@@ -7,11 +7,15 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
-        
+        <p>
+          BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
+        </p>
+        <p>
 Unlike other martial arts, BJJ does not encourage the escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself safe while controlling the situation.
-
+        </p>
+        <p>
 Because of this mindset, BJJ is a great martial art to involve your children, since it will teach them to become confident in themselves and keep the bullies away.
+        </p>
       </div>
     </div>
   </div>
@@ -23,11 +27,14 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-       The adults ranks are reserved for ages (16+): White --> Blue --> Purple --> Brown --> Black. 
-
-The kids/teens ranks are reserved for ages (4-15) and the primary colours are: White --> Grey -->  Yellow --> Orange --> Green
-
-Each belt colour also generally requires 4 stripes to progress to the next one.
+        <p>
+         The adults ranks are reserved for ages (16+): White --> Blue --> Purple --> Brown --> Black.
+        </p>
+        <p>
+         The kids/teens ranks are reserved for ages (4-15) and the primary colours are: White --> Grey -->  Yellow --> Orange --> Green</p>
+        <p>
+         Each belt colour also generally requires 4 stripes to progress to the next one.
+        </p>
       </div>
     </div>
   </div>
@@ -39,9 +46,15 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Gi or commonly referred to as Kimono, is when you are wearing the traditional uniform, which consists of jacket, pants and a ranked belt. 
-        No-Gi is when a practitioner wears a rashguard/t-shirt and shorts, without a belt showing their rank.
-        When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and they way they are performed can differ from Gi and No-Gi.
+        <p>
+          Gi or commonly referred to as Kimono, is when you are wearing the traditional uniform, which consists of jacket, pants and a ranked belt.
+        </p>
+        <p>
+          No-Gi is when a practitioner wears a rashguard/t-shirt and shorts, without a belt showing their rank.
+        </p>
+        <p>
+          When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and they way they are performed can differ from Gi and No-Gi.
+        </p>
     </div>
    </div>
    <div class="accordion-item">
