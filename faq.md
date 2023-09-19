@@ -7,7 +7,9 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents. 
+Also, unlike other martial arts, you learn how to use techniques to control your opponent and BJJ does not encourage escalation of force/violance, unless absolutely necessary.
+Because of this approach, BJJ is very safe and accessable to learn for people of all ages and fitness levels. It is also great for children to learn in order to become confident in themselves and keep bullies away.
       </div>
     </div>
   </div>
@@ -19,7 +21,11 @@
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+       The adults ranks are reserved for ages (16+): White --> Blue --> Purple --> Brown --> Black. 
+
+The kids/teens ranks are reserved for ages (4-15) and the primary colours are: White --> Grey -->  Yellow --> Orange --> Green
+
+Each belt colour also generally requires 4 stripes to progress to the next one.
       </div>
     </div>
   </div>
@@ -31,22 +37,10 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        Gi or commonly referred to as Kimono, is when you are wearing the traditional uniform, which consists of jacket, pants and a belt. No-Gi is when practitioners wear a rashguard/t-shirt and shorts.
+        When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and they way they are performed can differ from Gi and No-Gi.
     </div>
-  </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingFour">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-        Do you teach self-defence techniques?
-      </button>
-    </h2>
-    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-        Fill in Text Here
-      </div>
-    </div>
-  </div>
-  </div>
+   </div>
    <div class="accordion-item">
      <h2 class="accordion-header" id="headingFive">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
@@ -55,7 +49,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        Most of our classes are 1 hour long. The only class that is 1.5 hours long, is for students in the Advanced program.
       </div>
     </div>
   </div>
@@ -68,7 +62,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        No. As much as we value competition, we understand that most of our students are doing BJJ as a fun and enjoyable activity. However, if a student is interested in testing thier skills through competition, we will help them prepapre.
       </div>
     </div>
   </div>
@@ -81,7 +75,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        No. All of our programs are designed to help you ease in into every excercise. We will never force you to do anything that you are not comfortable with. Our goal is to make you stronger and healthier, with each class that you attend.
       </div>
     </div>
   </div>
@@ -94,7 +88,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        Absolutely not! BJJ is commonly practiced by people all over the world that are 65+. It can feel intimidating trying something new, but we promise to make you feel welcome.
       </div>
     </div>
   </div>
@@ -107,7 +101,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        When doing any physical activity, there is always a chance to that you might get injured. At our gym, we make your safety our top priority, because we want you to keep training and getting better. 
       </div>
     </div>
   </div>
@@ -120,7 +114,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        We begin teaching kids as early as 6 years old. We also have two seperate programs: kids (6-10) & youth/teens (11 -15).
       </div>
     </div>
   </div>
@@ -133,7 +127,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        Absolutely! We always structure class activities that prioritize safety and maximize learning.
       </div>
     </div>
   </div>
@@ -146,7 +140,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        We love having parents around, and encourage it. All we ask is that you leave the coaching to us, so they don't get distacted.
       </div>
     </div>
   </div>
@@ -154,12 +148,12 @@
    <div class="accordion-item">
      <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-        What criteria do you use to promote at your school?
+        How do you decide when someone is ready for a promotion?
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        We promote adults and kids based on their knowledge and performace of what is being taught, never on just attendance.
       </div>
     </div>
   </div>
@@ -172,7 +166,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        Absolutely! You worked hard and put in the time. Whatever rank you are, we will honour it and welcome it.
       </div>
     </div>
   </div>
@@ -185,7 +179,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        No. We strongly believe in having transparent and flexible options. Life can be unpredictable and we undertasnd that. We allow members to pause, cancel and modify thier memberships.
       </div>
     </div>
   </div>
@@ -198,7 +192,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        Yes we do. Family members, Siblings, First Responders & Health Care Providers. Reach out to us for more details.
       </div>
     </div>
   </div>
@@ -211,7 +205,7 @@
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Fill in Text Here
+        No. Eventhough we sell our gym branded attire, you are welcome to purchase your own elsewhere.
       </div>
     </div>
   </div>
