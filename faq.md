@@ -130,7 +130,12 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-       At our school, we begin teaching kids as early as 6 years old. We also have two separate classes/programs: kids (6-10) & youth/teens (11 -15).
+        <p>
+        At our school, we begin teaching kids as early as 6 years old.
+        </p> 
+        <p> 
+        We also offer two separate classes/programs: kids (6-10) & youth/teens (11 -15).
+        </p>
       </div>
     </div>
   </div>
