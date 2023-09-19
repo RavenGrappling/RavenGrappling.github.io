@@ -104,7 +104,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        When doing any physical activity, there is always a chance to that you might get injured. At our gym, we make your safety our top priority, because we want you to keep training and getting better. 
+        When doing any physical activity, there is always a chance that you might get injured. At our gym, we make your safety our top priority, because we want you to keep training and getting better. 
       </div>
     </div>
   </div>
