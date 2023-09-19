@@ -11,7 +11,7 @@
         
 Unlike other martial arts, BJJ does not encourage the escalation of force/violance, unless it is absolutely necessary. Instead, you learn how to keep yourself safe while controling the sitution.
 
-Because of this mindset, BJJ is also a great martial art to involve your children, since it will teach them to become confident in themselves and keep the bullies away.
+Because of this mindset, BJJ is a great martial art to involve your children, since it will teach them to become confident in themselves and keep the bullies away.
       </div>
     </div>
   </div>
