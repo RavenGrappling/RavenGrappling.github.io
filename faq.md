@@ -55,11 +55,11 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
         <p>
           When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and the way they are performed can differ from Gi and No-Gi.
         </p>
+      </div>
     </div>
-   </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingFive">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         How long are you classes?
       </button>
     </h2>
@@ -70,9 +70,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
   </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         As a student, do I have to compete at tournaments?
       </button>
     </h2>
@@ -83,9 +83,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Do I have to be physically fit to participate?
       </button>
     </h2>
@@ -96,9 +96,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
      </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         I am # old, is it too late for me to start?
       </button>
     </h2>
@@ -109,9 +109,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         I'm worried about injuries, is this a good fit for me?
       </button>
     </h2>
@@ -122,9 +122,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         How old does my child need to be to start?
       </button>
     </h2>
@@ -140,9 +140,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Is it safe for my child to learn BJJ?
       </button>
     </h2>
@@ -153,9 +153,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Can I watch my kid/kids during thier classes?
       </button>
     </h2>
@@ -166,9 +166,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         How do you decide when someone is ready for a promotion?
       </button>
     </h2>
@@ -179,9 +179,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         I already have a rank in BJJ, will you recognize it?
       </button>
     </h2>
@@ -192,9 +192,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Do you have monthly/yearly contract?
       </button>
     </h2>
@@ -205,9 +205,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Do you offer any types of discounts?
       </button>
     </h2>
@@ -218,9 +218,9 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     </div>
   </div>
     </div>
-   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Do I have to buy/wear your gym uniforms?
       </button>
     </h2>
