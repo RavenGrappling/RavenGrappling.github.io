@@ -7,9 +7,11 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents. 
-Also, unlike other martial arts, you learn how to use techniques to control your opponent and BJJ does not encourage escalation of force/violance, unless absolutely necessary.
-Because of this approach, BJJ is very safe and accessable to learn for people of all ages and fitness levels. It is also great for children to learn in order to become confident in themselves and keep bullies away.
+        BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that acctualy work! 
+        
+Unlike other martial arts, BJJ does not encourage the escalation of force/violance, unless it is absolutely necessary. Instead, you learn how to keep yourself safe while controling the sitution.
+
+Because of this mindset, BJJ is also a great martial art to involve your children, since it will teach them to become confident in themselves and keep the bullies away.
       </div>
     </div>
   </div>
