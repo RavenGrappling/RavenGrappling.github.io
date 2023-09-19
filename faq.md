@@ -7,9 +7,9 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that acctualy work! 
+        BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
         
-Unlike other martial arts, BJJ does not encourage the escalation of force/violance, unless it is absolutely necessary. Instead, you learn how to keep yourself safe while controling the sitution.
+Unlike other martial arts, BJJ does not encourage the escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself safe while controlling the situation.
 
 Because of this mindset, BJJ is a great martial art to involve your children, since it will teach them to become confident in themselves and keep the bullies away.
       </div>
@@ -65,7 +65,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        No. As much as we value competition, we understand that most of our students are doing BJJ as a fun and enjoyable activity. However, if a student is interested in testing thier skills through competition, we will help them prepapre.
+        No. As much as we value competition, we understand that most of our students are doing BJJ as a fun and enjoyable activity. However, if a student is interested in testing their skills through competition, we will help them prepare.
       </div>
     </div>
   </div>
@@ -78,7 +78,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        No. All of our programs are designed to help you ease in into every excercise. We will never force you to do anything that you are not comfortable with. Our goal is to make you stronger and healthier, with each class that you attend.
+        No. All of our programs are designed to help you ease in into every exercise. We will never force you to do anything that you are not comfortable with. Our goal is to make you stronger and healthier, with each class that you attend.
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        At our school, we begin teaching kids as early as 6 years old. We also have two seperate classes/programs: kids (6-10) & youth/teens (11 -15).
+       At our school, we begin teaching kids as early as 6 years old. We also have two separate classes/programs: kids (6-10) & youth/teens (11 -15).
       </div>
     </div>
   </div>
@@ -143,7 +143,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        We love having parents around, and encourage it. All we ask is that you leave the coaching to us, so they don't get distacted.
+        We love having parents around, and encourage it. All we ask is that you leave the coaching to us, so they don't get distracted.
       </div>
     </div>
   </div>
@@ -156,7 +156,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        We promote adults and kids based on their knowledge and performace of what is being taught, never on just attendance.
+        We promote adults and kids based on their knowledge and performance of what is being taught, never on just attendance.
       </div>
     </div>
   </div>
@@ -182,7 +182,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        No. We strongly believe in having transparent and flexible options. Life can be unpredictable and we undertasnd that. We allow members to pause, cancel and modify thier memberships.
+        No. We strongly believe in having transparent and flexible options. Life can be unpredictable and we understand that. We allow members to pause, cancel and modify their memberships.
       </div>
     </div>
   </div>
@@ -208,7 +208,7 @@ Each belt colour also generally requires 4 stripes to progress to the next one.
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        No. Eventhough we sell our gym branded attire, you are welcome to purchase your own elsewhere.
+        No. Even though we sell our gym branded attire, you are welcome to purchase your own elsewhere.
       </div>
     </div>
   </div>
