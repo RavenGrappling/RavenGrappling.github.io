@@ -33,7 +33,7 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
         <p>
          The kids/teens ranks are reserved for ages (4-15) and the primary colours are: White --> Grey -->  Yellow --> Orange --> Green</p>
         <p>
-         Each belt colour also generally requires 4 stripes to progress to the next one.
+         Also, each belt colour generally requires 4 stripes to progress to the next one.
         </p>
       </div>
     </div>
@@ -47,13 +47,13 @@ Because of this mindset, BJJ is a great martial art to involve your children, si
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <p>
-          Gi or commonly referred to as Kimono, is when you are wearing the traditional uniform, which consists of jacket, pants and a ranked belt.
+          Gi or commonly referred to as Kimono, is when you wear the traditional uniform, which consists of a jacket, pants and a ranked belt.
         </p>
         <p>
           No-Gi is when a practitioner wears a rashguard/t-shirt and shorts, without a belt showing their rank.
         </p>
         <p>
-          When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and they way they are performed can differ from Gi and No-Gi.
+          When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and the way they are performed can differ from Gi and No-Gi.
         </p>
     </div>
    </div>
