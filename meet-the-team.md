@@ -3,7 +3,9 @@ title: Raven Grappling - Meet The Team
 layout: default
 ---
 
-<div class="container py-3 px-4 p-lg-3 rg-container-bg">
+<div class="container py-5 px-4 p-lg-5">
+  <h1>Meet the Team</h1>
+
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/dmytro.jpg" alt="Dmytro" class="img-fluid mb-5">

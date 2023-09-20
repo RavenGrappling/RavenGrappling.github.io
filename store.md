@@ -5,7 +5,7 @@ layout: default
 
 <div class="container py-5 px-4 p-lg-5">
   <div class="row">
-    <div class="col-lg">
+    <div class="col-lg mb-5">
       <div id="rg-gallery" class="carousel slide">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -29,9 +29,9 @@ layout: default
       </div>
     </div>
     <div class="col-lg">
-      <h3 class="text-center fs-1 fw-bold">
+      <h1 class="text-center">
         Raven Grappling Gi
-      </h3>
+      </h1>
       <p>
         Our entry-level Kimonos feature Raven Grappling school logos.
       </p>

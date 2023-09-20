@@ -74,12 +74,11 @@ layout: default
 </div>
 
 <div class="container py-3 px-4 p-lg-3 rg-container-bg">
-  <h1 class="text-center fw-bold">Our Community</h1>
+  <h1 class="text-center">
+    Our Community
+  </h1>
 
-<div class="container py-3 px-4 p-lg-3">
-    {% include members.html %}
-</div>
+  {% include members.html %}
 
-<div class="container">
   {% include location-and-contact.html %}
 </div>
