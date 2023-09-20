@@ -18,14 +18,11 @@ layout: default
       <div id="faq-about-body-1" class="accordion-collapse collapse" aria-labelledby="faq-about-header-1" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            BJJ is one of the best martial arts to learn for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
+            BJJ is one of the best martial arts for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
           </p>
           <p>
-            Unlike other martial arts, BJJ does not encourage the escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself 
+            Unlike other martial arts, BJJ does not encourage escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself 
             safe while controlling the situation.
-          </p>
-          <p>
-            Because of this mindset, BJJ is a great martial art to involve your children, since it will teach them to become confident in themselves and keep the bullies away.
           </p>
         </div>
       </div>
@@ -40,13 +37,16 @@ layout: default
       <div id="faq-about-body-2" class="accordion-collapse collapse" aria-labelledby="faq-about-header-2" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            The adults ranks are reserved for ages (16+): White -> Blue -> Purple -> Brown -> Black.
+            The adults ranks are (16+): White -> Blue -> Purple -> Brown -> Black.
           </p>
           <p>
-            The kids/teens ranks are reserved for ages (4-15) and the primary colours are: White -> Grey -> Yellow -> Orange -> Green
+            The kids/teens ranks (4-15), and their primary colours are: White -> Grey -> Yellow -> Orange -> Green
           </p>
           <p>
-            Also, each belt colour generally requires 4 stripes to progress to the next one.
+            Additionally, each belt colour generally requires 4 stripes to progress to the next one.
+          </p>
+          <p>
+            The time you spend on each belt will primarily depend on your level commitment and understanding of the martial art.
           </p>
         </div>
       </div>
@@ -82,7 +82,7 @@ layout: default
       <div id="faq-about-body-4" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            Most of our classes are 1 hour long. The only class that is 1.5 hours long, is the Advanced program.
+            Our classes are generally 1 hour long. The only class that is 1.5 hours long, is the Advanced program.
           </p>
         </div>
       </div>
@@ -119,9 +119,9 @@ layout: default
       <div id="faq-safety-body-1" class="accordion-collapse collapse" aria-labelledby="faq-safety-header-1" data-bs-parent="#faq-safety">
         <div class="accordion-body">
           <p>
-            No. All of our programs are designed to help you ease in into every exercise. 
+            No. All of our programs are designed to help you ease into every exercise. 
             We will never force you to do anything that you are not comfortable with. 
-            Our goal is to make you stronger and healthier, with each class that you attend.
+            Our goal is to make you stronger and healthier, with every class that you attend.
           </p>
         </div>
       </div>
@@ -130,13 +130,13 @@ layout: default
     <div class="accordion-item">
       <h2 class="accordion-header" id="faq-safety-header-2">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-safety-body-2" aria-expanded="false" aria-controls="faq-safety-body-2">
-          I am # old, is it too late for me to start?
+          I am # of years old, is it too late for me to start?
         </button>
       </h2>
       <div id="faq-safety-body-2" class="accordion-collapse collapse" aria-labelledby="faq-safety-header-2" data-bs-parent="#faq-safety">
         <div class="accordion-body">
           <p>
-            Absolutely not! BJJ is commonly practiced by people all over the world that are 65+. It can feel intimidating trying something new, but we promise to make you feel welcome.
+            Absolutely not! BJJ is commonly practiced by people all over the world that are 65+. At first, it can feel intimidating trying something new, but we promise to make you feel welcome.
           </p>
         </div>
       </div>
@@ -176,7 +176,7 @@ layout: default
             At our school, we begin teaching kids as early as 6 years old.
           </p>
           <p>
-            We also offer two separate classes/programs: kids (6-10) & youth/teens (11 -15).
+            We also offer two separate classes/programs: Kids (6-10) & Youth/Teens (11 -15).
           </p>
         </div>
       </div>
@@ -191,7 +191,7 @@ layout: default
       <div id="faq-kids-body-2" class="accordion-collapse collapse" aria-labelledby="faq-kids-header-2" data-bs-parent="#faq-kids">
         <div class="accordion-body">
           <p>
-            Absolutely! We always structure class activities that prioritize safety and maximize learning.
+            Absolutely! We always structure class activities in a way that prioritizes safety while maximizing learning.
           </p>
         </div>
       </div>
@@ -264,7 +264,7 @@ layout: default
         <div class="accordion-body">
           <p>
             No. We strongly believe in having transparent and flexible options. 
-            Life can be unpredictable and we understand that. We allow members to pause, cancel and modify their memberships. 
+            Life can be unpredictable and we understand that. We allow our members to pause, cancel and modify their memberships as needed. 
           </p>
         </div>
       </div>
@@ -279,7 +279,7 @@ layout: default
       <div id="faq-memberships-body-2" class="accordion-collapse collapse" aria-labelledby="faq-memberships-header-2" data-bs-parent="#faq-memberships">
         <div class="accordion-body">
           <p>
-            Yes we do. Family members, Siblings, First Responders & Health Care Providers. Reach out to us for more details.
+            Yes we do. Family members, Siblings, First Responders & Health Care Providers are some of the group eligible. Reach out to us for more details.
           </p>
         </div>
       </div>
