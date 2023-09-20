@@ -5,7 +5,7 @@ layout: default
 
 <div class= "container py-5 px-4 p-lg-5 rg-subconscious-logo-bg">
   <h1>
-    Abous Us
+    About Us
   </h1>
 
   <p>
