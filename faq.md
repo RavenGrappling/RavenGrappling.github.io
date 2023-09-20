@@ -279,7 +279,7 @@ layout: default
       <div id="faq-memberships-body-2" class="accordion-collapse collapse" aria-labelledby="faq-memberships-header-2" data-bs-parent="#faq-memberships">
         <div class="accordion-body">
           <p>
-            Yes we do. Family members, Siblings, First Responders & Health Care Providers are some of the group eligible. Reach out to us for more details.
+            Yes! Family members, Siblings, First Responders & Health Care Providers are some of the groups eligible. Reach out to us for more details.
           </p>
         </div>
       </div>
