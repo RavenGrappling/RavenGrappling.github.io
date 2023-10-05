@@ -227,7 +227,7 @@ layout: default
       <div id="faq-grading-body-1" class="accordion-collapse collapse" aria-labelledby="faq-grading-header-1" data-bs-parent="#faq-grading">
         <div class="accordion-body">
           <p>
-            We promote adults and kids based on their knowledge and performance of what is being taught, never on just attendance.
+            We promote adults and kids based on their knowledge and performance of what is being taught - never on just attendance.
           </p>
         </div>
       </div>
