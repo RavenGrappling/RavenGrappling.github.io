@@ -29,7 +29,7 @@ layout: default
     </div>
   </a>
   
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/tczp" class="rg-membership-button">
+  <a href="https://ravengrappling.pushpress.com/landing/plans/plan_5efd1e63945df9" class="rg-membership-button">
     <div class="rg-membership-button-label">Basic</div>
     <div class="rg-membership-button-desc">
       6 classes per month
