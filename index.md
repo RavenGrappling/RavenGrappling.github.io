@@ -11,6 +11,7 @@ layout: default
     <a href="/memberships" class="rg-button">Get Started Now</a>
   </div>  
 </div>
+
 <div class="container py-5 px-4 p-lg-4">
   <h1 class="text-center fw-bold">What is Brazilian Jiu Jitsu?</h1>
   <p>
@@ -18,7 +19,7 @@ layout: default
   </p>
 </div>
 
-<div class="container py-3 px-4 p-lg-3 rg-container-bg">
+<div class="container py-5 px-4 p-lg-4 rg-container-bg">
   <h1 class="text-center fw-bold">Why Brazilian Jiu Jitsu?</h1>
 
   <dl>
@@ -55,7 +56,7 @@ layout: default
   </dl>
 </div>
 
-<div class="container py-3 px-4 p-lg-3">
+<div class="container py-5 px-4 p-lg-4">
   <h1 class="text-center fw-bold">We Offer Programs To</h1>
   <div class="rg-image-buttons">
     <a href="/kids-teens">
@@ -73,7 +74,7 @@ layout: default
   </div>
 </div>
 
-<div class="container py-3 px-4 p-lg-3 rg-container-bg">
+<div class="container py-5 px-4 p-lg-4 rg-container-bg">
   <h1 class="text-center">
     Our Community
   </h1>

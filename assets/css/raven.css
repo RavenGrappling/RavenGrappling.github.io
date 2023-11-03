@@ -89,9 +89,9 @@ footer a.rg-social:last-child {
   }
 }
 /* -- Carousel ------------------------------------------------------------- */
-.carousel-control-next,
-.carousel-control-prev {
-    filter: invert(100%);
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  width: 4rem;
+  height: 4rem;
 }
 /* -- Alert ---------------------------------------------------------------- */
 .rg-alert {
