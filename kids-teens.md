@@ -24,6 +24,8 @@ layout: default
     Through regular practice, parents can expect their children to learn how to defend themselves in a safe and controlled manner, while developing discipline, focus, and calmness under pressure.
   </p>
 
+  <div class="row">
+    <div class="col-lg">
   <h3>
     Belt Rank
   </h3>
@@ -62,7 +64,7 @@ layout: default
         <li>Takedowns</li>
       </ul>
     </li>
-    <li>Guided and supervised positional / live sparring</li>
+    <li>Guided and supervised positional / live sparring</li>  
   </ul>
   <a href="/memberships" class="rg-button">Register</a>
 </div>
