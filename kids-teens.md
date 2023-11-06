@@ -66,5 +66,8 @@ layout: default
     </li>
     <li>Guided and supervised positional / live sparring</li>  
   </ul>
+  <div class="col-lg">
+    <img src="/assets/images/programs/teens1.jpg" alt="Teens/Kids" class="img-fluid mb-5">
+  </div>
   <a href="/memberships" class="rg-button">Register</a>
 </div>
