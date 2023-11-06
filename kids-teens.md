@@ -32,7 +32,6 @@ layout: default
       <ul>
         <li>White to Green</li>
       </ul>
-    
       <h3>
         Attire
       </h3>
@@ -40,15 +39,13 @@ layout: default
         <li>No-Gi (Monday & Wednesday)</li>
         <li>Gi (Tuesday, Thursday & Satruday)</li>
       </ul>
-    
       <h3>Program Goals</h3>
       <ul>
         <li>Develop strong fundamentals of movement and technique</li>
         <li>Promote confidence, teamwork, and discipline</li>
         <li>Foster a safe and fun learning environment</li>
         <li>Prepare them for the adult/advanced curriculum</li>
-      </ul>
-    
+      </ul> 
       <h3>
         Curriculum Focus
       </h3>
