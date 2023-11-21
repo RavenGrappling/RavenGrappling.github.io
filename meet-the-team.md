@@ -79,7 +79,9 @@ is skilled in providing constructive feedback in a positive and supportive manne
       </p>
     </div>
   </div>
-
+  
+  <h1>Subconscious Founders</h1>
+  
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/sbjjbrent2.jpg" alt="Brent" class="img-fluid mb-5">
