@@ -13,7 +13,7 @@ layout: default
 </div>
 
 <div class= "container py-5 px-4 p-lg-5 rg-subconscious-logo-bg">
-  <h1>
+  <h1 class="text-center fw-bold">
     About Us
   </h1>
 
