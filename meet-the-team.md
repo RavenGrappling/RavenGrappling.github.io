@@ -80,7 +80,7 @@ is skilled in providing constructive feedback in a positive and supportive manne
     </div>
   </div>
   
-  <h1>Subconscious Founders</h1>
+  <h1>Subconscious Jiu Jitsu Founders</h1>
   
   <div class="row">
     <div class="col-lg">
