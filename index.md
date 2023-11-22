@@ -18,10 +18,10 @@ layout: default
   </h1>
 
   <p>
-    Raven Grappling is a modern Brazilian Jiu Jitsu school, located in Coquitlam, that prides itself on making this martial art accessible and safe for everyone. We are also proudly associated with Subconscious Jiu Jitsu, under the direct guidance of Professor Nicholas Gregoriades and Professor Brent Burniston, who have become instrumental mentors to the growth of the school as well as its students.
+    Raven Grappling is a modern Brazilian Jiu Jitsu school, located in Coquitlam, that prides itself on making this martial art accessible and safe for everyone. We are also associated with Subconscious Jiu Jitsu, under the direct guidance of Professor Nicholas Gregoriades and Professor Brent Burniston, who have become instrumental mentors to the growth of the school as well as its students.
   </p>
   <p>
-    At Raven Grappling, students can expect a relaxed yet professional training environment. We take great care in preparing daily lessons and curriculum to ensure that individual growth is always progressing. Our goal is to simplify the complexity of this martial art, so that students have a clear path in terms of their individual skill development.
+    At Raven Grappling, students can expect a relaxed and professional training environment. We take great care in preparing daily lessons and curriculum to ensure that individual growth is always progressing. Our goal is to simplify the complexity of this martial art, so that students have a clear path in terms of their individual skill development.
   </p>
   <p>
     Also, as much as we recognize the value of a competitive environment, we equally preserve a training space where students can be as casual as they like. Because of this, students can always rely on our ongoing determination to keep them safe, regardless of their skill level or ability.
@@ -46,7 +46,7 @@ layout: default
       Self-Defence
     </dt>
     <dd>
-      BJJ will teach you how to defend yourself against people who are bigger and stronger, by using control, leverage and submissions.
+      BJJ will teach you how to defend yourself against people who are bigger and stronger, by using control, escapes and submissions techniques.
     </dd>
     <dt>
       Physical Fitness
