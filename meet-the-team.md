@@ -69,7 +69,7 @@ is skilled in providing constructive feedback in a positive and supportive manne
         Visiting Instructor
       </h4>
       <p>
-        Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
+        Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been practising it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
       </p>
       <p>
         Fast-forward to the present, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. This is most exemplified by her recent major accomplishment, which was winning the 2022 IBJJF Master Words - an incredible testament to her hard work.
