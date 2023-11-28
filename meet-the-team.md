@@ -18,13 +18,13 @@ layout: default
         Owner & Head Instructor
       </h4>
       <p>
-        Dmytro has been practicing Brazilian Jiu Jitsu since he was only 15 years old. Unlike most students today, his first exposure was through the practice of MMA, as there were only a small number of schools that specialized in Brazilian Jiu Jitsu at that time.
+        Dmytro has been practicing Brazilian Jiu Jitsu since he was only 15 years old. Unlike most students today, his first exposure to this martial art was through the practice of MMA, since there were only a small number of schools that offered Brazilian Jiu Jitsu at the time.
       </p>
       <p>
         For the first several years, Dmytro was primarily focused on No-Gi grappling, but as the sport began to evolve and grow in popularity, he then had an opportunity to fully commit himself to learn from instructors that specialized in Brazilian Jiu Jitsu.
       </p>
       <p>
-        Following the opening of Raven Grappling, Dmytro continues strive to better himself as an instructor, practitioner and owner, under the direct guidance of Professor Brent Burniston and Professor Nicholas Gregoriades of Subconscious Jiu Jitsu Association, whose HQ is located in California, US. 
+        Following the opening of Raven Grappling, Dmytro continues strive to better himself as an instructor, practitioner and owner, under the direct guidance of Professor Brent Burniston and Professor Nicholas Gregoriades of Subconscious Jiu Jitsu Association. 
       </p>
       <p>
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
@@ -69,7 +69,7 @@ is skilled in providing constructive feedback in a positive and supportive manne
         Visiting Instructor
       </h4>
       <p>
-        Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been immersed in it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
+        Yoko first became introduced to Brazilian Jiu Jitsu in 2015 and has been practising it ever since. When she first started, Yoko was of a smaller stature than her other training partners and often felt intimidated by their size and strength difference. However, she quickly realized that the techniques that she was learning provided her with the knowledge as well as ability to defend herself against larger opponents, in safe and practical way.
       </p>
       <p>
         Fast-forward to the present, Yoko’s ongoing commitment to BJJ has transformed her into a very skilled and knowledgeable grappler. This is most exemplified by her recent major accomplishment, which was winning the 2022 IBJJF Master Words - an incredible testament to her hard work.
@@ -79,7 +79,9 @@ is skilled in providing constructive feedback in a positive and supportive manne
       </p>
     </div>
   </div>
-
+  
+  <h1>Subconscious Jiu Jitsu Founders</h1>
+  
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/sbjjbrent2.jpg" alt="Brent" class="img-fluid mb-5">

@@ -21,8 +21,8 @@ layout: default
             BJJ is one of the best martial arts for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
           </p>
           <p>
-            Unlike other martial arts, BJJ does not encourage escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself 
-            safe while controlling the situation.
+            Also, unlike other martial arts, BJJ does not encourage escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself 
+            safe, while being in control of the situation.
           </p>
         </div>
       </div>
@@ -46,7 +46,7 @@ layout: default
             Additionally, each belt colour generally requires 4 stripes to progress to the next one.
           </p>
           <p>
-            The time you spend on each belt will primarily depend on your level commitment and understanding of the martial art.
+            The time you spend on each belt will depend on your level commitment and understanding of the martial art.
           </p>
         </div>
       </div>
@@ -136,7 +136,7 @@ layout: default
       <div id="faq-safety-body-2" class="accordion-collapse collapse" aria-labelledby="faq-safety-header-2" data-bs-parent="#faq-safety">
         <div class="accordion-body">
           <p>
-            Absolutely not! BJJ is commonly practiced by people all over the world that are 65+. At first, it can feel intimidating trying something new, but we promise to make you feel welcome.
+            Absolutely not! BJJ is commonly practiced by people all over the world who are as young as 3, as well as by those who are over 65+. At first, it can feel intimidating trying something new, but we promise to make you feel welcome.
           </p>
         </div>
       </div>
@@ -152,7 +152,7 @@ layout: default
         <div class="accordion-body">
           <p>
             When doing any physical activity, there is always a chance that you might get injured. 
-            At our gym, we make your safety our top priority, because we want you to keep training and getting better. 
+            At our gym, we make your safety our top priority, so you can rest assured that we will do our best to make sure that does not happen. 
           </p>
         </div>
       </div>
@@ -173,10 +173,10 @@ layout: default
       <div id="faq-kids-body-1" class="accordion-collapse collapse" aria-labelledby="faq-kids-header-1" data-bs-parent="#faq-kids">
         <div class="accordion-body">
           <p>
-            At our school, we begin teaching kids as early as 6 years old.
+            At our school, we begin teaching kids as early as 5 years old.
           </p>
           <p>
-            We also offer two separate classes/programs: Kids (6-10) & Youth/Teens (11 -15).
+            We also offer two separate classes/programs: Kids (5-10) & Youth/Teens (11 -15).
           </p>
         </div>
       </div>
@@ -206,7 +206,7 @@ layout: default
       <div id="faq-kids-body-3" class="accordion-collapse collapse" aria-labelledby="faq-kids-header-3" data-bs-parent="#faq-kids">
         <div class="accordion-body">
           <p>
-            We love having parents around, and encourage it. All we ask is that you leave the coaching to us, so they don't get distracted. 
+            We love having parents around, and encourage it. All we ask is that you leave the coaching to us, so that they don't get distracted. 
           </p>
         </div>
       </div>
@@ -227,7 +227,7 @@ layout: default
       <div id="faq-grading-body-1" class="accordion-collapse collapse" aria-labelledby="faq-grading-header-1" data-bs-parent="#faq-grading">
         <div class="accordion-body">
           <p>
-            We promote adults and kids based on their knowledge and performance of what is being taught - never on just attendance.
+            Our general approach is to promote adults and kids based on their knowledge and performance - never on just attendance. 
           </p>
         </div>
       </div>

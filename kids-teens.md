@@ -24,45 +24,49 @@ layout: default
     Through regular practice, parents can expect their children to learn how to defend themselves in a safe and controlled manner, while developing discipline, focus, and calmness under pressure.
   </p>
 
-  <h3>
-    Belt Rank
-  </h3>
-  <ul>
-    <li>White to Green</li>
-  </ul>
-
-  <h3>
-    Attire
-  </h3>
-  <ul>
-    <li>No-Gi (Monday & Wednesday)</li>
-    <li>Gi (Tuesday, Thursday & Satruday)</li>
-  </ul>
-
-  <h3>Program Goals</h3>
-  <ul>
-    <li>Develop strong fundamentals of movement and technique</li>
-    <li>Promote confidence, teamwork, and discipline</li>
-    <li>Foster a safe and fun learning environment</li>
-    <li>Prepare them for the adult/advanced curriculum</li>
-  </ul>
-
-  <h3>
-    Curriculum Focus
-  </h3>
-  <ul>
-    <li>Developing a strong understanding of defense, attack, & escape techniques</li>
-    <li>
-      Exploration of core fundamental positions:
+  <div class="row">
+    <div class="col-lg">
+      <h3>
+        Belt Rank
+      </h3>
       <ul>
-        <li>Guard</li>
-        <li>Mount</li>
-        <li>Back-control</li>
-        <li>Side-control</li>
-        <li>Takedowns</li>
+        <li>White to Green</li>
       </ul>
-    </li>
-    <li>Guided and supervised positional / live sparring</li>
-  </ul>
+      <h3>
+        Attire
+      </h3>
+      <ul>
+        <li>No-Gi (Monday & Wednesday)</li>
+        <li>Gi (Tuesday, Thursday & Satruday)</li>
+      </ul>
+      <h3>Program Goals</h3>
+      <ul>
+        <li>Develop strong fundamentals of movement and technique</li>
+        <li>Promote confidence, teamwork, and discipline</li>
+        <li>Foster a safe and fun learning environment</li>
+        <li>Prepare them for the adult/advanced curriculum</li>
+      </ul> 
+      <h3>
+        Curriculum Focus
+      </h3>
+      <ul>
+        <li>Developing a strong understanding of defense, attack, & escape techniques</li>
+        <li>
+          Exploration of core fundamental positions:
+          <ul>
+            <li>Guard</li>
+            <li>Mount</li>
+            <li>Back-control</li>
+            <li>Side-control</li>
+            <li>Takedowns</li>
+          </ul>
+        </li>
+        <li>Guided and supervised positional / live sparring</li>  
+      </ul>
+    </div>  
+    <div class="col-lg">
+    <img src="/assets/images/programs/teens1.jpg" alt="Teens/Kids" class="img-fluid mb-5">
+    </div>
+  </div>  
   <a href="/memberships" class="rg-button">Register</a>
 </div>
