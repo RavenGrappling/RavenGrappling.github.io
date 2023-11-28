@@ -32,9 +32,9 @@ layout: default
 </div>
 
 <div class="container py-5 px-4 p-lg-4">
-  <h1 class="text-center fw-bold">What is Brazilian Jiu Jitsu</h1>
+  <h1 class="text-center fw-bold">What is Brazilian Jiu Jitsu?</h1>
   <p>
-    Brazilian Jiu-Jitsu (BJJ) is a self-defence martial art that teaches you how to overcome bigger and stronger opponents, by using control, escapes, and submission techniques. BJJ is very suitable for people of all ages and fitness levels. It is also a highly adaptable martial art that can be modified to work for people with different physical abilities.
+    Brazilian Jiu-Jitsu (BJJ) is a grappling martial art that teaches people how to overcome bigger and stronger opponents, by using control, escapes, and submission techniques. It's a perfect fit for anyone who is looking to learn self-defence or become a life-long practitioner.
   </p>
 </div>
 
