@@ -9,7 +9,7 @@ layout: default
     <li>Heat and air conditioning climate control. </li>
     <li>Seating area for parents and visitors.</li>
     <li>Mounted check-in system and shop.</li>
-    <li>Free uniforms rental for Trial students</li> 
+    <li>Free uniforms rental for Trial students.</li> 
     <li>Warm-up and stretching equipment.</li>
     <li>Spacious changing area with storage </li>
     <li>Surround sound music speakers.</li>
