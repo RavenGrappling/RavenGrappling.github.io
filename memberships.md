@@ -5,7 +5,7 @@ layout: default
 
 <div class="container py-5 px-4 p-lg-5">
   
-  <h1 class="text-center fw-bold my-1">New Students</h1>
+  <h1 class="text-center fw-bold">New Students</h1>
 
   <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">10-Day Trial</div>
