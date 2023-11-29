@@ -26,7 +26,7 @@ layout: default
     <div class="rg-membership-button-desc">
       Unlimited classes
     </div>
-    <div class="rg-membership-button-price">
+    <div class="rg-membership-button-price fw-bold">
       $130
     </div>
   </a>
@@ -36,7 +36,7 @@ layout: default
     <div class="rg-membership-button-desc">
       6 classes per month
     </div>
-    <div class="rg-membership-button-price">
+    <div class="rg-membership-button-price fw-bold">
       $150
     </div>
   </a>
@@ -46,7 +46,7 @@ layout: default
     <div class="rg-membership-button-desc">
       9 classes per month
     </div>
-    <div class="rg-membership-button-price">
+    <div class="rg-membership-button-price fw-bold">
       $170
     </div>
   </a>
@@ -56,7 +56,7 @@ layout: default
     <div class="rg-membership-button-desc">
       Unlimited classes
     </div>
-    <div class="rg-membership-button-price">
+    <div class="rg-membership-button-price fw-bold">
       $190
     </div>
   </a>
@@ -68,7 +68,7 @@ layout: default
     <div class="rg-membership-button-desc">
       10 classes   
     </div>
-    <div class="rg-membership-button-price">
+    <div class="rg-membership-button-price fw-bold">
       $250
     </div>
   </a>
