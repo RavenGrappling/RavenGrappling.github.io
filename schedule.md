@@ -19,7 +19,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-10)</div>
+            <div>Kids (5-10)</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
@@ -51,7 +51,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-10)</div>
+            <div>Kids (5-10)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
@@ -83,7 +83,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-10)</div>
+            <div>Kids (5-10)</div>
             <div>No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
@@ -115,7 +115,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
-            <div>Kids (6-10)</div>
+            <div>Kids (5-10)</div>
             <div>Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
