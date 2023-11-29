@@ -5,10 +5,12 @@ layout: default
 
 <div class="container py-5 px-4 p-lg-5">
   
+  <h1 class="text-center fw-bold my-1">New Students</h1>
+
   <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">10-Day Trial</div>
     <div class="rg-membership-button-desc">
-      Free (new members only)
+      Free
     </div>
     <div class="rg-membership-button-price"></div>
   </a>
@@ -59,10 +61,10 @@ layout: default
     </div>
   </a>
 
-  <h1 class="text-center fw-bold">Non-Memberships</h1>
+  <h1 class="text-center fw-bold">Flexible Options</h1>
 
   <a href="https://ravengrappling.pushpress.com/open/subscribe/xlfv" class="rg-membership-button rg-membership-button--flex">
-    <div class="rg-membership-button-label">Flex Pass</div>
+    <div class="rg-membership-button-label">Punch Card</div>
     <div class="rg-membership-button-desc">
       10 classes   
     </div>
@@ -72,7 +74,7 @@ layout: default
   </a>
 
   <a href="/contact-us" class="rg-membership-button rg-membership-button--private">
-    <div class="rg-membership-button-label">Private Sessions</div>
+    <div class="rg-membership-button-label">Private Session</div>
     <div class="rg-membership-button-desc">
       Contact for pricing
     </div>
