@@ -6,15 +6,18 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>Our Space</h1>
 
-  <h2>Our Amenities Include:</h2>
-  <ol class="list-group list-group-numbered">
-    <li class="list-group-item">Heat and air conditioning climate control.</li>
-    <li class="list-group-item">Seating area for parents and visitors.</li>
-    <li class="list-group-item">Warm-up and stretching equipment. </li>
-    <li class="list-group-item">Mounted check-in system and shop.</li>
-    <li class="list-group-item">Surround sound music speakers.</li>
-    <li class="list-group-item">Custom wall and window mats.</li>
-    <li class="list-group-item">Spacious changing area with storage </li>
-   
+  <h2>
+    Our Amenities Include:
+  </h2>
+  <ul>
+    <li>Heat and air conditioning climate control. </li>
+    <li>Seating area for parents and visitors.</li>
+    <li>Mounted check-in system and shop.</li>
+    <li>Warm-up and stretching equipment. </li>
+    <li>Spacious changing area with storage </li>
+    <li>Surround sound music speakers.</li>
+    <li>Custom wall and window mats.</li>
+  </ul>
+
   {% include gallery.html %}
 </div>
