@@ -30,7 +30,22 @@ layout: default
         As his journey in Brazilian Jiu Jitsu continues, Dmytro is passionate about sharing all that he has learned from over a decade of experience in competitive and self-defense oriented styles. He is committed in bringing a depth of practical knowledge to his students, whether they have casual or competitive aspirations.
       </p>
     </div>
-
+    
+  <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/mike1.jpg" alt="Mike" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3 class="fw-bold">
+        Mike
+      </h3>
+      <h4>
+        Assistant Instructor
+      </h4>
+       <p>
+         Bio Coming Soon! 
+      </p>
+      
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
