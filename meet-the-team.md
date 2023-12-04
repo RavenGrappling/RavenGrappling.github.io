@@ -45,6 +45,8 @@ layout: default
        <p>
          Bio Coming Soon! 
       </p>
+    </div>  
+  </div>  
       
   <div class="row">
     <div class="col-lg">
