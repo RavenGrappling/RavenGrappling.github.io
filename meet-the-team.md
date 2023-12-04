@@ -33,7 +33,7 @@ layout: default
     
   <div class="row">
     <div class="col-lg">
-      <img src="/assets/images/academy/mike1.jpg" alt="Mike" class="img-fluid mb-5">
+      <img src="/assets/images/academy/Mike1.jpg" alt="Mike" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
       <h3 class="fw-bold">
