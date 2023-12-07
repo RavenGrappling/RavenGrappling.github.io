@@ -18,11 +18,10 @@ layout: default
       <div id="faq-about-body-1" class="accordion-collapse collapse" aria-labelledby="faq-about-header-1" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            BJJ is one of the best martial arts for self-defence, because it teaches you how to overcome bigger and stronger opponents using techniques that actually work! 
+            BJJ is one of the only martial arts to be proven to be effective in real-life situations, because it teaches how to overcome bigger and stronger opponents using techniques that actually work! 
           </p>
           <p>
-            Also, unlike other martial arts, BJJ does not encourage escalation of force/violence, unless it is absolutely necessary. Instead, you learn how to keep yourself 
-            safe, while being in control of the situation.
+          It's also perfect fit for women, children and anyone else looking to start their martial arts journey, as classes are always aimed at providing an engaging, safe, and welcoming atmosphere.
           </p>
         </div>
       </div>
@@ -31,10 +30,76 @@ layout: default
     <div class="accordion-item">
       <h2 class="accordion-header" id="faq-about-header-2">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-2" aria-expanded="false" aria-controls="faq-about-body-2">
+          I'm a woman, is BJJ a good fit for me?
+        </button>
+      </h2>
+      <div id="faq-about-body-2" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
+        <div class="accordion-body">
+          <p>
+            Absolutely! BJJ is the single most effective martial art for women to learn. It will teach you self-defence techniques in a way that empowers you to be in control, so that you can gain the confidence in your ability to protect yourself if ever in danager.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="faq-about-header-3">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-3" aria-expanded="false" aria-controls="faq-about-body-3">
+          Is there kicking and/or punching in BJJ?
+        </button>
+      </h2>
+      <div id="faq-about-body-3" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
+        <div class="accordion-body">
+          <p>
+            No. BJJ is a grappling-based martial art that teaches how to use techniques that allow to either control or escapse the fight/situation, without needing to use additional force (submissions) unless given no other choice. 
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="faq-about-header-4">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-4" aria-expanded="false" aria-controls="faq-about-body-4">
+          Do you learn how to takedowns at your school?
+        </button>
+      </h2>
+      <div id="faq-about-body-4" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
+        <div class="accordion-body">
+          <p>
+            Yes. Everyone in both the Kids/Teens and Adult Programs will learn how to take people down, using both wrestling and Judo techniques.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="faq-about-header-5">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-5" aria-expanded="false" aria-controls="faq-about-body-5">
+          What is Gi & No-Gi?
+        </button>
+      </h2>
+      <div id="faq-about-body-5" class="accordion-collapse collapse" aria-labelledby="faq-about-header-5" data-bs-parent="#faq-about">
+        <div class="accordion-body">
+          <p>
+            Gi or commonly referred to as Kimono, is when you wear the traditional uniform, which consists of a jacket, pants and a ranked belt.
+          </p>
+          <p>
+            No-Gi is when a practitioner wears a rashguard/t-shirt and shorts, without a belt showing their rank.
+          </p>
+          <p>
+            When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and the way they are performed can have different variations.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="faq-about-header-6">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-6" aria-expanded="false" aria-controls="faq-about-body-6">
           What are the ranks in BJJ?
         </button>
       </h2>
-      <div id="faq-about-body-2" class="accordion-collapse collapse" aria-labelledby="faq-about-header-2" data-bs-parent="#faq-about">
+      <div id="faq-about-body-6" class="accordion-collapse collapse" aria-labelledby="faq-about-header-6" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
             The adults ranks are (16+): White -> Blue -> Purple -> Brown -> Black.
@@ -53,52 +118,18 @@ layout: default
     </div>
 
     <div class="accordion-item">
-      <h2 class="accordion-header" id="faq-about-header-3">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-3" aria-expanded="false" aria-controls="faq-about-body-3">
-          What is the difference between Gi & No-Gi?
-        </button>
-      </h2>
-      <div id="faq-about-body-3" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
-        <div class="accordion-body">
-          <p>
-            Gi or commonly referred to as Kimono, is when you wear the traditional uniform, which consists of a jacket, pants and a ranked belt.
-          </p>
-          <p>
-            No-Gi is when a practitioner wears a rashguard/t-shirt and shorts, without a belt showing their rank.
-          </p>
-          <p>
-            When it comes to practice, the fundamental movements are the same for both. However, the amount of techniques and the way they are performed can differ from Gi and No-Gi.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq-about-header-4">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-4" aria-expanded="false" aria-controls="faq-about-body-4">
+      <h2 class="accordion-header" id="faq-about-header-7">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-7" aria-expanded="false" aria-controls="faq-about-body-7">
           How long are your classes?
         </button>
       </h2>
-      <div id="faq-about-body-4" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
+      <div id="faq-about-body-7" class="accordion-collapse collapse" aria-labelledby="faq-about-header-7" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            Our classes are generally 1 hour long. The only class that is 1.5 hours long, is the Advanced program.
+            Our classes are generally 1 hour long, for all the programs. 
           </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq-about-header-5">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-5" aria-expanded="false" aria-controls="faq-about-body-5">
-          As a student, do I have to compete at tournaments?
-        </button>
-      </h2>
-      <div id="faq-about-body-5" class="accordion-collapse collapse" aria-labelledby="faq-about-header-5" data-bs-parent="#faq-about">
-        <div class="accordion-body">
           <p>
-            No. As much as we value competition, we understand that most of our students are doing BJJ as a fun and enjoyable activity. 
-            However, if a student is interested in testing their skills through competition, we will help them prepare.
+            The only class that is 1.5 hours long, is the Advanced class.
           </p>
         </div>
       </div>
@@ -130,7 +161,7 @@ layout: default
     <div class="accordion-item">
       <h2 class="accordion-header" id="faq-safety-header-2">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-safety-body-2" aria-expanded="false" aria-controls="faq-safety-body-2">
-          I am # of years old, is it too late for me to start?
+          I am # of years old, is it too late to start?
         </button>
       </h2>
       <div id="faq-safety-body-2" class="accordion-collapse collapse" aria-labelledby="faq-safety-header-2" data-bs-parent="#faq-safety">
@@ -152,7 +183,7 @@ layout: default
         <div class="accordion-body">
           <p>
             When doing any physical activity, there is always a chance that you might get injured. 
-            At our gym, we make your safety our top priority, so you can rest assured that we will do our best to make sure that does not happen. 
+            However, at our gym, we always make sure that your safety is our top priority, so you can rest assured that we will do our best to make sure that does not happen. 
           </p>
         </div>
       </div>
@@ -173,7 +204,7 @@ layout: default
       <div id="faq-kids-body-1" class="accordion-collapse collapse" aria-labelledby="faq-kids-header-1" data-bs-parent="#faq-kids">
         <div class="accordion-body">
           <p>
-            At our school, we begin teaching kids as early as 5 years old.
+            We begin teaching children as early as 5 years old.
           </p>
           <p>
             We also offer two separate classes/programs: Kids (5-10) & Youth/Teens (11 -15).
@@ -243,6 +274,22 @@ layout: default
         <div class="accordion-body">
           <p>
             Absolutely! You worked hard and put in the time. Whatever rank you are, we will honour it and welcome it.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="faq-about-header-3">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-about-body-3" aria-expanded="false" aria-controls="faq-about-body-3">
+          Do I have to compete at tournaments?
+        </button>
+      </h2>
+      <div id="faq-about-body-3" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
+        <div class="accordion-body">
+          <p>
+            No. As much as we value competition, we understand that most of our students are doing BJJ as a fun and enjoyable activity. 
+            However, if a student is interested in testing their skills through competition, we will help them prepare.
           </p>
         </div>
       </div>
