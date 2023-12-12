@@ -47,7 +47,7 @@ layout: default
       <ul>
         <li>Self-Guided</li>
       </ul>
-    <div>
+    </div>
     <div class="col-lg">
     <img src="/assets/images/programs/workshop.jpg" alt="Workshop" class="img-fluid mb-5">
     </div>
