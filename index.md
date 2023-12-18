@@ -18,13 +18,13 @@ layout: default
   </h1>
 
   <p>
-    Raven Grappling is a modern Brazilian Jiu Jitsu school, located in Coquitlam, that prides itself on making this martial art accessible and safe for everyone. We are also associated with Subconscious Jiu Jitsu, under the direct guidance of Professor Nicholas Gregoriades and Professor Brent Burniston, who have become instrumental mentors to the growth of the school as well as its students.
+    Raven Grappling is a modern Brazilian Jiu Jitsu school, affiliated with Subconscious Jiu Jitsu, that prides itself on making this martial art safe and enjoyable for everyone who enters its doors.
   </p>
   <p>
-    At Raven Grappling, students can expect to be welcomed into a relaxed and professional training environment. Our goal is to provide everyone with a training space where they can be as casual or competitive as they like. Because of this, students can always rely on our ongoing determination to help them grow, while keeping them safe.
+    Students can expect to be welcomed into a relaxed and professional training environment, where they can be as casual or competitive as they like. Regardless of the reason you choose to pursue martial arts, you can always rely on our ongoing determination to help you achieve your goals, while keeping you safe.
   </p>
   <p>
-    Whether you are a member or just visiting, you can count on being well treated and welcomed, regardless of your training background or affiliation. Our priority is to create a fun and nurturing environment, where everyone can enjoy the benefits of Brazilian Jiu Jitsu as well as the wonderful people who practice it.
+    Whether you are a member or just visiting, you can count on being well treated and welcomed. Our priority is to create a fun and nurturing environment, where everyone can enjoy the benefits of Brazilian Jiu Jitsu as well as the wonderful people who practice it.
   </p>
 </div>
 
