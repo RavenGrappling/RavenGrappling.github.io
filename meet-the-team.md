@@ -43,7 +43,7 @@ layout: default
         Assistant Instructor
       </h4>
        <p>
-         Mike is a highly skilled and technical brown belt, who has been practicing Brazilian Jiu Jitsu for over 10 years. However, prior to training Brazilian Jiu Jitsu, Mike has also had many years of experience in training Kung Fu, and understands the value that a martial art can bring to a person’s life. He is also a firm believer that whether it is for self-defense or competition, it is important to be learning a martial art that teaches techniques that are both practical and would work against resisting opponents. 
+         Mike is a highly skilled and technical brown belt, who has been practicing Brazilian Jiu Jitsu for over 10 years. However, prior to training Brazilian Jiu Jitsu, Mike has also had many years of experience in training Kung Fu, and understands the value that a martial art can bring to a person’s life. He is also a firm believer that whether it is for self-defense or competition, it is important to be learning a martial art that teaches techniques that are practical and work against resisting opponents. 
       </p>
       <p>
         Aside from being a life-long martial artist, Mike is also an avid student of injury prevention protocols as well as strength and conditioning programs. His knowledge has become invaluable for the school, as he is always keen on providing guidance on how to build and maintain longevity, whether it’s for training on the mats or for how to gracefully age into the future.
