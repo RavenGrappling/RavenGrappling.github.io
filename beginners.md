@@ -22,45 +22,48 @@ layout: default
     When fully committed, and with regular attendance, students can expect to see improvements in their confidence, fitness as well as proficiency in the martial art.
   </p>
 
-  <h3>
-    Belt Rank
-  </h3>
-  <ul>
-    <li>White to Black</li>
-  </ul>
-
-  <h3>
-    Attire
-  </h3>
-  <ul>
-    <li>No-Gi (Monday, Wednesday)</li>
-    <li>Gi (Tuesday, Thursday, Saturday)</li>
-  </ul>
-
-  <h3>
-    Program Goals
-  </h3>
-  <ul>
-    <li>Introduction to fundamental concepts, positions & movements</li>
-    <li>Building confidence in knowledge and skill application</li>
-    <li>Preparation for advanced program / curriculum</li>
-  </ul>
-
-  <h3>
-    Curriculum Focus
-  </h3>
-  <ul>
-    <li>Developing a strong understanding of defense, attack, & escape techniques</li>
-    <li>
-      Exploration of core fundamental positions:
-      <ul>
-        <li>Side-control</li>
-        <li>Back-control</li>
-        <li>Mount</li>
-        <li>Guard</li>        
-      </ul>
-    </li>  
-    <li>Guided positional / live sparring</li>
-  </ul> 
+<div class="row">
+  <div class="col-lg">
+    <h3>
+      Belt Rank
+    </h3>
+    <ul>
+      <li>White to Black</li>
+    </ul>
+    <h3>
+      Attire
+    </h3>
+    <ul>
+      <li>No-Gi (Monday, Wednesday)</li>
+      <li>Gi (Tuesday, Thursday, Saturday)</li>
+    </ul>  
+    <h3>
+      Program Goals
+    </h3>
+    <ul>
+      <li>Introduction to fundamental concepts, positions & movements</li>
+      <li>Building confidence in knowledge and skill application</li>
+      <li>Preparation for advanced program / curriculum</li>
+    </ul>  
+    <h3>
+      Curriculum Focus
+    </h3>
+    <ul>
+      <li>Developing a strong understanding of defense, attack, & escape techniques</li>
+      <li>
+        Exploration of core fundamental positions:
+        <ul>
+          <li>Side-control</li>
+          <li>Back-control</li>
+          <li>Mount</li>
+          <li>Guard</li>        
+        </ul>
+      </li>  
+      <li>Guided positional / live sparring</li>
+    </ul>
+  </div>  
+  <div class="col-lg">  
+  <img src="/assets/images/programs/beginners1.jpg" alt="Beginners" class="img-fluid mb-5"> 
+  </div> 
   <a href="/memberships" class="rg-button">Register</a>
 </div>
