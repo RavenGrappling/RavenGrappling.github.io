@@ -176,14 +176,14 @@ layout: default
     <div class="accordion-item">
       <h2 class="accordion-header" id="faq-safety-header-3">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-safety-body-3" aria-expanded="false" aria-controls="faq-safety-body-3">
-          I'm worried about injuries, is this a good fit for me?
+          I'm worried about injuries, is Jiu Jitsu a good fit for me?
         </button>
       </h2>
       <div id="faq-safety-body-3" class="accordion-collapse collapse" aria-labelledby="faq-safety-header-3" data-bs-parent="#faq-safety">
         <div class="accordion-body">
           <p>
-            When doing any physical activity, there is always a chance that you might get injured. 
-            However, at our gym, we always make sure that your safety is our top priority, so you can rest assured that we will do our best to make sure that does not happen. 
+            When doing any physical activity, there is a chance that you might get a few bumps and bruises. 
+            However, at our gym, we always make sure that your safety is our top priority, so that serious injuries do not happen. We take extra care in keeping everyone safe by providing clear instructions and discouraging any aggressive/uncontrolled behaviour. You can rest assured that we will do everything we can for you to feel safe and taken care of. 
           </p>
         </div>
       </div>
