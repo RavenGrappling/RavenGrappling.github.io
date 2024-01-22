@@ -9,7 +9,7 @@ layout: default
 
   <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">10-Day Trial</div>
-    <div class="rg-membership-button-desc fw-bold fs-3">
+    <div class="rg-membership-button-desc fw-bold fs-2">
       Free
     </div>
     <div class="rg-membership-button-price"></div>
