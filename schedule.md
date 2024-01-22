@@ -20,7 +20,7 @@ layout: default
           <div class="rg-calendar-day-event rg-event-start-1600 rg-event-end-1700 rg-event-kids">
             <div class="rg-calendar-day-event-time">4 - 5pm</div>
             <div>Kids (5-10)</div>
-            <div>No-Gi</div>
+            <div class="fw-bold">No-Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1700 rg-event-end-1800 rg-event-teens">
             <div class="rg-calendar-day-event-time">5 - 6pm</div>
