@@ -18,10 +18,10 @@ layout: default
   </h1>
 
   <p>
-    Raven Grappling is a modern Brazilian Jiu Jitsu school, affiliated with Subconscious Jiu Jitsu, that prides itself on making this martial art safe and enjoyable for everyone.
+    We are a Brazilian Jiu Jitsu school, affiliated with Subconscious Jiu Jitsu, that prides itself on making this martial art safe and enjoyable for everyone.
   </p>
   <p>
-    Students can expect to be welcomed into a relaxed and professional training environment, where they can be as casual or competitive as they like. Regardless of the reason you choose to pursue martial arts, you can always rely on our ongoing determination to help you achieve your goals, while keeping you safe.
+    Students can expect to be welcomed into a relaxed and professional training environment, where they can be as casual or competitive as they like. Regardless of the reason you choose to pursue martial arts, you can always rely on our ongoing commitment to help you achieve your goals.
   </p>
   <p>
     Whether you are a member or just visiting, you can count on being well treated and welcomed. Our priority is to create a fun and nurturing environment, where everyone can enjoy the benefits of Brazilian Jiu Jitsu as well as the wonderful people who practice it.
