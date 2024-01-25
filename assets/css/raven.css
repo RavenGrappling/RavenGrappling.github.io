@@ -1,5 +1,7 @@
 body {
   padding-top: 118px;
+  font-size: 18px;
+  line-height: 32px;
 }
 .navbar {
   background-color: #091b2a;
