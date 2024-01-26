@@ -1,3 +1,7 @@
+:root {
+  --rg-color-dark-blue: rgb(28 46 79);
+}
+
 body {
   padding-top: 118px;
   font-size: 18px;
@@ -29,7 +33,7 @@ button.navbar-toggler {
   background-color: #fefefe;
 }
 h1 {
-  margin-bottom: 30px;
+  margin-bottom: 2rem;
   font-weight: bold;
 }
 h1 small {
@@ -162,6 +166,46 @@ footer a.rg-social:last-child {
   background-image: url("/assets/images/button_advanced.jpg")
 }
 
+.rg-section-compare {
+  .rg-section-compare-lists {
+    max-width: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    gap: 2rem;
+    > div {
+      width: 50%;
+      background-color: var(--rg-color-dark-blue);
+      padding: 3rem 2rem;
+      color: white;
+      border-radius: 1.5rem;
+      h3 {
+        margin-bottom: 2rem;
+      }
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      li {
+        display: flex;
+        padding-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        i {
+          color: rgb(53, 232, 110);
+          font-size: 2rem;
+          margin-right: 1rem;
+        }
+      }
+    }
+    .rg-section-compare-bad {
+      ul li i {
+        color: rgb(225, 40, 40);
+      }
+    }
+  }
+}
+
 @media (max-width: 991.98px) {
   .rg-image-buttons {
     flex-direction: column
@@ -289,8 +333,8 @@ footer a.rg-social:last-child {
   background-color: #f5f5f5;
   color: #212529;
 }
-.rg-event-kids-teens   { 
-  background-color: #697da2; 
+.rg-event-kids-teens   {
+  background-color: #697da2;
   background-image: linear-gradient(to bottom right, #9d2273, #697da2);
 }
 

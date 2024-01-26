@@ -9,7 +9,7 @@ layout: default
     <h1 class="display-5 fw-bold mb-1 rg-welcome"> Austin Heights, Coquitlam</h1>
     <div class="fs-5 fw-bold mb-5 rg-welcome">(5 min from Lougheed Town Centre)</div>
     <a href="/memberships" class="rg-button">Get Started Now</a>
-  </div>  
+  </div>
 </div>
 
 <div class= "container py-5 px-4 p-lg-5 rg-subconscious-logo-bg">
@@ -33,6 +33,75 @@ layout: default
   <p>
     Brazilian Jiu-Jitsu (BJJ) is a grappling martial art that teaches how to overcome bigger and stronger opponents, by using control, escapes, and submission techniques. It's perfect for anyone who is looking to learn self-defence or become a life-long practitioner.
   </p>
+</div>
+
+<div class="container py-5 p-lg-4 rg-section-compare">
+  <h1 class="text-center">Start Your Martial Arts Journey at the Right Place</h1>
+  <p class="text-center mb-5">
+    What Makes Raven Grappling the Best Choice for learning Jiu Jitsu?
+  </p>
+
+  <div class="row rg-section-compare-lists">
+    <div class="col">
+      <h3>BJJ Programs at Raven Grappling</h3>
+      <ul>
+        <li>
+          <i class="bi bi-check"></i>
+          Classes Structured to be Safe, Engaging &amp; Challenging
+        </li>
+        <li>
+          <i class="bi bi-check"></i>
+          Kids, Teens & Beginners Learn from a Set Curriculum
+        </li>
+        <li>
+          <i class="bi bi-check"></i>
+          No Fixed Membership Contracts or Hidden Fees
+        </li>
+        <li>
+          <i class="bi bi-check"></i>
+          Receive Individual Feedback from Your Coaches
+        </li>
+        <li>
+          <i class="bi bi-check"></i>
+          Classes Have Short Warm-Ups & Movement Drills
+        </li>
+        <li>
+          <i class="bi bi-check"></i>
+          Option To Buy Our Uniform or Bring Your Own
+        </li>
+      </ul>
+    </div>
+
+    <div class="col rg-section-compare-bad">
+      <h3>BJJ Programs at “Other” Schools</h3>
+      <ul>
+        <li>
+          <i class="bi bi-x"></i>
+          No Class Structure & High Risk For Injuries
+        </li>
+        <li>
+          <i class="bi bi-x"></i>
+          Instructors Do Not Pay Attention to Students
+        </li>
+        <li>
+          <i class="bi bi-x"></i>
+          Limited Trial Period & Mandatory Contracts
+        </li>
+        <li>
+          <i class="bi bi-x"></i>
+          Random Techniques Are Taught Everyday
+        </li>
+        <li>
+          <i class="bi bi-x"></i>
+          Long Warm-Ups & Short Practice Time
+        </li>
+        <li>
+          <i class="bi bi-x"></i>
+          Forced To Buy School Uniform & Merchandise
+        </li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div class="container py-5 px-4 p-lg-4 rg-container-bg">
