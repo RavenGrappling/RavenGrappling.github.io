@@ -45,7 +45,7 @@ p, dd, li {
   line-height: 30px;
 }
 .rg-container-bg {
-  background-color: rgba(0, 114, 166, 0.05);
+  background-color: var(--rg-color-dark-blue);
   border-radius: 10px;
 }
 a.rg-button {
