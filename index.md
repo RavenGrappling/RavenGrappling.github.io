@@ -47,7 +47,7 @@ layout: default
       <ul>
         <li>
           <i class="bi bi-check"></i>
-          Classes Structured to be Safe, Engaging &amp; Challenging
+          Structured Classes That Prioritize Safety &amp; Learning
         </li>
         <li>
           <i class="bi bi-check"></i>
