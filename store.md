@@ -113,5 +113,45 @@ layout: default
       </div>
     </div>
   </div>
+</div>
+<div class="container py-5 px-4 p-lg-5">
+  <div class="row">
+    <div class="col-lg mb-5">
+      <div id="rg-gallery" class="carousel carousel-dark slide">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="/assets/images/store/patch1.jpg" class="d-block w-100" alt="">
+          </div>
+          <div class="carousel-item">
+            <img src="/assets/images/store/patch2.jpg" class="d-block w-100" alt="">
+          </div>
+          <div class="carousel-item">
+            <img src="/assets/images/store/patch3.jpg" class="d-block w-100" alt="">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#rg-gallery" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#rg-gallery" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+    <div class="col-lg">
+      <h1 class="text-center">
+        Raven Grappling Patch
+      </h1>
+      <p>
+        3.5 x 3.5 inch Custom Emroided Patch
+      </p>
+        <div class="container py-4 px-4 p-lg-4 text-center">
+        <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
+          Buy Now
+        </a>
+      </div>
+    </div>
+  </div>
 </div>  
   
