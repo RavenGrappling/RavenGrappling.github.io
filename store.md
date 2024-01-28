@@ -150,7 +150,7 @@ layout: default
         <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
           Buy Now
         </a>
-      </div>
+        </div>
     </div>
   </div>
 </div>  
