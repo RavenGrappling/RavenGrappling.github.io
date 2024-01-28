@@ -43,7 +43,7 @@ layout: default
 
   <div class="row rg-section-compare-lists">
     <div class="col">
-      <h3>BJJ Programs at Raven Grappling</h3>
+      <h3 class="fw-bold">BJJ Programs at Raven Grappling</h3>
       <ul>
         <li>
           <i class="bi bi-check"></i>
@@ -73,7 +73,7 @@ layout: default
     </div>
 
     <div class="col rg-section-compare-bad">
-      <h3>BJJ Programs at “Other” Schools</h3>
+      <h3 class="fw-bold">BJJ Programs at “Other” Schools</h3>
       <ul>
         <li>
           <i class="bi bi-x"></i>
