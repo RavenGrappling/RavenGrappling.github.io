@@ -6,7 +6,7 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <div class="row">
     <div class="col-lg mb-5">
-      <div id="rg-gallery" class="carousel slide">
+      <div id="rg-gallery" class="carousel carousel-dark slide">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="/assets/images/store/gi1.jpg" class="d-block w-100" alt="">
