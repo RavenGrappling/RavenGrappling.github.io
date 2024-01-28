@@ -18,7 +18,7 @@ layout: default
   </h1>
 
   <p>
-    We are a Brazilian Jiu Jitsu school, affiliated with Subconscious Jiu Jitsu, that prides itself on making this martial art safe and enjoyable for everyone.
+    We are a Brazilian Jiu Jitsu school, affiliated with Subconscious Jiu Jitsu, that proud of making this martial art safe and enjoyable for everyone.
   </p>
   <p>
     Students can expect to be welcomed into a relaxed and professional training environment, where they can be as casual or competitive as they like. Regardless of the reason you choose to pursue martial arts, you can always rely on our ongoing commitment to help you achieve your goals.
