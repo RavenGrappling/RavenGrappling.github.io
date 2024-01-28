@@ -144,7 +144,10 @@ layout: default
         Raven Grappling Patch
       </h1>
       <p>
-        3.5 x 3.5 inch Custom Emroided Patch
+        Represent Raven Grappling by adding this custom-designed emrboidered patch to your Gi.
+      </p>
+      <p>
+        Size: 3.5 x 3.5 inches
       </p>
         <div class="container py-4 px-4 p-lg-4 text-center">
         <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
