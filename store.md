@@ -9,13 +9,13 @@ layout: default
       <div id="rg-gallery" class="carousel carousel-dark slide">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="/assets/images/store/gi1.jpg" class="d-block w-100" alt="">
+            <img src="/assets/images/store/gi1.jpg" class="d-block img-thumbnail rounded w-100" alt="">
           </div>
           <div class="carousel-item">
-            <img src="/assets/images/store/gi2.jpg" class="d-block w-100" alt="">
+            <img src="/assets/images/store/gi2.jpg" class="d-block img-thumbnail rounded w-100" alt="">
           </div>
           <div class="carousel-item">
-            <img src="/assets/images/store/gi3.jpg" class="d-block w-100" alt="">
+            <img src="/assets/images/store/gi3.jpg" class="d-block img-thumbnail rounded w-100" alt="">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#rg-gallery" data-bs-slide="prev">
@@ -121,10 +121,10 @@ layout: default
         <div id="rg-gallery1" class="carousel carousel-dark slide">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="/assets/images/store/patch2.jpg" class="d-block rounded w-100" alt="">
+              <img src="/assets/images/store/patch2.jpg" class="d-block img-thumbnail rounded w-100" alt="">
             </div>
             <div class="carousel-item">
-              <img src="/assets/images/store/patch3.jpg" class="d-block w-100" alt="">
+              <img src="/assets/images/store/patch3.jpg" class="d-block img-thumbnail rounded w-100" alt="">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#rg-gallery1" data-bs-slide="prev">
