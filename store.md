@@ -151,7 +151,7 @@ layout: default
           Size: 3.5 x 3.5 inches
         </p>
           <div class="container py-4 px-4 p-lg-4 text-center">
-          <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_7fbce6c52c08b8">
+          <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_963b07d2ded6f1">
             Buy Now
           </a>
           </div>
