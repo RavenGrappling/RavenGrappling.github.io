@@ -121,7 +121,7 @@ layout: default
         <div id="rg-gallery1" class="carousel carousel-dark slide">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="/assets/images/store/patch2.jpg" class="d-block w-100" alt="">
+              <img src="/assets/images/store/patch2.jpg" class="d-block rounded w-100" alt="">
             </div>
             <div class="carousel-item">
               <img src="/assets/images/store/patch3.jpg" class="d-block w-100" alt="">
