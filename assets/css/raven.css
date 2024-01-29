@@ -55,14 +55,14 @@ a.rg-button {
   padding: 0 30px;
   box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
   border-radius: 10px;
-  background-color: #091b2a;
+  background-color: #e51564;
   color: #fff;
   text-decoration: none;
   margin: 0 15px 15px 0;
   text-align: center;
 }
 a.rg-button:hover {
-  background-color: #091b2a;
+  background-color: #eb1946;
   box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.1);
 }
 footer {
