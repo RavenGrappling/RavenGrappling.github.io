@@ -145,7 +145,7 @@ layout: default
           Raven Grappling Patch
         </h1>
         <p>
-          Represent Raven Grappling by adding this custom-designed emrboidered patch to your Gi.
+          Represent Raven Grappling by adding this custom-designed embroidered patch to your Gi.
         </p>
         <p>
           Size: 3.5 x 3.5 inches
