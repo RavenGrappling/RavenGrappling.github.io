@@ -3,7 +3,7 @@ title: Raven Grappling - Store
 layout: default
 ---
 
-<div class="container py-5 px-4 p-lg-5">
+<div class="container py-5 px-5 p-lg-5">
   <div class="row">
     <div class="col-lg mb-5">
       <div id="rg-gallery" class="carousel carousel-dark slide">
@@ -115,7 +115,7 @@ layout: default
   </div>
 </div>
 
-  <div class="container py-5 px-4 p-lg-5">
+  <div class="container py-6 px-5 p-lg-6">
     <div class="row">
       <div class="col-lg mb-5">
         <div id="rg-gallery1" class="carousel carousel-dark slide">
