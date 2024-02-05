@@ -38,7 +38,7 @@ layout: default
 <div class="container py-5 p-lg-4 rg-section-compare">
   <h1 class="text-center">Start Your Martial Arts Journey at the Right Place</h1>
   <p class="text-center fs-4 mb-5">
-    What Makes Raven Grappling the Best Choice for learning Jiu Jitsu?
+    What Makes Raven Grappling the Best Choice?
   </p>
 
   <div class="row rg-section-compare-lists">
