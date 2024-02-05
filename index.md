@@ -47,11 +47,11 @@ layout: default
       <ul>
         <li>
           <i class="bi bi-check"></i>
-          Structured Classes That Prioritize Safety &amp; Learning
+          Structured Classes That Are Safe &amp; Engaging
         </li>
         <li>
           <i class="bi bi-check"></i>
-          Kids, Teens & Beginners Learn from a Set Curriculum
+          Kids, Teens & Beginners Learn From A Curriculum
         </li>
         <li>
           <i class="bi bi-check"></i>
@@ -60,10 +60,6 @@ layout: default
         <li>
           <i class="bi bi-check"></i>
           Receive Individual Feedback from Your Coaches
-        </li>
-        <li>
-          <i class="bi bi-check"></i>
-          Classes Have Short Warm-Ups & Movement Drills
         </li>
         <li>
           <i class="bi bi-check"></i>
@@ -81,7 +77,7 @@ layout: default
         </li>
         <li>
           <i class="bi bi-x"></i>
-          Instructors Do Not Pay Attention to Students
+          Random Techniques Are Taught Everyday
         </li>
         <li>
           <i class="bi bi-x"></i>
@@ -89,11 +85,7 @@ layout: default
         </li>
         <li>
           <i class="bi bi-x"></i>
-          Random Techniques Are Taught Everyday
-        </li>
-        <li>
-          <i class="bi bi-x"></i>
-          Long Warm-Ups & Short Practice Time
+          Instructors Do Not Pay Attention To Students
         </li>
         <li>
           <i class="bi bi-x"></i>
