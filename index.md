@@ -96,38 +96,32 @@ layout: default
   <div class="container py-5 px-4 p-lg-4">
     <h1 class="text-center fw-bold">Benefits of Brazilian Jiu Jitsu</h1>
 
-    <dl>
-      <dt>
-        Self-Defence
-      </dt>
-      <dd>
-        BJJ will teach you how to defend yourself against people who are bigger and stronger, by using control, escapes and submissions techniques.
-      </dd>
-      <dt>
-        Physical Fitness
-      </dt>
-      <dd>
-        It's great for providing you with a full-body workout and it will help you improve your strength, endurance, flexibility, and overall health.
-      </dd>
-      <dt>
-        Stress Relief
-      </dt>
-      <dd>
-        BJJ is a great way to release tension after a long day and it can have a positive impact on improving your mental as well as physical well-being.
-      </dd>
-      <dt>
-        Personal Development
-      </dt>
-      <dd>
-        Children and adults alike, will find that the practice of BJJ can help them develop a strong sense of discipline, focus, and confidence.
-      </dd>
-      <dt>
-        Community Building
-      </dt>
-      <dd>
-        Brazilian Jiu Jitsu is a fun and engaging activity, which is a great way to meet new people and build new friendships.
-      </dd>
-    </dl>
+    <div class="row">
+      <div class="col-sm">
+        <h3>Self-Defence</h3>
+        <ul>
+          <li>Become better in knowing how to stay safe & calm under pressure</li>
+          <li>Learn how to defend yourself against bigger and stronger attackers</li>
+          <li>Kids & Teens become more confident and learn how to keep bullies away</li>
+        </ul>
+      </div>
+      <div class="col-sm">
+        <h3>Physical Fitness</h3>
+        <ul>
+          <li>Amazing for getting a full-body workout that's fun and engaging</li>
+          <li>Improve your strength, endurance, flexibility, and overall health</li>
+          <li>Great for burning calories in a supportive group environment</li>
+        </ul>
+      </div>
+      <div class="col-sm">
+        <h3>Mental Benefits</h3>
+        <ul>
+          <li>Healthy stress release and positive habits for your wellbeing</li>
+          <li>Develop a strong sense of self-worth, focus, and confidence</li>
+          <li>Meet new people and build new long-lasting friendships</li>
+        </ul>
+      </div>
+    </div>
   </div>
 </div>
 
