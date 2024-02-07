@@ -1,5 +1,7 @@
 :root {
+  --rg-color-white: rgb(249, 250, 252);
   --rg-color-dark-blue: rgb(28 46 79);
+  --rg-color-gray: rgb(248, 249, 251);
 }
 
 body {
@@ -41,13 +43,6 @@ h1 small {
   vertical-align: middle;
   color: #e51564;
 }
-p, dd, li {
-  line-height: 30px;
-}
-.rg-container-bg {
-  background-color: rgba(0, 114, 166, 0.05);
-  border-radius: 10px;
-}
 a.rg-button {
   display: inline-block;
   font-size: 30px;
@@ -85,6 +80,20 @@ footer a.rg-social {
 footer a.rg-social:last-child {
   margin-right: 0;
 }
+
+.rg-container {
+  padding: 4rem 0;
+
+  &.dark {
+    background-color: var(--rg-color-dark-blue);
+    color: var(--rg-color-white);
+  }
+  &.light {
+    background-color: var(--rg-color-gray);
+  }
+}
+
+
 @media (max-width: 991.98px) {
   a.rg-button {
     display: block;
@@ -95,6 +104,9 @@ footer a.rg-social:last-child {
   }
 }
 /* -- Carousel ------------------------------------------------------------- */
+.carousel-inner {
+  border-radius: 10px;
+}
 .carousel-control-next-icon, .carousel-control-prev-icon {
   width: 4rem;
   height: 4rem;
