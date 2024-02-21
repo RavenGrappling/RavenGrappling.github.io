@@ -24,7 +24,7 @@ layout: default
   <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
     <div class="rg-membership-button-label">Kids / Teens</div>
     <div class="rg-membership-button-desc">
-      Unlimited classes
+      Unlimited classes per month
     </div>
     <div class="rg-membership-button-price fw-bold">
       $130
@@ -54,7 +54,7 @@ layout: default
   <a href="https://ravengrappling.pushpress.com/open/subscribe/xz81" class="rg-membership-button rg-membership-button--premium">
     <div class="rg-membership-button-label">Premium</div>
     <div class="rg-membership-button-desc">
-      Unlimited classes
+      Unlimited classes per month
     </div>
     <div class="rg-membership-button-price fw-bold">
       $190
