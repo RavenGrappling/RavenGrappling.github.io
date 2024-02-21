@@ -61,7 +61,7 @@ layout: default
           </ul>
         </li>
         <li>Guide students towards developing their own grappling style</li>
-        <li>Achieve technical precision and timing via positional / live sparring</li>
+        <li>Achieve technical precision and timing in positional / live sparring</li>
       </ul>
     </div>  
     <div class="col-lg">  
