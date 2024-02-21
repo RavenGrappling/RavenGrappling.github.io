@@ -12,13 +12,13 @@ layout: default
     Program description
   </h3>
   <p>
-    This class is designed for the purpose of providing students with time for self-learning & the opportunity to practice what they had learned in class.
+    This class is designed to provide students with time for self-learning & the opportunity to practice what they had learned in class.
   </p>
   <p>
-    Aside from technique exploration and practice, students are also able to use this session to learn new techniques as well as for additional live or positional sparring. 
+    Students and visitors alike are also able to use this training session to learn new techniques as well as do some live or positional sparring. 
   </p>
   <p>
-    It should be noted that students who are yet to transition from the fundamental program will only be allowed to engage in positional sparring, so that potential risk of injury is avoided.
+    For safety purposes, students who are yet to transition from the Beginner program will only be allowed to do positional sparring, so that potential risk of injury is avoided.
   </p>
   
   <div class="row">
