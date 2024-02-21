@@ -41,16 +41,16 @@ layout: default
         Program Goals
       </h3>
       <ul>
-        <li>Enable students to reach high-level proficiency in the martial art</li>
-        <li>Exploration of advanced techniques and concepts</li>
-        <li>Learning about positional strategies and their associated tactics</li>
-        <li>Incorporation of complimentary techniques from other grappling martial arts</li>
+        <li>Help students to reach high-level proficiency in the Jiu Jitsut</li>
+        <li>Expose students to advanced techniques and concepts</li>
+        <li>Learn about positional strategies and tactics</li>
+        <li>Incorporate techniques from other grappling martial arts</li>
       </ul>
       <h3>
         Curriculum Focus
       </h3>
       <ul>
-        <li>Advanced immersion into the core fundamental positions:
+        <li>Advanced focus into the core fundamental positions:
           <ul>
             <li>Guard</li>
             <li>Mount</li>
@@ -60,7 +60,7 @@ layout: default
             <li>Takedowns</li>
           </ul>
         </li>
-        <li>Guide students towards developing their own personalized grappling style</li>
+        <li>Guide students towards developing their own grappling style</li>
         <li>Achieve technical precision and timing via positional / live sparring</li>
       </ul>
     </div>  
