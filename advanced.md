@@ -41,10 +41,10 @@ layout: default
         Program Goals
       </h3>
       <ul>
-        <li>Help students to reach high-level proficiency in the Jiu Jitsut</li>
-        <li>Expose students to advanced techniques and concepts</li>
         <li>Learn about positional strategies and tactics</li>
+        <li>Expose students to advanced techniques and concepts</li>
         <li>Incorporate techniques from other grappling martial arts</li>
+        <li>Help students to reach high-level proficiency in the Jiu Jitsu</li>  
       </ul>
       <h3>
         Curriculum Focus
