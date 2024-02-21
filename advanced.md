@@ -13,13 +13,13 @@ layout: default
     Program description
   </h3>
   <p>
-    This class is designed to provide students, who have a fundamental understanding of the martial art, with an opportunity to learn advanced techniques and strategies that they can successfully apply against other trained practitioners.
+    This class is designed for students who have a fundamental understanding of Jiu Jitsu, and are ready to learn advanced techniques and strategies that can be used against other trained practitioners.
   </p>
   <p>
-    Acknowledging the complexity of advanced techniques and concepts, the class format will focus on a core position, and its variations, for a 2-week duration. This approach is intended to provide students with the time necessary to gain a deep understanding of what is being taught and also with confidence on how to apply it against resisting opponents.
+    The structure of this class is focused on exploring an advanced position and its variations, for 2-week time period. This approach gives students the time to gain a deeper understanding of the technique/concepts and to also give them enough time to practice it so that they can gain the confidence on how to apply it against resisting opponents.
   </p>
   <p>
-    Students who attend this program regularly, will be see incremental improvements in their conceptual as well as practical understanding on how to be proficient grapplers.
+    Students who attend this program regularly, will be see improvements in their overall progression towards being skilled grapplers.
   </p>
 
   <div class="row">
