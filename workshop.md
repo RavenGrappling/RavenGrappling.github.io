@@ -17,10 +17,7 @@ layout: default
   <p>
     Students and visitors alike are also able to use this training session to learn new techniques as well as do some live or positional sparring. 
   </p>
-  <p>
-    For safety purposes, students who are yet to transition from the Beginner program will only be allowed to do positional sparring, so that potential risk of injury is avoided.
-  </p>
-  
+
   <div class="row">
     <div class="col-lg">
       <h3>
