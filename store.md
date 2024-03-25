@@ -125,10 +125,7 @@ layout: default
           Raven Grappling T-Shirt
         </h1>
         <p>
-          Text
-        </p>
-        <p>
-          text
+          Adult & Youth/Kids Sizes Availible
         </p>
           <div class="container py-4 px-4 p-lg-4 text-center">
           <a class="rg-button" href="https://ravengrappling.pushpress.com/open/purchase/prd_1b6be7b7cb32ce">
