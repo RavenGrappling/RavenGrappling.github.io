@@ -130,7 +130,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-advanced">
             <div class="rg-calendar-day-event-time">7 - 8:30pm</div>
-            <div>Advanced</div>
+            <div>Intermediate</div>
             <div class="fw-bold">Gi</div>
           </div>
         </div>
