@@ -135,11 +135,11 @@ layout: default
       </a>
       <a href="/beginners">
         <div class="rg-image-button-beginners"></div>
-        <span>Beginners</span>
+        <span>Adult Beginners</span>
       </a>
       <a href="/advanced">
         <div class="rg-image-button-advanced"></div>
-        <span>Advanced</span>
+        <span>Adult Advanced</span>
       </a>
     </div>
   </div>
