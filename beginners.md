@@ -6,7 +6,7 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>
     Beginners
-    <small>Adults (16+)</small>
+    <small>Adults (15+)</small>
   </h1>
 
   <h3>
