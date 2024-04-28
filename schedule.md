@@ -177,7 +177,7 @@ layout: default
         <div class="rg-calendar-day-events">
           <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1200 rg-event-workshop">
             <div class="rg-calendar-day-event-time">10am - 12pm</div>
-            <div>The Workshop - Open Mat</div>
+            <div>Open Mat</div>
             <div class="fw-bold">Gi / No-Gi</div>
           </div>
         </div>
