@@ -27,7 +27,7 @@ layout: default
       Unlimited classes / month
     </div>
     <div class="rg-membership-button-price fw-bold">
-      $130
+      $150
     </div>
   </a>
   
