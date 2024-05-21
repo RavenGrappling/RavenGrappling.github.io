@@ -44,7 +44,7 @@ layout: default
   <a href="https://ravengrappling.pushpress.com/open/subscribe/yo0k" class="rg-membership-button rg-membership-button--standard">
     <div class="rg-membership-button-label">Standard</div>
     <div class="rg-membership-button-desc">
-      9 classes / month
+      8 classes / month
     </div>
     <div class="rg-membership-button-price fw-bold">
       $180
@@ -69,7 +69,7 @@ layout: default
       10 classes   
     </div>
     <div class="rg-membership-button-price fw-bold">
-      $250
+      $275
     </div>
   </a>
 
