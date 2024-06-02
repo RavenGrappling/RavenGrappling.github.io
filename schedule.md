@@ -32,9 +32,9 @@ layout: default
             <div>Adult Beginners</div>
             <div class="fw-bold">No-Gi</div>
           </div>
-          <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-advanced">
+          <div class="rg-calendar-day-event rg-event-start-1900 rg-event-end-2030 rg-event-intermediate">
             <div class="rg-calendar-day-event-time">7 - 8:30pm</div>
-            <div>Adult Advanced</div>
+            <div>Adult Intermediate</div>
             <div class="fw-bold">No-Gi</div>
           </div>
         </div>
@@ -159,7 +159,7 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1200 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">11am - 12pm</div>
-            <div>Adult Beginners</div>
+            <div>Postional Drilling/Sparring</div>
             <div class="fw-bold">Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1200 rg-event-end-1330 rg-event-advanced">
@@ -176,7 +176,7 @@ layout: default
         </div>
         <div class="rg-calendar-day-events">
           <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1200 rg-event-workshop">
-            <div class="rg-calendar-day-event-time">10am - 12pm</div>
+            <div class="rg-calendar-day-event-time">11am - 1pm</div>
             <div>Open Mat</div>
             <div class="fw-bold">Gi / No-Gi</div>
           </div>
