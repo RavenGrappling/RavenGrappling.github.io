@@ -159,7 +159,8 @@ layout: default
           </div>
           <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1200 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">11am - 12pm</div>
-            <div>Postional Drilling/Sparring</div>
+            <div>Postional</div>
+            <div>Drilling/Saprring</div>
             <div class="fw-bold">Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1200 rg-event-end-1330 rg-event-advanced">
