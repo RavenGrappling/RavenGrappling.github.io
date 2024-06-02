@@ -8,7 +8,7 @@ layout: default
   <h1 class="text-center fw-bold">New Students</h1>
 
   <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
-    <div class="rg-membership-button-label">10-Day Trial</div>
+    <div class="rg-membership-button-label">3-Day Trial</div>
     <div class="rg-membership-button-desc fw-bold fs-2">
       Free
     </div>
@@ -76,7 +76,7 @@ layout: default
   <a href="/contact-us" class="rg-membership-button rg-membership-button--private">
     <div class="rg-membership-button-label">Private Session</div>
     <div class="rg-membership-button-desc">
-      Contact for pricing
+      Contact for Pricing
     </div>
     <div class="rg-membership-button-price"></div>
   </a>
