@@ -37,7 +37,7 @@ layout: default
       </h3>
       <ul>
         <li>No-Gi (Monday & Wednesday)</li>
-        <li>Gi (Tuesday, Thursday & Satruday)</li>
+        <li>Gi (Tuesday, Thursday & Saturday)</li>
       </ul>
       <h3>Program Goals</h3>
       <ul>
