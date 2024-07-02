@@ -2,7 +2,6 @@
 title: Raven Grappling - Schedule
 layout: default
 ---
-<div class="maonrails-schedule" attr-gym="A91kn" attr-schedule="all" attr-program="all"></div>
 
 <div class="container py-5 px-4 p-lg-5">
   <h1 class="text-center text-uppercase">Class Schedule</h1>
