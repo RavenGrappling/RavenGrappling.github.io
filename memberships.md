@@ -7,7 +7,7 @@ layout: default
   
   <h1 class="text-center fw-bold">New Students</h1>
 
-  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--trial">
+  <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
     <div class="rg-membership-button-label">3-Day Trial</div>
     <div class="rg-membership-button-desc fw-bold fs-2">
       Free
