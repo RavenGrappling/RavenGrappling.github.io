@@ -21,7 +21,7 @@ layout: default
     No Fixed Contracts. No Sign-up Fees. No Hidden Costs
   </p> 
     
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--kids">
     <div class="rg-membership-button-label">Kids / Teens</div>
     <div class="rg-membership-button-desc">
       Unlimited classes / month
@@ -31,7 +31,7 @@ layout: default
     </div>
   </a>
   
-  <a href="https://ravengrappling.pushpress.com/landing/plans/plan_5efd1e63945df9" class="rg-membership-button">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button">
     <div class="rg-membership-button-label">Basic</div>
     <div class="rg-membership-button-desc">
       6 classes / month
@@ -41,7 +41,7 @@ layout: default
     </div>
   </a>
 
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/yo0k" class="rg-membership-button rg-membership-button--standard">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--standard">
     <div class="rg-membership-button-label">Standard</div>
     <div class="rg-membership-button-desc">
       8 classes / month
@@ -51,7 +51,7 @@ layout: default
     </div>
   </a>
 
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/xz81" class="rg-membership-button rg-membership-button--premium">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--premium">
     <div class="rg-membership-button-label">Premium</div>
     <div class="rg-membership-button-desc">
       Unlimited classes / month
@@ -63,7 +63,7 @@ layout: default
 
   <h1 class="text-center fw-bold">Flexible Options</h1>
 
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/xlfv" class="rg-membership-button rg-membership-button--flex">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--flex">
     <div class="rg-membership-button-label">Punch Card</div>
     <div class="rg-membership-button-desc">
       10 classes   
