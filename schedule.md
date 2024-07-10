@@ -163,7 +163,7 @@ layout: default
             <div class="fw-bold">Gi</div>
           </div>
           <div class="rg-calendar-day-event rg-event-start-1200 rg-event-end-1330 rg-event-advanced">
-            <div class="rg-calendar-day-event-time">12pm - 1:30pm</div>
+            <div class="rg-calendar-day-event-time">12pm-1:30pm</div>
             <div>Adult Advanced</div>
             <div class="fw-bold">Gi</div>
           </div>
