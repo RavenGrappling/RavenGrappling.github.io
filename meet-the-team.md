@@ -67,13 +67,13 @@ layout: default
         <p> Currently holding the rank of purple belt in Brazilian Jiu Jitsu, Tiffany is a life-long martial artist whose first exposure to the sport was via watching Power Rangers in 1994. Fast forward almost three decades and she is now an accomplished multi-disciplined instructor, who has trained and taught at many gyms across North America. 
         </p>
         <p>
-          Also, as a coach and an active competitor, Tiffany brings with her a lot of knowledge as well as experience and understands what athletes need to be able to achieve their goals. She also takes great joy in actively encouraging students to succeed, and always looks forward to helping them grow into champions, both on and off the mats.
+          Also, as both a coach and an active competitor, Tiffany brings with her a lot of knowledge as well as experience and understands what athletes need to be able to achieve their goals. She also takes great joy in actively encouraging students to succeed and looks forward to helping them grow into champions, both on and off the mats.
         </p>
         <p>
-           As Tiffany continues to evolve as a martial artist, you can count on her to be very detail oriented and to always approach training from a safety-based mindset. When not coaching, Tiffany can be regularly seen on the mats setting new challenges for herself, so that she can become a bit better every day. 
+           As Tiffany continues to evolve as a martial artist, you can count on her to be very detail-oriented and to always approach training from a safety-based mindset. When not coaching, Tiffany can be regularly seen on the mats setting new challenges for herself, so that she can become a little bit better every day. 
         </p
         <p>
-          When you find yourself on the mats, look for Tiffany, as you can count on her to give you a warm welcome, whether you are a new or a veteran student, at Raven Grappling.
+          When you find yourself on the mats, look for Tiffany, as you can count on her to give you a warm welcome, whether you are a new or a veteran student at Raven Grappling.
         </p>
         
   <div class="row">
