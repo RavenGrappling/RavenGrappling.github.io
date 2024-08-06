@@ -71,7 +71,7 @@ layout: default
         </p>
         <p>
            As Tiffany continues to evolve as a martial artist, you can count on her to be very detail-oriented and to always approach training from a safety-based mindset. When not coaching, Tiffany can be regularly seen on the mats setting new challenges for herself, so that she can become a little bit better every day. 
-        </p
+        </p>
         <p>
           When you find yourself on the mats, look for Tiffany, as you can count on her to give you a warm welcome, whether you are a new or a veteran student at Raven Grappling.
         </p>
