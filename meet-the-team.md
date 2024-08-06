@@ -75,7 +75,9 @@ layout: default
         <p>
           When you find yourself on the mats, look for Tiffany, as you can count on her to give you a warm welcome, whether you are a new or a veteran student at Raven Grappling.
         </p>
-        
+    </div>  
+  </div>
+    
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
