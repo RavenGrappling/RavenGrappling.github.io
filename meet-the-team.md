@@ -51,8 +51,31 @@ layout: default
       <p>Whether it’s your first time meeting Mike or if you have trained with him in the past, you will quickly see that his passion for Brazilian Jiu Jitsu and innate nature of being analytical, is what continues to drive him to be such a great practitioner and coach, to both his peers and students alike.
       </p>
     </div>  
-  </div>  
-      
+  </div> 
+
+  <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/academy/Tiffany1.jpg" alt="Tiffany" class="img-fluid mb-5">
+    </div>
+    <div class="col-lg">
+      <h3 class="fw-bold">
+        Tiffany
+      </h3>
+      <h4>
+        Assistant Instructor - Beginner Program
+      </h4>
+        <p> Currently holding the rank of purple belt in Brazilian Jiu Jitsu, Tiffany is a life-long martial artist whose first exposure to the sport was via watching Power Rangers in 1994. Fast forward almost three decades and she is now an accomplished multi-disciplined instructor, who has trained and taught at many gyms across North America. 
+        </p>
+        <p>
+          Also, as a coach and an active competitor, Tiffany brings with her a lot of knowledge as well as experience and understands what athletes need to be able to achieve their goals. She also takes great joy in actively encouraging students to succeed, and always looks forward to helping them grow into champions, both on and off the mats.
+        </p>
+        <p>
+           As Tiffany continues to evolve as a martial artist, you can count on her to be very detail oriented and to always approach training from a safety-based mindset. When not coaching, Tiffany can be regularly seen on the mats setting new challenges for herself, so that she can become a bit better every day. 
+        </p
+        <p>
+          When you find yourself on the mats, look for Tiffany, as you can count on her to give you a warm welcome, whether you are a new or a veteran student, at Raven Grappling.
+        </p>
+        
   <div class="row">
     <div class="col-lg">
       <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
