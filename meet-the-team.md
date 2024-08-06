@@ -33,7 +33,7 @@ layout: default
     
   <div class="row">
     <div class="col-lg">
-      <img src="/assets/images/academy/mike1.jpg" alt="Mike" class="img-fluid mb-5">
+      <img src="/assets/images/academy/mike2.jpg" alt="Mike" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
       <h3 class="fw-bold">
@@ -55,7 +55,7 @@ layout: default
 
   <div class="row">
     <div class="col-lg">
-      <img src="/assets/images/academy/Tiffany1.jpg" alt="Tiffany" class="img-fluid mb-5">
+      <img src="/assets/images/academy/tiffany2.jpg" alt="Tiffany" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
       <h3 class="fw-bold">
@@ -80,7 +80,7 @@ layout: default
     
   <div class="row">
     <div class="col-lg">
-      <img src="/assets/images/academy/yoko.jpg" alt="Yoko" class="img-fluid mb-5">
+      <img src="/assets/images/academy/yoko2.jpg" alt="Yoko" class="img-fluid mb-5">
     </div>
     <div class="col-lg">
       <h3 class="fw-bold">
