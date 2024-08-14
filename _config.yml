@@ -1,1 +1,7 @@
 name: Raven Grappling
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
