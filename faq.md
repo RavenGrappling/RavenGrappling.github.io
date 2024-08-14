@@ -36,7 +36,7 @@ layout: default
       <div id="faq-about-body-2" class="accordion-collapse collapse" aria-labelledby="faq-about-header-3" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            Absolutely! BJJ is the single most effective martial art for women to learn. It will teach you self-defence techniques in a way that empowers you to be in control, so that you can gain the confidence in your ability to protect yourself if ever in danager.
+            Absolutely! BJJ is the single most effective martial art for women to learn. It will teach you self-defence techniques in a way that empowers you to be in control, so that you can gain the confidence in your ability to protect yourself.
           </p>
         </div>
       </div>
@@ -126,10 +126,10 @@ layout: default
       <div id="faq-about-body-7" class="accordion-collapse collapse" aria-labelledby="faq-about-header-7" data-bs-parent="#faq-about">
         <div class="accordion-body">
           <p>
-            Our classes are generally 1 hour long.. 
+            Our classes are generally 1 hour across all programs. 
           </p>
           <p>
-            The only class that is 1.5 hours long, is the Advanced class.
+            Only the Advanced & Intermediate classes are 1.5 hours long. 
           </p>
         </div>
       </div>
@@ -152,7 +152,7 @@ layout: default
           <p>
             No. All of our programs are designed to help you ease into every exercise. 
             We will never force you to do anything that you are not comfortable with. 
-            Our goal is to make you stronger and healthier, while having a good time doing so.
+            Our goal is to make you stronger and healthier, while making sure that you are having a good time doing so.
           </p>
         </div>
       </div>

@@ -6,9 +6,9 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>
     Kids
-    <small>(5-10 years)</small>
+    <small>(5-9 years)</small>
     & Juniors/Teens
-    <small>(11-15 years)</small>
+    <small>(10-14 years)</small>
   </h1>
 
   <h3>
@@ -37,7 +37,7 @@ layout: default
       </h3>
       <ul>
         <li>No-Gi (Monday & Wednesday)</li>
-        <li>Gi (Tuesday, Thursday & Satruday)</li>
+        <li>Gi (Tuesday, Thursday & Saturday)</li>
       </ul>
       <h3>Program Goals</h3>
       <ul>

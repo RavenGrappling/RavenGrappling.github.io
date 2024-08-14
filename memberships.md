@@ -7,8 +7,8 @@ layout: default
   
   <h1 class="text-center fw-bold">New Students</h1>
 
-  <a href="https://ravengrappling.pushpress.com/landing/plans/plan_a044566e67e52a" class="rg-membership-button rg-membership-button--trial">
-    <div class="rg-membership-button-label">10-Day Trial</div>
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--trial">
+    <div class="rg-membership-button-label">3-Day Trial</div>
     <div class="rg-membership-button-desc fw-bold fs-2">
       Free
     </div>
@@ -18,65 +18,65 @@ layout: default
   <h1 class="text-center fw-bold my-1">Memberships</h1>
   
   <p class="text-center">
-    No Contracts. No Sign-up Fees. No Hidden Costs
+    No Fixed Contracts. No Sign-up Fees. No Hidden Costs
   </p> 
     
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/ftxr" class="rg-membership-button rg-membership-button--kids">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--kids">
     <div class="rg-membership-button-label">Kids / Teens</div>
     <div class="rg-membership-button-desc">
-      Unlimited classes
-    </div>
-    <div class="rg-membership-button-price fw-bold">
-      $130
-    </div>
-  </a>
-  
-  <a href="https://ravengrappling.pushpress.com/landing/plans/plan_5efd1e63945df9" class="rg-membership-button">
-    <div class="rg-membership-button-label">Basic</div>
-    <div class="rg-membership-button-desc">
-      6 classes per month
+      Unlimited classes / month
     </div>
     <div class="rg-membership-button-price fw-bold">
       $150
     </div>
   </a>
-
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/yo0k" class="rg-membership-button rg-membership-button--standard">
-    <div class="rg-membership-button-label">Standard</div>
+  
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button">
+    <div class="rg-membership-button-label">Basic</div>
     <div class="rg-membership-button-desc">
-      9 classes per month
+      6 classes / month
     </div>
     <div class="rg-membership-button-price fw-bold">
-      $170
+      $160
     </div>
   </a>
 
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/xz81" class="rg-membership-button rg-membership-button--premium">
-    <div class="rg-membership-button-label">Premium</div>
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--standard">
+    <div class="rg-membership-button-label">Standard</div>
     <div class="rg-membership-button-desc">
-      Unlimited classes
+      8 classes / month
     </div>
     <div class="rg-membership-button-price fw-bold">
-      $190
+      $180
+    </div>
+  </a>
+
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--premium">
+    <div class="rg-membership-button-label">Premium</div>
+    <div class="rg-membership-button-desc">
+      Unlimited classes / month
+    </div>
+    <div class="rg-membership-button-price fw-bold">
+      $200
     </div>
   </a>
 
   <h1 class="text-center fw-bold">Flexible Options</h1>
 
-  <a href="https://ravengrappling.pushpress.com/open/subscribe/xlfv" class="rg-membership-button rg-membership-button--flex">
+  <a href="https://raven-grappling.gymdesk.com/signup" class="rg-membership-button rg-membership-button--flex">
     <div class="rg-membership-button-label">Punch Card</div>
     <div class="rg-membership-button-desc">
       10 classes   
     </div>
     <div class="rg-membership-button-price fw-bold">
-      $250
+      $275
     </div>
   </a>
 
   <a href="/contact-us" class="rg-membership-button rg-membership-button--private">
     <div class="rg-membership-button-label">Private Session</div>
     <div class="rg-membership-button-desc">
-      Contact for pricing
+      Contact for Pricing
     </div>
     <div class="rg-membership-button-price"></div>
   </a>

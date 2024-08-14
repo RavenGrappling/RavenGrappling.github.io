@@ -6,14 +6,14 @@ layout: default
 <div class="container py-5 px-4 p-lg-5">
   <h1>
     Beginners
-    <small>Adults (16+)</small>
+    <small>Adults (15+)</small>
   </h1>
 
   <h3>
     Program description
   </h3>
   <p>
-    Thus class has been carefully designed to provide students with a welcoming and nurturing learning environment. Emphasis is always placed on safety, so that all students can benefit from learning at their own pace and comfort level.
+    This class has been carefully designed to provide students with a welcoming and nurturing learning environment. Emphasis is always placed on safety, so that all students can benefit from learning at their own pace and comfort level.
   </p>
   <p>
     To guide students in their learning, the beginner program follows a set curriculum that focuses on 4 core positions of Brazilian Jiu Jitsu. Students will be spending time on each position for 2 weeks, before transitioning to the next. With this model of learning, the beginner program can be fully explored by a student every 2 months. The goal is to make sure that each position can be revisited frequently, so that students can better retain what they learned on previous rotations, both as theory and practice.

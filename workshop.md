@@ -5,22 +5,19 @@ layout: default
 
 <div class="container py-5 px-4 p-lg-5">
   <h1>
-    The Workshop
+     Open Mat
   </h1>
 
   <h3>
     Program description
   </h3>
   <p>
-    This class is designed for the specific purpose of providing students with protected time for self-learning as well as the opportunity to continue to practice what they had learned in class.
+    This class is designed to provide students with time for self-learning & the opportunity to practice what they had learned in class.
   </p>
   <p>
-    Advanced students are encouraged to use this time to explore new techniques and concepts from other sources, as it is understood that their goals and interests can be different from what is currently taught in class, and based on where they are in their individual development.
+    Students and visitors alike are also able to use this training session to learn new techniques as well as do some live or positional sparring. 
   </p>
-  <p>
-    Aside from technique exploration and practice, students are also able to use this session for additional live or positional sparring. It should be noted that students who are yet to transition from the fundamental program will only be allowed to engage in positional sparring, so that potential risk of injury is avoided.
-  </p>
-  
+
   <div class="row">
     <div class="col-lg">
       <h3>

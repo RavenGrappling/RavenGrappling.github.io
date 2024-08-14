@@ -9,7 +9,7 @@ layout: default
       <h1 class="fw-bold">Contact Information</h1>
       <p>
         <a href="https://www.google.com/maps/place/Raven+Grappling+-+Brazilian+Jiu+Jitsu/@49.2483481,-122.8620403,17.29z/data=!4m5!3m4!1s0x0:0x24b2c3e23fd40b0!8m2!3d49.2485749!4d-122.8623326">
-          1066C Austin Avenue
+          1066C Austin Ave
           <br>
           Coquitlam, BC V3K 3P3
         </a>
