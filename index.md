@@ -12,6 +12,40 @@ layout: default
   </div>
 </div>
 
+
+
+<form class="max-w-sm mx-auto" method="post" action="https://gymdesk.com/contact/form">
+    <input type="hidden" name="form_id" value="Ddr5L">
+	<input type="hidden" name="external" value="1">
+	<input type="hidden" name="gym" value="A91kn">
+	<input type="hidden" name="post_submit_redirect_url" value="https://google.com">
+
+    <div class="mb-5">
+      <label for="name" class="block mb-2 text-sm font-medium text-gray-900">Your name</label>
+      <input type="text" name="name" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" required />
+    </div>
+    <div class="mb-5">
+        <label for="email" class="block mb-2 text-sm font-medium text-gray-900">Email address</label>
+        <input type="email" name="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" required />
+    </div>
+    <div class="mb-5">
+        <label for="phone" class="block mb-2 text-sm font-medium text-gray-900">Phone number</label>
+        <input type="text" name="phone" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" required />
+    </div>
+    <div class="mb-5">
+        <label for="fields[9100]" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Choose a program</label>
+        <select name="fields[9100]" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+            <option value="" label="-- Please Select --">-- Please Select Program --</option>
+            <option value="Kids Martial Arts" label="Kids Martial Arts">Kids Martial Arts</option>
+            <option value="Juniors/Teens Martial Arts" label="Juniors/Teens Martial Arts">Juniors/Teens Martial Arts</option>
+            <option value="Adult Martial Arts" label="Adult Martial Arts">Adult Martial Arts</option>
+        </select>
+    </div>
+
+    <button type="submit" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center">Submit</button>
+</form>
+
+
 <div class="rg-container light">
   <div class= "container py-5 px-4 p-lg-4">
     <h1 class="text-center fw-bold">
@@ -160,4 +194,3 @@ layout: default
     {% include location-and-contact.html %}
   </div>
 </div>
-
