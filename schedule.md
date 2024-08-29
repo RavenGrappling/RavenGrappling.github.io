@@ -178,7 +178,7 @@ layout: default
           Sunday
         </div>
         <div class="rg-calendar-day-events">
-          <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1200 rg-event-workshop">
+          <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1300 rg-event-workshop">
             <div class="rg-calendar-day-event-time">11am - 1pm</div>
             <div>Open Mat</div>
             <div class="fw-bold">Gi / No-Gi</div>
