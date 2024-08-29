@@ -153,19 +153,19 @@ layout: default
           Saturday
         </div>
         <div class="rg-calendar-day-events">
-          <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1100 rg-event-kids-teens">
+          <div class="rg-calendar-day-event rg-event-start-1000 rg-event-end-1130 rg-event-kids-teens">
             <div class="rg-calendar-day-event-time">10am - 11am</div>
             <div>Kids/Juniors/Teens</div>
             <div>Drilling & Sparring</div>
             <div class="fw-bold">No-Gi</div>
           </div>
-          <div class="rg-calendar-day-event rg-event-start-1100 rg-event-end-1200 rg-event-fundamentals">
+          <div class="rg-calendar-day-event rg-event-start-1130 rg-event-end-1300 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">11am - 12pm</div>
             <div>Adult</div>
             <div>Drilling/Sparring</div>
             <div class="fw-bold">No-Gi</div>
           </div>
-          <div class="rg-calendar-day-event rg-event-start-1200 rg-event-end-1330 rg-event-intermediate">
+          <div class="rg-calendar-day-event rg-event-start-1300 rg-event-end-1430 rg-event-intermediate">
             <div class="rg-calendar-day-event-time">12pm-1:30pm</div>
             <div>Adult - All Levels</div>
             <div class="fw-bold">No-Gi</div>
