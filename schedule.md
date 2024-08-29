@@ -129,7 +129,7 @@ layout: default
             <div>Adult - All Levels</div>
             <div class="fw-bold">Gi</div>
           </div>
-          <div class="rg-calendar-day-event rg-event-start-1730 rg-event-end-2030 rg-event-fundamentals">
+          <div class="rg-calendar-day-event rg-event-start-1930 rg-event-end-2030 rg-event-fundamentals">
             <div class="rg-calendar-day-event-time">7:30 - 8:30pm</div>
             <div>Adult Beginners</div>
             <div class="fw-bold">Gi</div>
