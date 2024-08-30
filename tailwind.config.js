@@ -12,6 +12,7 @@ module.exports = {
     extend: {
       colors: {
         "raven-blue": "#1c2e4f",
+        "raven-red": "#e51564",
       },
     },
   },
