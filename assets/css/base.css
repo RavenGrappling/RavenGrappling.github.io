@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@import "/assets/css/normalize.css";
+
+:root {
+  --raven-blue: rgb(28, 46, 79);
+  --raven-red: rgb(235, 25, 70);
+  --raven-gray: rgb(248, 249, 251);
+  --max-width: 80rem;
+  --nav-height: 64px;
+}
+
+html {
+  font-family: "Inter var", system-ui, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+body {
+  margin-top: var(--nav-height);
+}
+
+/* -- Segment -------------------------------------------------------------- */
+.segment-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .segment-container {
+    padding: 0 10px;
+  }
+}
+
+/* -- Navigation ----------------------------------------------------------- */
+nav {
+  background-color: var(--raven-blue);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  .segment-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    .logo {
+      height: 32px;
+      img {
+        height: 100%;
+      }
+    }
+    button[data-nav-toggle] {
+      height: 24px;
+      width: 24px;
+      color: white;
+      display: none;
+    }
+    > ul {
+      display: flex;
+      gap: 10px;
+      > li {
+        position: relative;
+        > a {
+          display: flex;
+          align-items: center;
+          font-size: 14px;
+          line-height: 20px;
+          font-weight: 500;
+          color: white;
+          text-decoration: none;
+          padding: 8px 12px 10px 12px;
+          border-radius: 6px;
+          margin: 8px 0;
+          &:hover {
+            background-color: var(--raven-red);
+          }
+          svg {
+            color: white;
+            height: 12px;
+            width: 12px;
+            margin-left: 5px;
+            margin-top: 4px;
+          }
+        }
+        > ul {
+          position: absolute;
+          z-index: 20;
+          padding: 5px 0;
+          box-shadow:
+            rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
+            rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+          border-radius: 5px;
+          background-color: white;
+          a {
+            display: block;
+            white-space: nowrap;
+            font-size: 14px;
+            color: var(--raven-blue);
+            text-decoration: none;
+            padding: 10px 20px;
+            &:hover {
+              color: var(--raven-red);
+              background-color: var(--raven-gray);
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  nav {
+    .segment-container {
+      padding: 10px;
+      button[data-nav-toggle] {
+        display: block;
+        background-color: transparent;
+        border: 0;
+      }
+      > ul {
+        flex-basis: 100%;
+        flex-grow: 1;
+        display: none;
+        &.show {
+          display: block;
+        }
+      }
+    }
+  }
+}
