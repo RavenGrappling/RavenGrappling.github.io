@@ -10,9 +10,11 @@ function initNav() {
 }
 
 function toggleNav(event) {
+  event.preventDefault();
   document.querySelector("[data-nav]").classList.toggle("show");
 }
 
 function toggleDropdown(event) {
+  event.preventDefault();
   event.currentTarget.nextElementSibling.classList.toggle("show");
 }

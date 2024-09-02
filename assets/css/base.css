@@ -6,6 +6,7 @@
   --raven-blue: rgb(28, 46, 79);
   --raven-red: rgb(235, 25, 70);
   --raven-gray: rgb(248, 249, 251);
+  --gray-900: rgb(17, 24, 39);
   --max-width: 70rem;
   --nav-height: 70px;
   --shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
@@ -17,23 +18,9 @@ html {
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
-/* -- Reset ---------------------------------------------------------------- */
-ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-p,
-h1,
-h2,
-h3,
-h4 {
-  margin: 0;
-}
-
 body {
   margin-top: var(--nav-height);
+  color: var(--gray-900);
 }
 
 /* -- Section -------------------------------------------------------------- */
@@ -43,6 +30,52 @@ section {
   padding: 1rem;
   &.padded {
     padding: 3rem 1rem;
+  }
+}
+
+/* -- Form ---------------------------------------------------------------- */
+form.formatted-form {
+  .form-field {
+    margin-bottom: 24px;
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 500;
+      color: var(--gray-900);
+      margin-bottom: 0.5rem;
+    }
+    input,
+    select {
+      display: block;
+      width: 100%;
+      font-size: 14px;
+      line-height: 24px;
+      background-color: white;
+      border: 0;
+      border-radius: 6px;
+      padding: 6px 12px;
+      box-shadow:
+        rgb(255, 255, 255) 0px 0px 0px 0px inset,
+        rgb(209, 213, 219) 0px 0px 0px 1px inset,
+        rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+    }
+    select {
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+      background-position: right 0.5rem center;
+      background-repeat: no-repeat;
+      background-size: 1.5em 1.5em;
+      padding-right: 2.5rem;
+    }
+  }
+  button {
+    background-color: var(--raven-red);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    width: 100%;
   }
 }
 
