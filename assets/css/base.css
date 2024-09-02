@@ -79,6 +79,29 @@ form.formatted-form {
   }
 }
 
+form[data-leads-form] {
+  .success-message,
+  .failure-message {
+    display: none;
+  }
+  &.success,
+  &.failure {
+    .form {
+      display: none;
+    }
+  }
+  &.success {
+    .success-message {
+      display: block;
+    }
+  }
+  &.failure {
+    .failure-message {
+      display: block;
+    }
+  }
+}
+
 /* -- Navigation ----------------------------------------------------------- */
 nav {
   background-color: var(--raven-blue);
