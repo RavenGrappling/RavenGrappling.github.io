@@ -8,6 +8,8 @@
   --raven-gray: rgb(248, 249, 251);
   --max-width: 80rem;
   --nav-height: 64px;
+  --shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
+    rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
 }
 
 html {
@@ -43,6 +45,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
+  box-shadow: var(--shadow);
   .segment-container {
     display: flex;
     flex-wrap: wrap;
@@ -76,7 +79,8 @@ nav {
           padding: 8px 12px 10px 12px;
           border-radius: 6px;
           margin: 8px 0;
-          &:hover {
+          &:hover,
+          &.active {
             background-color: var(--raven-red);
           }
           svg {
@@ -91,11 +95,13 @@ nav {
           position: absolute;
           z-index: 20;
           padding: 5px 0;
-          box-shadow:
-            rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
-            rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+          box-shadow: var(--shadow);
           border-radius: 5px;
           background-color: white;
+          display: none;
+          &.show {
+            display: block;
+          }
           a {
             display: block;
             white-space: nowrap;
