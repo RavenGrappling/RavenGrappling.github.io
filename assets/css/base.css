@@ -23,6 +23,38 @@ body {
   color: var(--gray-900);
 }
 
+/* -- Typography ---------------------------------------------------------- */
+h1 {
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+}
+h2 {
+  font-size: 30px;
+  line-height: 46px;
+  font-weight: 600;
+}
+h3 {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+}
+
+/* -- Utility -------------------------------------------------------------- */
+.flex {
+  display: flex;
+  gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .flex {
+    display: block;
+    > * {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
 /* -- Section -------------------------------------------------------------- */
 section {
   max-width: var(--max-width);
@@ -31,6 +63,10 @@ section {
   &.padded {
     padding: 3rem 1rem;
   }
+}
+
+.section-bg {
+  background-color: var(--raven-gray);
 }
 
 /* -- Form ---------------------------------------------------------------- */
@@ -256,7 +292,11 @@ footer {
     .contact-and-social {
       display: block;
       .contact {
+        text-align: center;
         margin-bottom: 2rem;
+      }
+      .social {
+        justify-content: center;
       }
     }
   }
@@ -264,4 +304,19 @@ footer {
 
 /* -- Index ---------------------------------------------------------------- */
 body.page-index {
+  form[data-leads-form] {
+    flex-shrink: 0;
+    width: 350px;
+    box-shadow: var(--shadow);
+    padding: 1rem;
+    border-radius: 6px;
+  }
+}
+
+@media (max-width: 768px) {
+  body.page-index {
+    form[data-leads-form] {
+      width: 100%;
+    }
+  }
 }
