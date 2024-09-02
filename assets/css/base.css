@@ -6,8 +6,8 @@
   --raven-blue: rgb(28, 46, 79);
   --raven-red: rgb(235, 25, 70);
   --raven-gray: rgb(248, 249, 251);
-  --max-width: 80rem;
-  --nav-height: 64px;
+  --max-width: 70rem;
+  --nav-height: 70px;
   --shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
     rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
 }
@@ -17,25 +17,32 @@ html {
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
+/* -- Reset ---------------------------------------------------------------- */
 ul {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
+p,
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
 body {
   margin-top: var(--nav-height);
 }
 
-/* -- Segment -------------------------------------------------------------- */
-.segment-container {
+/* -- Section -------------------------------------------------------------- */
+section {
   max-width: var(--max-width);
   margin: 0 auto;
-}
-
-@media (max-width: 768px) {
-  .segment-container {
-    padding: 0 10px;
+  padding: 1rem;
+  &.padded {
+    padding: 3rem 1rem;
   }
 }
 
@@ -46,11 +53,11 @@ nav {
   top: 0;
   width: 100%;
   box-shadow: var(--shadow);
-  .segment-container {
+  section {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: space-between;
+    min-height: var(--nav-height);
     .logo {
       height: 32px;
       img {
@@ -58,8 +65,8 @@ nav {
       }
     }
     button[data-nav-toggle] {
-      height: 24px;
-      width: 24px;
+      height: 38px;
+      width: 38px;
       color: white;
       display: none;
     }
@@ -78,7 +85,6 @@ nav {
           text-decoration: none;
           padding: 8px 12px 10px 12px;
           border-radius: 6px;
-          margin: 8px 0;
           &:hover,
           &.active {
             background-color: var(--raven-red);
@@ -122,8 +128,7 @@ nav {
 
 @media (max-width: 768px) {
   nav {
-    .segment-container {
-      padding: 10px;
+    section {
       button[data-nav-toggle] {
         display: block;
         background-color: transparent;
@@ -133,10 +138,74 @@ nav {
         flex-basis: 100%;
         flex-grow: 1;
         display: none;
+        padding: 10px 0;
         &.show {
           display: block;
+        }
+        > li {
+          > a {
+            margin-bottom: 5px;
+          }
+          > ul {
+            position: relative;
+            margin-bottom: 5px;
+          }
         }
       }
     }
   }
+}
+
+/* -- Footer --------------------------------------------------------------- */
+footer {
+  background-color: var(--raven-blue);
+
+  iframe {
+    margin-bottom: 2rem;
+    border-radius: 6px;
+  }
+
+  a {
+    color: white;
+  }
+
+  .contact-and-social {
+    display: flex;
+    justify-content: space-between;
+
+    a {
+      text-decoration: none;
+      &:hover {
+        opacity: 0.75;
+      }
+    }
+
+    .contact {
+      a {
+        display: block;
+        margin-bottom: 1rem;
+      }
+    }
+
+    .social {
+      display: flex;
+      gap: 2rem;
+      align-items: center;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  footer {
+    .contact-and-social {
+      display: block;
+      .contact {
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}
+
+/* -- Index ---------------------------------------------------------------- */
+body.page-index {
 }
