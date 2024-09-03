@@ -46,7 +46,7 @@ p {
   color: rgb(71, 85, 105);
   margin-bottom: 1rem;
 }
-p + h3 {
+p + h3, ul + h3 {
   margin-top: 2rem;
 }
 
