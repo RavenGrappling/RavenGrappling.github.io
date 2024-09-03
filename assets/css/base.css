@@ -364,8 +364,7 @@ body.page-schedule {
   .r-calendar-day-name {
     text-align: center;
     padding: 5px;
-    font-weight: bold;
-    color: #212529;
+    color: var(--gray-900);
   }
   .r-calendar-day-events {
     display: grid;
