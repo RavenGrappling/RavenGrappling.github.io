@@ -25,19 +25,39 @@ body {
 
 /* -- Typography ---------------------------------------------------------- */
 h1 {
-  font-size: 36px;
-  line-height: 40px;
-  font-weight: 700;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 800;
+  margin-bottom: 2rem;
 }
 h2 {
-  font-size: 30px;
-  line-height: 46px;
+  font-size: 1.5rem;
+  line-height: 2rem;
   font-weight: 600;
+  margin-bottom: 1rem;
 }
 h3 {
-  font-size: 24px;
-  line-height: 32px;
-  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+p {
+  color: rgb(71, 85, 105);
+  margin-bottom: 1rem;
+}
+p + h3 {
+  margin-top: 2rem;
+}
+
+p.squished {
+  width: 75%;
+}
+
+@media (max-width: 768px) {
+  p.squished {
+    width: 100%;
+  }
 }
 
 /* -- Utility -------------------------------------------------------------- */
@@ -112,6 +132,9 @@ form.formatted-form {
     padding: 6px 12px;
     border-radius: 6px;
     width: 100%;
+    &:hover {
+      opacity: 0.85;
+    }
   }
 }
 
@@ -305,6 +328,7 @@ footer {
 /* -- Index ---------------------------------------------------------------- */
 body.page-index {
   form[data-leads-form] {
+    background-color: var(--raven-gray);
     flex-shrink: 0;
     width: 350px;
     box-shadow: var(--shadow);
