@@ -1,0 +1,77 @@
+<form data-leads-form method="post" action="https://gymdesk.com/contact/form" class="formatted-form">
+  <div class="success-message">
+    <h3>
+      Thank you for your interest!
+    </h3>
+    <p>
+      We’ll be in touch with you soon.
+    </p>
+    <p>
+      For more information, feel free to call or text us at
+      <a href="tel:+17788195200">(778) 819-5200</a> or email us at
+      <a href="mailto:info@ravengrappling.com">info@ravengrappling.com</a>
+    </p>
+  </div>
+
+  <div class="failure-message">
+    <h3>
+      Something went wrong :(
+    </h3>
+    <p>
+      Please call or text us at
+      <a href="tel:+17788195200">(778) 819-5200</a>
+      or email us at
+      <a href="mailto:info@ravengrappling.com">info@ravengrappling.com</a>
+      instead. Thank you!
+    </p>
+  </div>
+
+  <div class="form">
+    <h3>
+      Complete the form below to book your free trial class
+    </h3>
+
+    <input type="hidden" name="form_id" value="Ddr5L">
+    <input type="hidden" name="external" value="1">
+    <input type="hidden" name="gym" value="A91kn">
+
+    <div class="form-field">
+      <label for="name">Your name</label>
+      <input type="text" name="name" required />
+    </div>
+
+    <div class="form-field">
+      <label for="email">Email address</label>
+      <input type="email" name="email" required />
+    </div>
+
+    <div class="form-field">
+      <label for="phone">Phone number</label>
+      <input type="text" name="phone" required />
+    </div>
+
+    {% case include.program %}
+    {% when "kids" %}
+      <input type="hidden" name="fields[9100]" value="Kids Martial Arts">
+    {% when "teens" %}
+      <input type="hidden" name="fields[9100]" value="Juniors/Teens Martial Arts">
+    {% when "adults" %}
+      <input type="hidden" name="fields[9100]" value="Adult Martial Arts">
+
+    {% else %}
+      <div class="form-field">
+        <label for="fields[9100]">Choose a program</label>
+        <select name="fields[9100]" required>
+          <option value="">-- Please Select Program --</option>
+          <option value="Kids Martial Arts">Kids Martial Arts</option>
+          <option value="Juniors/Teens Martial Arts">Juniors/Teens Martial Arts</option>
+          <option value="Adult Martial Arts">Adult Martial Arts</option>
+        </select>
+      </div>
+    {% endcase %}
+
+    <button type="submit">
+      Submit
+    </button>
+  </div>
+</form>

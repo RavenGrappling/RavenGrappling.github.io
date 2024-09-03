@@ -49,9 +49,14 @@ p {
 p + h3, ul + h3 {
   margin-top: 2rem;
 }
-
 p.squished {
   width: 75%;
+}
+a {
+  color: var(--raven-red);
+  &:hover {
+    text-decoration: undeline;
+  }
 }
 
 @media (max-width: 768px) {
@@ -64,6 +69,7 @@ p.squished {
 .flex {
   display: flex;
   gap: 2rem;
+  justify-content: space-between;
 }
 
 @media (max-width: 768px) {
@@ -134,29 +140,6 @@ form.formatted-form {
     width: 100%;
     &:hover {
       opacity: 0.85;
-    }
-  }
-}
-
-form[data-leads-form] {
-  .success-message,
-  .failure-message {
-    display: none;
-  }
-  &.success,
-  &.failure {
-    .form {
-      display: none;
-    }
-  }
-  &.success {
-    .success-message {
-      display: block;
-    }
-  }
-  &.failure {
-    .failure-message {
-      display: block;
     }
   }
 }
@@ -325,23 +308,43 @@ footer {
   }
 }
 
-/* -- Index ---------------------------------------------------------------- */
-body.page-index {
-  form[data-leads-form] {
-    background-color: var(--raven-gray);
-    flex-shrink: 0;
-    width: 350px;
-    box-shadow: var(--shadow);
-    padding: 1rem;
-    border-radius: 6px;
+/* -- Leads Form ----------------------------------------------------------- */
+form[data-leads-form] {
+  background-color: var(--raven-gray);
+  flex-shrink: 0;
+  width: 350px;
+  box-shadow: var(--shadow);
+  padding: 1rem;
+  border-radius: 6px;
+  h3 {
+    text-align: center;
+  }
+  .success-message,
+  .failure-message {
+    text-align: center;
+    display: none;
+  }
+  &.success,
+  &.failure {
+    .form {
+      display: none;
+    }
+  }
+  &.success {
+    .success-message {
+      display: block;
+    }
+  }
+  &.failure {
+    .failure-message {
+      display: block;
+    }
   }
 }
 
 @media (max-width: 768px) {
-  body.page-index {
-    form[data-leads-form] {
-      width: 100%;
-    }
+  form[data-leads-form] {
+    width: 100%;
   }
 }
 
