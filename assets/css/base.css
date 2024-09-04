@@ -7,6 +7,7 @@
   --raven-red: rgb(235, 25, 70);
   --raven-gray: rgb(248, 249, 251);
   --gray-900: rgb(17, 24, 39);
+  --slate-600: rgb(71, 85, 105);
   --max-width: 70rem;
   --nav-height: 70px;
   --shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
@@ -42,8 +43,8 @@ h3 {
   font-weight: 600;
   margin-bottom: 1rem;
 }
-p {
-  color: rgb(71, 85, 105);
+p, ul {
+  color: var(--slate-600);
   margin-bottom: 1rem;
 }
 p + h3, ul + h3 {
@@ -57,6 +58,10 @@ a {
   &:hover {
     text-decoration: undeline;
   }
+}
+ul {
+  margin-left: 2rem;
+  list-style: disc;
 }
 
 @media (max-width: 768px) {
@@ -169,6 +174,8 @@ nav {
       display: none;
     }
     > ul {
+      margin: 0;
+      list-style: none;
       display: flex;
       gap: 10px;
       > li {
@@ -196,6 +203,8 @@ nav {
           }
         }
         > ul {
+          margin: 0;
+          list-style: none;
           position: absolute;
           z-index: 20;
           padding: 5px 0;
@@ -400,16 +409,13 @@ body.page-schedule {
   .r-event-teens {
     background-color: #697da2;
   }
-  .r-event-fundamentals {
-    background-color: #131722;
-  }
-  .r-event-intermediate {
-    background-color: #6ba89d;
-  }
-  .r-event-advanced {
+  .r-event-adult-all {
     background-color: #e21944;
   }
-  .r-event-workshop {
+  .r-event-adult-beginners {
+    background-color: #6ba89d;
+  }
+  .r-event-open-mat {
     background-color: #009aa4;
   }
   .r-event-off {
