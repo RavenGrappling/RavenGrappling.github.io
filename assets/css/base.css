@@ -4,14 +4,13 @@
 
 :root {
   --raven-blue: rgb(28, 46, 79);
-  --raven-red: rgb(235, 25, 70);
+  --raven-red:  rgb(235, 25, 70);
   --raven-gray: rgb(248, 249, 251);
-  --gray-900: rgb(17, 24, 39);
-  --slate-600: rgb(71, 85, 105);
-  --max-width: 70rem;
+  --gray-900:   rgb(17, 24, 39);
+  --slate-600:  rgb(71, 85, 105);
+  --max-width:  70rem;
   --nav-height: 70px;
-  --shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
-    rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+  --shadow:     rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
 }
 
 html {
@@ -21,30 +20,30 @@ html {
 
 body {
   margin-top: var(--nav-height);
-  color: var(--gray-900);
+  color:      var(--gray-900);
 }
 
 /* -- Typography ---------------------------------------------------------- */
 h1 {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-  font-weight: 800;
+  font-size:     1.875rem;
+  line-height:   2.25rem;
+  font-weight:   800;
   margin-bottom: 2rem;
 }
 h2 {
-  font-size: 1.5rem;
-  line-height: 2rem;
-  font-weight: 600;
+  font-size:     1.5rem;
+  line-height:   2rem;
+  font-weight:   600;
   margin-bottom: 1rem;
 }
 h3 {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-  font-weight: 600;
+  font-size:     1.25rem;
+  line-height:   1.75rem;
+  font-weight:   600;
   margin-bottom: 1rem;
 }
 p, ul {
-  color: var(--slate-600);
+  color:         var(--slate-600);
   margin-bottom: 1rem;
 }
 p + h3, ul + h3 {
@@ -61,7 +60,7 @@ a {
 }
 ul {
   margin-left: 2rem;
-  list-style: disc;
+  list-style:  disc;
 }
 
 @media (max-width: 768px) {
@@ -72,8 +71,8 @@ ul {
 
 /* -- Utility -------------------------------------------------------------- */
 .flex {
-  display: flex;
-  gap: 2rem;
+  display:         flex;
+  gap:             2rem;
   justify-content: space-between;
 }
 
@@ -89,8 +88,8 @@ ul {
 /* -- Section -------------------------------------------------------------- */
 section {
   max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 1rem;
+  margin:    0 auto;
+  padding:   1rem;
   &.padded {
     padding: 3rem 1rem;
   }
@@ -105,44 +104,44 @@ form.formatted-form {
   .form-field {
     margin-bottom: 24px;
     label {
-      display: block;
+      display:       block;
       margin-bottom: 5px;
-      font-size: 14px;
-      line-height: 20px;
-      font-weight: 500;
-      color: var(--gray-900);
+      font-size:     14px;
+      line-height:   20px;
+      font-weight:   500;
+      color:         var(--gray-900);
       margin-bottom: 0.5rem;
     }
     input,
     select {
-      display: block;
-      width: 100%;
-      font-size: 14px;
-      line-height: 24px;
+      display:          block;
+      width:            100%;
+      font-size:        14px;
+      line-height:      24px;
       background-color: white;
-      border: 0;
-      border-radius: 6px;
-      padding: 6px 12px;
+      border:           0;
+      border-radius:    6px;
+      padding:          6px 12px;
       box-shadow:
         rgb(255, 255, 255) 0px 0px 0px 0px inset,
         rgb(209, 213, 219) 0px 0px 0px 1px inset,
         rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
     }
     select {
-      appearance: none;
-      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+      appearance:          none;
+      background-image:    url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
       background-position: right 0.5rem center;
-      background-repeat: no-repeat;
-      background-size: 1.5em 1.5em;
-      padding-right: 2.5rem;
+      background-repeat:   no-repeat;
+      background-size:     1.5em 1.5em;
+      padding-right:       2.5rem;
     }
   }
   button {
     background-color: var(--raven-red);
-    color: white;
-    padding: 6px 12px;
-    border-radius: 6px;
-    width: 100%;
+    color:            white;
+    padding:          6px 12px;
+    border-radius:    6px;
+    width:            100%;
     &:hover {
       opacity: 0.85;
     }
@@ -152,15 +151,15 @@ form.formatted-form {
 /* -- Navigation ----------------------------------------------------------- */
 nav {
   background-color: var(--raven-blue);
-  position: fixed;
-  top: 0;
-  width: 100%;
-  box-shadow: var(--shadow);
+  position:         fixed;
+  top:              0;
+  width:            100%;
+  box-shadow:       var(--shadow);
   section {
-    display: flex;
-    flex-wrap: wrap;
+    display:         flex;
+    flex-wrap:       wrap;
     justify-content: space-between;
-    min-height: var(--nav-height);
+    min-height:      var(--nav-height);
     .logo {
       height: 32px;
       img {
@@ -168,62 +167,62 @@ nav {
       }
     }
     button[data-nav-toggle] {
-      height: 38px;
-      width: 38px;
-      color: white;
+      height:  38px;
+      width:   38px;
+      color:   white;
       display: none;
     }
     > ul {
-      margin: 0;
+      margin:     0;
       list-style: none;
-      display: flex;
-      gap: 10px;
+      display:    flex;
+      gap:        10px;
       > li {
         position: relative;
         > a {
-          display: flex;
-          align-items: center;
-          font-size: 14px;
-          line-height: 20px;
-          font-weight: 500;
-          color: white;
+          display:         flex;
+          align-items:     center;
+          font-size:       14px;
+          line-height:     20px;
+          font-weight:     500;
+          color:           white;
           text-decoration: none;
-          padding: 8px 12px 10px 12px;
-          border-radius: 6px;
+          padding:         8px 12px 10px 12px;
+          border-radius:   6px;
           &:hover,
           &.active {
             background-color: var(--raven-red);
           }
           svg {
-            color: white;
-            height: 12px;
-            width: 12px;
+            color:       white;
+            height:      12px;
+            width:       12px;
             margin-left: 5px;
-            margin-top: 4px;
+            margin-top:  4px;
           }
         }
         > ul {
-          margin: 0;
-          list-style: none;
-          position: absolute;
-          z-index: 20;
-          padding: 5px 0;
-          box-shadow: var(--shadow);
-          border-radius: 5px;
+          margin:           0;
+          list-style:       none;
+          position:         absolute;
+          z-index:          20;
+          padding:          5px 0;
+          box-shadow:       var(--shadow);
+          border-radius:    5px;
           background-color: white;
-          display: none;
+          display:          none;
           &.show {
             display: block;
           }
           a {
-            display: block;
-            white-space: nowrap;
-            font-size: 14px;
-            color: var(--raven-blue);
-            text-decoration: none;
-            padding: 10px 20px;
+            display:          block;
+            white-space:      nowrap;
+            font-size:        14px;
+            color:            var(--raven-blue);
+            text-decoration:  none;
+            padding:          10px 20px;
             &:hover {
-              color: var(--raven-red);
+              color:            var(--raven-red);
               background-color: var(--raven-gray);
             }
           }
@@ -237,15 +236,15 @@ nav {
   nav {
     section {
       button[data-nav-toggle] {
-        display: block;
+        display:          block;
         background-color: transparent;
-        border: 0;
+        border:           0;
       }
       > ul {
         flex-basis: 100%;
-        flex-grow: 1;
-        display: none;
-        padding: 10px 0;
+        flex-grow:  1;
+        display:    none;
+        padding:    10px 0;
         &.show {
           display: block;
         }
@@ -254,7 +253,7 @@ nav {
             margin-bottom: 5px;
           }
           > ul {
-            position: relative;
+            position:      relative;
             margin-bottom: 5px;
           }
         }
@@ -277,7 +276,7 @@ footer {
   }
 
   .contact-and-social {
-    display: flex;
+    display:         flex;
     justify-content: space-between;
 
     a {
@@ -289,14 +288,14 @@ footer {
 
     .contact {
       a {
-        display: block;
+        display:       block;
         margin-bottom: 1rem;
       }
     }
 
     .social {
-      display: flex;
-      gap: 2rem;
+      display:     flex;
+      gap:         2rem;
       align-items: center;
     }
   }
@@ -307,7 +306,7 @@ footer {
     .contact-and-social {
       display: block;
       .contact {
-        text-align: center;
+        text-align:    center;
         margin-bottom: 2rem;
       }
       .social {
@@ -320,18 +319,18 @@ footer {
 /* -- Leads Form ----------------------------------------------------------- */
 form[data-leads-form] {
   background-color: var(--raven-gray);
-  flex-shrink: 0;
-  width: 350px;
-  box-shadow: var(--shadow);
-  padding: 1rem;
-  border-radius: 6px;
+  flex-shrink:      0;
+  width:            350px;
+  box-shadow:       var(--shadow);
+  padding:          1rem;
+  border-radius:    6px;
   h3 {
     text-align: center;
   }
   .success-message,
   .failure-message {
     text-align: center;
-    display: none;
+    display:    none;
   }
   &.success,
   &.failure {
@@ -360,39 +359,39 @@ form[data-leads-form] {
 /* -- Schedule ------------------------------------------------------------- */
 body.page-schedule {
   .r-calendar {
-    display: grid;
+    display:                grid;
     grid-template-columns: auto 1fr;
   }
   .r-calendar-days {
-    display: grid;
-    gap: 2px;
-    grid-column: 2;
+    display:               grid;
+    gap:                   2px;
+    grid-column:           2;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
   .r-calendar-day {
     background-color: #f5f5f5;
-    border-radius: 5px;
+    border-radius:    5px;
   }
   .r-calendar-day-name {
     text-align: center;
-    padding: 5px;
-    color: var(--gray-900);
+    padding:    5px;
+    color:      var(--gray-900);
   }
   .r-calendar-day-events {
-    display: grid;
-    gap: 2px;
+    display:            grid;
+    gap:                2px;
     grid-template-rows: repeat(16, 50px);
   }
   .r-calendar-day-event {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 10px;
-    text-align: center;
-    color: #fff;
+    display:          flex;
+    flex-direction:   column;
+    justify-content:  center;
+    padding:          10px;
+    text-align:       center;
+    color:            #fff;
     background-color: #f5f5f5;
-    border-radius: 5px;
-    font-size: 14px;
+    border-radius:    5px;
+    font-size:        14px;
   }
   .r-calendar-day-event-time {
     font-weight: 600;
