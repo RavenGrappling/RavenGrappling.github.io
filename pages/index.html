@@ -24,7 +24,7 @@ permalink: /
 <div class="section-bg">
   <section>
     <h2>We Offer Programs To</h2>
-    <div class="programs">
+    <div class="programs flex">
       {% for program in site.programs %}
         <a href="{{program[1].url}}">
           <div class="image" style="background-image: url(/assets/images/programs/{{program[0]}}/1.jpg)">
@@ -43,7 +43,7 @@ permalink: /
     What Makes Raven Grappling the Best Choice?
   </p>
 
-  <div class="compare">
+  <div class="compare flex">
     <div>
       <h3>BJJ programs at Raven Grappling</h3>
       <ul class="ours">

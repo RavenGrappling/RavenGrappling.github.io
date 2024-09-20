@@ -56,6 +56,9 @@ h3 {
 p, ul {
   margin-bottom: 1rem;
 }
+ul {
+  padding: 0;
+}
 p + h3, ul + h3 {
   margin-top: 2rem;
 }
@@ -101,6 +104,9 @@ ul {
     display: block;
     > * {
       margin-bottom: 2rem;
+      &:last-child {
+        margin-bottom: 0;
+      }
     }
   }
 }
@@ -369,16 +375,14 @@ form[data-leads-form] {
 
 @media (max-width: 768px) {
   form[data-leads-form] {
-    width: 100%;
+    width:         100%;
+    margin-bottom: 0;
   }
 }
 
 /* -- Index ---------------------------------------------------------------- */
 .page-index {
   .programs {
-    display:         flex;
-    gap:             2rem;
-    justify-content: space-between;
     a {
       flex:             1 1 0;
       display:          block;
@@ -401,17 +405,13 @@ form[data-leads-form] {
     }
   }
   .compare {
-    display:         flex;
-    gap:             2rem;
-    justify-content: space-between;
     > div {
       flex:             1 1 0;
-      background-color: var(--raven-blue);
-      color:            white;
+      background-color: var(--raven-gray);
       border-radius:    0.5rem;
       padding:          1.5rem;
+      box-shadow:       var(--shadow);
       h3 {
-        color: white;
         margin-bottom: 2rem;
       }
       ul {
@@ -444,21 +444,10 @@ form[data-leads-form] {
 @media (max-width: 768px) {
   .page-index {
     .programs {
-      display: block;
       a {
         .image {
           height: 100px;
         }
-        margin-bottom: 2rem;
-        &:last-child {
-          margin-bottom: 0;
-        }
-      }
-    }
-    .compare {
-      display: block;
-      > div {
-        margin-bottom: 2rem;
       }
     }
   }
