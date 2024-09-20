@@ -43,7 +43,6 @@ h2 + p.subheader {
   margin-top:    -1.5rem;
   margin-bottom: 2rem;
 }
-
 h3 {
   color:         var(--gray-900);
   font-size:     1.25rem;
@@ -51,6 +50,11 @@ h3 {
   font-weight:   600;
   margin-bottom: 1rem;
 }
+h3 + p.subheader {
+  margin-top:    -1rem;
+  margin-bottom: 1rem;
+}
+
 p, ul {
   margin-bottom: 1rem;
 }
@@ -60,9 +64,7 @@ ul {
 p + h3, ul + h3 {
   margin-top: 2rem;
 }
-p.squished {
-  width: 75%;
-}
+
 a {
   color: var(--raven-red);
   &:hover {
@@ -72,12 +74,6 @@ a {
 ul {
   margin-left: 2rem;
   list-style:  disc;
-}
-
-@media (max-width: 768px) {
-  p.squished {
-    width: 100%;
-  }
 }
 
 /* -- Utility -------------------------------------------------------------- */
@@ -110,6 +106,10 @@ ul {
   }
 }
 
+.squished {
+  width: 75%;
+}
+
 @media (max-width: 768px) {
   .flex {
     display: block;
@@ -119,6 +119,9 @@ ul {
         margin-bottom: 0;
       }
     }
+  }
+  .squished {
+    width: 100%;
   }
 }
 
@@ -133,6 +136,9 @@ section {
     img {
       border-radius: 0.5rem;
     }
+    &.section-image--large {
+      width: 450px;
+    }
   }
 }
 
@@ -144,6 +150,9 @@ section {
   section {
     .section-image {
       width: 100%;
+      &.section-image--large {
+        width: 100%;
+      }
     }
   }
 }
@@ -531,13 +540,14 @@ body.page-schedule {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
   .r-calendar-day {
-    background-color: #f5f5f5;
+    background-color: var(--raven-gray);
     border-radius:    5px;
   }
   .r-calendar-day-name {
     text-align: center;
-    padding:    5px;
-    color:      var(--gray-900);
+    padding:     5px;
+    color:       var(--gray-900);
+    font-weight: 700;
   }
   .r-calendar-day-events {
     display:            grid;
@@ -580,7 +590,7 @@ body.page-schedule {
     background-color: #009aa4;
   }
   .r-event-off {
-    background-color: #f5f5f5;
+    background-color: var(--raven-gray);
     color: #212529;
   }
   .r-event-kids-teens {
