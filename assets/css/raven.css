@@ -89,15 +89,20 @@ ul {
 .items-center {
   align-items: center;
 }
+.flex-reverse {
+  flex-direction: row-reverse;
+}
 .gap-lg {
   gap: 8rem;
 }
 
 .hero {
+  background-color:    black;
   background-size:     cover;
   background-position: center center;
   h1, p {
     color: white;
+    text-shadow: 2px 2px var(--raven-blue);
   }
   p {
     font-size:   1.5rem;
@@ -122,10 +127,25 @@ section {
   max-width: var(--max-width);
   margin:    0 auto;
   padding:   3rem 1rem;
+  .section-image {
+    flex-shrink: 0;
+    width:       350px;
+    img {
+      border-radius: 0.5rem;
+    }
+  }
 }
 
 .section-bg {
   background-color: var(--raven-gray);
+}
+
+@media (max-width: 768px) {
+  section {
+    .section-image {
+      width: 100%;
+    }
+  }
 }
 
 /* -- Navigation ----------------------------------------------------------- */
