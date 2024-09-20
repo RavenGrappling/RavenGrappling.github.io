@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 
-@import "/assets/css/normalize.css";
-
 :root {
   --raven-blue: rgb(28, 46, 79);
   --raven-red:  rgb(235, 25, 70);
@@ -88,15 +86,23 @@ ul {
   gap:             2rem;
   justify-content: space-between;
 }
-
-.color-white {
-  color: white;
+.items-center {
+  align-items: center;
 }
-.text-lg {
-  font-size:      1.5rem;
-  line-height:    2.25rem;
-  letter-spacing: 0.025em;
-  font-weight:    600;
+.gap-lg {
+  gap: 8rem;
+}
+
+.hero {
+  background-size:     cover;
+  background-position: center center;
+  h1, p {
+    color: white;
+  }
+  p {
+    font-size:   1.5rem;
+    line-height: 2rem;
+  }
 }
 
 @media (max-width: 768px) {
@@ -382,6 +388,20 @@ form[data-leads-form] {
 
 /* -- Index ---------------------------------------------------------------- */
 .page-index {
+  .hero {
+    background-image: var(--tint-gradient), url(/assets/images/bg.jpg);
+    .location {
+      margin-top: 2rem;
+      display:    flex;
+      color:      white;
+      svg {
+        width:        3rem;
+        height:       3rem;
+        margin-right: 1rem;
+      }
+    }
+  }
+
   .programs {
     a {
       flex:             1 1 0;
@@ -455,10 +475,8 @@ form[data-leads-form] {
 
 /* -- Kids ----------------------------------------------------------------- */
 .page-kids {
-  .programs-kids-hero {
-    background-image:    var(--tint-gradient), url(/assets/images/programs/kids/bg.jpg);
-    background-size:     cover;
-    background-position: center center;
+  .hero {
+    background-image: var(--tint-gradient), url(/assets/images/programs/kids/bg.jpg);
   }
 }
 

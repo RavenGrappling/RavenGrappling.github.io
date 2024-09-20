@@ -4,22 +4,29 @@ layout: default
 permalink: /
 ---
 
-<section class="flex">
-  <div>
-    <h1>
-      Raven Grappling: Providing A Modern Martial Arts Experience
-    </h1>
-    <p>
-      Austin Heights, Coquitlam
-    </p>
-    <p>
-      (5 min from Lougheed Town Centre)
-    </p>
-  </div>
+<div class="hero">
+  <section class="flex items-center gap-lg">
+    <div>
+      <h1>
+        Raven Grappling<br>
+        Providing A Modern Martial Arts Experience
+      </h1>
+      <p>
+        Join us at Raven Grappling today and experience firsthand the transformative impact of BJJ on your life!
+      </p>
 
-  {% include leads_form.html %}
+      <div class="location">
+        {% include svg/map-pin.svg %}
+        <div>
+          Austin Heights, Coquitlam<br>
+          (5 min from Lougheed Town Centre)
+        </div>
+      </div>
+    </div>
 
-</section>
+    {% include leads_form.html %}
+  </section>
+</div>
 
 <div class="section-bg">
   <section>
