@@ -50,25 +50,20 @@
       <input type="text" name="phone" required />
     </div>
 
-    {% case include.program %}
-    {% when "kids" %}
-      <input type="hidden" name="fields[9100]" value="Kids Martial Arts">
-    {% when "teens" %}
-      <input type="hidden" name="fields[9100]" value="Juniors/Teens Martial Arts">
-    {% when "adults" %}
-      <input type="hidden" name="fields[9100]" value="Adult Martial Arts">
+    {% if include.program %}
+      <input type="hidden" name="fields[9100]" value="{{ site.programs[include.program].name }}">
 
     {% else %}
       <div class="form-field">
         <label for="fields[9100]">Choose a program</label>
         <select name="fields[9100]" required>
           <option value="">-- Please Select Program --</option>
-          <option value="Kids Martial Arts">Kids Martial Arts</option>
-          <option value="Juniors/Teens Martial Arts">Juniors/Teens Martial Arts</option>
-          <option value="Adult Martial Arts">Adult Martial Arts</option>
+          {% for program in site.programs %}
+            <option value="{{ program[1].name }}">{{ program[1].name }}</option>
+          {% endfor %}
         </select>
       </div>
-    {% endcase %}
+    {% endif %}
 
     <button type="submit">
       Submit

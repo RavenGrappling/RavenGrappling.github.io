@@ -23,18 +23,16 @@ permalink: /
 
 <div class="section-bg">
   <section>
-    <h1>
-      About Us
-    </h1>
-    <p>
-      We are a Brazilian Jiu Jitsu school, affiliated with Subconscious Jiu Jitsu, that proud is of making this martial art safe and enjoyable for everyone.
-    </p>
-    <p>
-      At Raven Grappling, we offer a professional training environment, where students can be as casual or competitive as they like. Regardless of the reason you choose to pursue martial arts, you can always rely on our ongoing commitment to help you achieve your goals.
-    </p>
-    <p>
-      Whether you are a member or just visiting, you can count on being well treated and welcomed. Our priority is to create a fun and nurturing environment, where everyone can enjoy the benefits of Brazilian Jiu Jitsu as well as the wonderful people who practice it.
-    </p>
+    <h1>We Offer Programs To</h1>
+    <div class="programs">
+      {% for program in site.programs %}
+        <a href="{{program[1].url}}">
+          <div class="image" style="background-image: url(/assets/images/programs/{{program[0]}}/1.jpg)">
+          </div>
+          {{program[1].name | remove: " Brazilian Jiu Jitsu"}}
+        </a>
+      {% endfor %}
+    </div>
   </section>
 </div>
 
@@ -97,7 +95,6 @@ permalink: /
       </ul>
     </div>
   </div>
-
 </section>
 
 <div class="section-bg">
@@ -132,22 +129,3 @@ permalink: /
     </div>
   </section>
 </div>
-
-<section>
-  <h1>We Offer Programs To</h1>
-
-  <div>
-    <a href="/kids-teens">
-      <div class="rg-image-button-kids"></div>
-      <span>Kids / Teens</span>
-    </a>
-    <a href="/beginners">
-      <div class="rg-image-button-beginners"></div>
-      <span>Adult Beginners</span>
-    </a>
-    <a href="/advanced">
-      <div class="rg-image-button-advanced"></div>
-      <span>Adult Advanced</span>
-    </a>
-  </div>
-</section>

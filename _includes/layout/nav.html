@@ -17,15 +17,11 @@
           </svg>
         </a>
         <ul>
-          <li>
-            <a href="/kids-brazilian-jiu-jitsu-coquitlam">Kids Brazilian Jiu Jitsu</a>
-          </li>
-          <li>
-            <a href="/teens-brazilian-jiu-jitsu-coquitlam">Teens Brazilian Jiu Jitsu</a>
-          </li>
-          <li>
-            <a href="/adults-brazilian-jiu-jitsu-coquitlam">Adults Brazilian Jiu Jitsu</a>
-          </li>
+          {% for program in site.programs %}
+            <li>
+              <a href="{{program[1].url}}">{{program[1].name}}</a>
+            </li>
+          {% endfor %}
         </ul>
       </li>
       <li>

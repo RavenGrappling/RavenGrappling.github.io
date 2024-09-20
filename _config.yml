@@ -2,3 +2,17 @@ name: Raven Grappling
 
 include:
   - pages
+
+programs:
+  kids:
+    name: Kids Brazilian Jiu Jitsu
+    url: /kids-brazilian-jiu-jitsu-coquitlam
+  junior-teens:
+    name: Juniors/Teens Brazilian Jiu Jitsu
+    url: /junior-teens-brazilian-jiu-jitsu-coquitlam
+  adult-beginner:
+    name: Adult Beginner Brazilian Jiu Jitsu
+    url: /adult-beginner-brazilian-jiu-jitsu-coquitlam
+  adult-all-levels:
+    name: Adult All-Levels Brazilian Jiu Jitsu
+    url: /adult-all-levels-brazilian-jiu-jitsu-coquitlam
