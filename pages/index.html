@@ -4,7 +4,7 @@ layout: default
 permalink: /
 ---
 
-<section class="hero flex">
+<section class="flex">
   <div>
     <h1>
       Raven Grappling: Providing A Modern Martial Arts Experience
@@ -23,7 +23,7 @@ permalink: /
 
 <div class="section-bg">
   <section>
-    <h1>We Offer Programs To</h1>
+    <h2>We Offer Programs To</h2>
     <div class="programs">
       {% for program in site.programs %}
         <a href="{{program[1].url}}">
@@ -37,59 +37,60 @@ permalink: /
 </div>
 
 <section>
-  <h1 class="text-center">Start Your Martial Arts Journey at the Right Place</h1>
-  <p class="text-center fs-4 mb-5">
+  <h2>Start Your Martial Arts Journey at the Right Place</h2>
+
+  <p class="subheader">
     What Makes Raven Grappling the Best Choice?
   </p>
 
-  <div class="row rg-section-compare-lists">
-    <div class="col">
-      <h3 class="fw-bold">BJJ Programs at Raven Grappling</h3>
-      <ul>
+  <div class="compare">
+    <div>
+      <h3>BJJ programs at Raven Grappling</h3>
+      <ul class="ours">
         <li>
-          <i class="bi bi-check"></i>
+          {% include svg/check.svg %}
           Structured Classes That Are Safe &amp; Engaging
         </li>
         <li>
-          <i class="bi bi-check"></i>
+          {% include svg/check.svg %}
           Kids, Teens & Beginners Learn From A Curriculum
         </li>
         <li>
-          <i class="bi bi-check"></i>
+          {% include svg/check.svg %}
           No Fixed Membership Contracts or Hidden Fees
         </li>
         <li>
-          <i class="bi bi-check"></i>
+          {% include svg/check.svg %}
           Receive Individual Feedback from Your Coaches
         </li>
         <li>
-          <i class="bi bi-check"></i>
+          {% include svg/check.svg %}
           Option To Buy Our Uniform or Bring Your Own
         </li>
       </ul>
     </div>
 
-    <div class="col rg-section-compare-bad">
-      <h3 class="fw-bold">BJJ Programs at “Other” Schools</h3>
-      <ul>
+    <div>
+      <h3>BJJ programs at other schools</h3>
+      <ul class="theirs">
         <li>
-          <i class="bi bi-x"></i>
+          {% include svg/x-mark.svg %}
           No Class Structure & High Risk For Injuries
         </li>
         <li>
-          <i class="bi bi-x"></i>
+          {% include svg/x-mark.svg %}
           Random Techniques Are Taught Everyday
         </li>
         <li>
-          <i class="bi bi-x"></i>
+          {% include svg/x-mark.svg %}
           Limited Trial Period & Mandatory Contracts
         </li>
         <li>
-          <i class="bi bi-x"></i>
+          {% include svg/x-mark.svg %}
           Instructors Do Not Pay Attention To Students
         </li>
         <li>
-          <i class="bi bi-x"></i>
+          {% include svg/x-mark.svg %}
           Forced To Buy School Uniform & Merchandise
         </li>
       </ul>
@@ -99,33 +100,35 @@ permalink: /
 
 <div class="section-bg">
   <section>
-    <h1>Benefits of Brazilian Jiu Jitsu</h1>
+    <h2>Benefits of Brazilian Jiu Jitsu</h2>
 
-    <div>
-      <h3>Self-Defence</h3>
-      <ul>
-        <li>Become better in knowing how to stay safe & calm under pressure</li>
-        <li>Learn how to defend yourself against bigger and stronger attackers</li>
-        <li>Kids & Teens become more confident and learn how to keep bullies away</li>
-      </ul>
-    </div>
+    <div class="flex">
+      <div>
+        <h3>Self-Defence</h3>
+        <ul>
+          <li>Become better in knowing how to stay safe & calm under pressure</li>
+          <li>Learn how to defend yourself against bigger and stronger attackers</li>
+          <li>Kids & Teens become more confident and learn how to keep bullies away</li>
+        </ul>
+      </div>
 
-    <div>
-      <h3>Physical Fitness</h3>
-      <ul>
-        <li>Amazing for getting a full-body workout that's fun and engaging</li>
-        <li>Improve your strength, endurance, flexibility, and overall health</li>
-        <li>Great for burning calories in a supportive group environment</li>
-      </ul>
-    </div>
+      <div>
+        <h3>Physical Fitness</h3>
+        <ul>
+          <li>Amazing for getting a full-body workout that's fun and engaging</li>
+          <li>Improve your strength, endurance, flexibility, and overall health</li>
+          <li>Great for burning calories in a supportive group environment</li>
+        </ul>
+      </div>
 
-    <div>
-      <h3>Mental Benefits</h3>
-      <ul>
-        <li>Healthy stress release and positive habits for your wellbeing</li>
-        <li>Develop a strong sense of self-worth, focus, and confidence</li>
-        <li>Meet new people and build new long-lasting friendships</li>
-      </ul>
+      <div>
+        <h3>Mental Benefits</h3>
+        <ul>
+          <li>Healthy stress release and positive habits for your wellbeing</li>
+          <li>Develop a strong sense of self-worth, focus, and confidence</li>
+          <li>Meet new people and build new long-lasting friendships</li>
+        </ul>
+      </div>
     </div>
   </section>
 </div>
