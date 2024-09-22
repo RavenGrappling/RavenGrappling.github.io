@@ -260,6 +260,7 @@ nav {
         flex-grow:  1;
         display:    none;
         padding:    10px 0;
+        box-shadow: var(--shadow);
         &.show {
           display: block;
         }
