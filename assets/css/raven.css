@@ -479,7 +479,7 @@ form[data-leads-form] {
         }
         &.ours {
           svg {
-            color: rgb(163 230 53);
+            color: rgb(34 197 94);
           }
         }
         &.theirs {
