@@ -91,6 +91,9 @@ ul {
 .gap-lg {
   gap: 8rem;
 }
+.text-center {
+  text-align: center;
+}
 
 .hero {
   background-color:    black;
