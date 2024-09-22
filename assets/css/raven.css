@@ -473,10 +473,10 @@ form[data-leads-form] {
         li {
           display:       flex;
           align-items:   center;
-          margin-bottom: 1rem;
+          margin-bottom: 0.5rem;
           svg {
-            height:       1.5rem;
-            width:        1.5rem;
+            height:       2rem;
+            width:        2rem;
             margin-right: 1rem;
           }
         }
