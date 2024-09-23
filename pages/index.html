@@ -8,11 +8,14 @@ permalink: /
   <section class="flex items-center gap-lg">
     <div class="hero-content">
       <h1>
-        Raven Grappling<br>
-        Providing A Modern Martial Arts Experience
+        Experience Modern Martial Arts<br>
+        at Raven Grappling
       </h1>
       <p>
-        Join us at Raven Grappling today and experience firsthand the transformative impact of BJJ on your life!
+        We make Brazilian Jiu Jitsu (BJJ) safe and enjoyable for all ages and experience levels.
+      </p>
+      <p>
+        Join us to start your martial arts journey the right way!
       </p>
 
       <div class="location">
@@ -30,11 +33,13 @@ permalink: /
 
 <div class="section-bg">
   <section>
-    <h2 class="text-center">We Offer Programs To</h2>
+    <h2 class="text-center">
+      Learn More About Our Programs
+    </h2>
     <div class="programs flex">
       {% for program in site.programs %}
         <a href="{{program[1].url}}">
-          <div class="image" style="background-image: url(/assets/images/programs/{{program[0]}}/1.jpg)">
+          <div class="image" style="background-image: url(/assets/images/programs/{{program[0]}}/button.jpg)">
           </div>
           {{program[1].name | remove: " Brazilian Jiu Jitsu"}}
         </a>
@@ -52,7 +57,7 @@ permalink: /
 
   <div class="compare flex">
     <div>
-      <h3>BJJ programs at Raven Grappling</h3>
+      <h3>BJJ Programs at Raven Grappling</h3>
       <ul class="ours">
         <li>
           {% include svg/check.svg %}
@@ -78,7 +83,7 @@ permalink: /
     </div>
 
     <div>
-      <h3>BJJ programs at other schools</h3>
+      <h3>BJJ Programs at Other Schools</h3>
       <ul class="theirs">
         <li>
           {% include svg/x-mark.svg %}
@@ -139,3 +144,9 @@ permalink: /
     </div>
   </section>
 </div>
+
+<section class="text-center">
+  <a href="#leads-form" class="large-button" data-leads-form-link>
+    Get Started Today
+  </a>
+</section>

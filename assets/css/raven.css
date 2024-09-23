@@ -94,6 +94,22 @@ ul {
 .text-center {
   text-align: center;
 }
+.text-red {
+  color: var(--raven-red);
+}
+a.large-button {
+  display:          inline-block;
+  font-size:        1.25rem;
+  line-height:      1.75rem;
+  font-weight:      600;
+  background-color: var(--raven-red);
+  color:            white;
+  padding:          1rem 1.5rem;
+  border-radius:    0.5rem;
+  &:hover {
+    opacity: 0.85;
+  }
+}
 
 .hero {
   background-color:    black;
@@ -104,9 +120,17 @@ ul {
       color: white;
       text-shadow: 2px 2px var(--raven-blue);
     }
+    small {
+      margin-top: 1rem;
+      display:    block;
+      font-size:  1.5rem;
+    }
     p {
       font-size:   1.5rem;
       line-height: 2rem;
+      span {
+        background-color: rgba(28, 46, 79, 0.7);
+      }
     }
   }
 }
@@ -501,7 +525,8 @@ form[data-leads-form] {
     .programs {
       a {
         .image {
-          height: 100px;
+          height: 140px;
+          background-position: center -30px;
         }
       }
     }

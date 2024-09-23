@@ -11,6 +11,11 @@ window.onload = () => {
   if (leadsForm) {
     leadsForm.addEventListener("submit", processLeadsForm);
   }
+
+  const leadsFormLink = document.querySelector("[data-leads-form-link]");
+  if (leadsFormLink) {
+    leadsFormLink.addEventListener("click", scrollToLeadsForm);
+  }
 };
 
 function toggleNav(event) {
@@ -21,6 +26,13 @@ function toggleNav(event) {
 function toggleDropdown(event) {
   event.preventDefault();
   event.currentTarget.nextElementSibling.classList.toggle("show");
+}
+
+function scrollToLeadsForm(event) {
+  event.preventDefault();
+  const leadsForm = document.querySelector("[data-leads-form]");
+  const topCoord = leadsForm.offsetTop - 70;
+  window.scrollTo({ top: topCoord, behavior: "smooth" });
 }
 
 function processLeadsForm(event) {
