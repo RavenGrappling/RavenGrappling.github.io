@@ -611,11 +611,14 @@ body.page-schedule {
   .r-event-teens {
     background-color: #697da2;
   }
-  .r-event-adult-all {
+  .r-event-adult-all-transitions {
+    background-color: #6ba89d;
+  }
+  .r-event-adult-all-submissions {
     background-color: #e21944;
   }
   .r-event-adult-beginners {
-    background-color: #6ba89d;
+    background-color: black;
   }
   .r-event-open-mat {
     background-color: #009aa4;
