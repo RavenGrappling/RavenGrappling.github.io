@@ -492,7 +492,7 @@ form[data-leads-form] {
   .compare {
     > div {
       flex:             1 1 0;
-      background-color: var(--raven-gray);
+      background-color: white;
       border-radius:    0.5rem;
       padding:          1.5rem;
       box-shadow:       var(--shadow);
