@@ -40,8 +40,9 @@ function processLeadsForm(event) {
 
   const form = event.currentTarget;
   const data = new FormData(form);
+  const action = "https://gymdesk.com/contact/form"; // changing action from html value of `form.action`
 
-  fetch(form.action, { method: "post", body: data })
+  fetch(action, { method: "post", body: data })
     .then((response) => {
       if (response.ok) {
         form.classList.add("success");
