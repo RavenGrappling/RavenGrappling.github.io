@@ -40,7 +40,13 @@ function processLeadsForm(event) {
 
   const form = event.currentTarget;
   const data = new FormData(form);
-  const action = "https://gymdesk.com/contact/form"; // changing action from html value of `form.action`
+
+  // Adjusting data on the fly so spam bots don't just scrape html.
+  data.append("form_id", "lGk3y");
+  data.append("gym", "A91kn");
+
+  // changing action from html value of `form.action`
+  const action = "https://gymdesk.com/contact/form";
 
   fetch(action, { method: "post", body: data })
     .then((response) => {
