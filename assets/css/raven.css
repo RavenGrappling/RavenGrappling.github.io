@@ -546,6 +546,12 @@ form[data-leads-form] {
   }
 }
 
+.page-women's-self-defence {
+  .hero {
+    background-image: var(--tint-gradient), url(/assets/images/programs/women's-self-defence/bg.jpg);
+  }
+}
+
 .page-junior-teens {
   .hero {
     background-image: var(--tint-gradient), url(/assets/images/programs/junior-teens/bg.jpg);
