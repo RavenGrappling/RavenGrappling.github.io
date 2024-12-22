@@ -540,15 +540,15 @@ form[data-leads-form] {
 }
 
 /* -- Programs ------------------------------------------------------------- */
-.page-kids {
-  .hero {
-    background-image: var(--tint-gradient), url(/assets/images/programs/kids/bg.jpg);
-  }
-}
-
 .page-women's-self-defence {
   .hero {
     background-image: var(--tint-gradient), url(/assets/images/programs/women's-self-defence/bg.jpg);
+  }
+}
+
+.page-kids {
+  .hero {
+    background-image: var(--tint-gradient), url(/assets/images/programs/kids/bg.jpg);
   }
 }
 
