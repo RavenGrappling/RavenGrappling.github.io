@@ -4,6 +4,9 @@ include:
   - pages
 
 programs:
+  women's-self-defence:
+    name: Women's Self-Defence
+    url: /women's-self-defence-coquitlam
   kids:
     name: Kids Brazilian Jiu Jitsu
     url: /kids-brazilian-jiu-jitsu-coquitlam
@@ -16,8 +19,5 @@ programs:
   adult-all-levels:
     name: Adult All Levels Brazilian Jiu Jitsu
     url: /adult-all-levels-brazilian-jiu-jitsu-coquitlam
-  adult-all-levels:
-    name: Women's Self-Defence
-    url: /women's-self-defence-coquitlam
 
 reviews_url: https://www.google.com/search?hl=en-CA&gl=ca&q=Raven+Grappling+-+Brazilian+Jiu+Jitsu,+1066C+Austin+Ave,+Coquitlam,+BC+V3K+3P3&ludocid=165274456732549296&lsig=AB86z5Vtwug0jBJFJGNCd4oxc_Dl&hl=en&gl=CA#lrd=0x548679e8bb4ee6f1:0x24b2c3e23fd40b0,1
