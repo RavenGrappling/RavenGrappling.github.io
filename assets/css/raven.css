@@ -411,7 +411,7 @@ form.formatted-form {
   }
 }
 
-form[data-leads-form] {
+form[data-leads-form], form#defence-form {
   background-color: var(--raven-gray);
   flex-shrink:      0;
   width:            350px;
@@ -561,6 +561,12 @@ form[data-leads-form] {
 .page-adult-all-levels {
   .hero {
     background-image: var(--tint-gradient), url(/assets/images/programs/adult-all-levels/bg.jpg);
+  }
+}
+
+.page-womens-self-defence {
+  .hero {
+    background-image: var(--tint-gradient), url(/assets/images/programs/womens-self-defence/bg.jpg);
   }
 }
 

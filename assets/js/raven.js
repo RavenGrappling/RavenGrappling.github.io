@@ -12,9 +12,9 @@ window.onload = () => {
     leadsForm.addEventListener("submit", processLeadsForm);
   }
 
-  const leadsFormLink = document.querySelector("[data-leads-form-link]");
-  if (leadsFormLink) {
-    leadsFormLink.addEventListener("click", scrollToLeadsForm);
+  const scrollButton = document.querySelector("[data-scroll-button]");
+  if (scrollButton) {
+    scrollButton.addEventListener("click", scrollToForm);
   }
 };
 
@@ -28,10 +28,12 @@ function toggleDropdown(event) {
   event.currentTarget.nextElementSibling.classList.toggle("show");
 }
 
-function scrollToLeadsForm(event) {
+function scrollToForm(event) {
   event.preventDefault();
-  const leadsForm = document.querySelector("[data-leads-form]");
-  const topCoord = leadsForm.offsetTop - 70;
+  const formId = event.currentTarget.getAttribute("href");
+  const form = document.querySelector(formId);
+
+  const topCoord = form.offsetTop - 70;
   window.scrollTo({ top: topCoord, behavior: "smooth" });
 }
 
