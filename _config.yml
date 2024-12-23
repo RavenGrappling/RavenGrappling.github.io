@@ -4,9 +4,9 @@ include:
   - pages
 
 programs:
-  women's-self-defence:
+  womens-self-defence:
     name: Women's Self-Defence
-    url: /women's-self-defence-coquitlam
+    url: /womens-self-defence-coquitlam
   kids:
     name: Kids Brazilian Jiu Jitsu
     url: /kids-brazilian-jiu-jitsu-coquitlam
