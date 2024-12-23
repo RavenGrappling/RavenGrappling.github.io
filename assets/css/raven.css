@@ -88,6 +88,9 @@ ul {
 .flex-reverse {
   flex-direction: row-reverse;
 }
+.flex-1 {
+  flex: 1;
+}
 .gap-lg {
   gap: 8rem;
 }
@@ -574,6 +577,7 @@ form[data-leads-form], form#defence-form {
 body.page-schedule {
   --color-adult-all-transitions: #6ba89d;
   --color-adult-all-submissions: #e21944;
+  --color-womens-defence:        #cb2ba3;
 
   .r-calendar {
     display:                grid;
@@ -616,6 +620,9 @@ body.page-schedule {
   }
   .r-calendar-day-event-gi {
     font-style: italic;
+  }
+  .r-event-defence {
+    background-color: var(--color-womens-defence);
   }
   .r-event-private {
     background-color: #0076a8;
@@ -687,6 +694,9 @@ body.page-schedule {
   }
   p.submissions-focus {
     color: var(--color-adult-all-submissions);
+  }
+  p.womens-defence {
+    color: var(--color-womens-defence);
   }
 
   @media (max-width: 991.98px) {
