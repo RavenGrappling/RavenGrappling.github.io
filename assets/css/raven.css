@@ -448,7 +448,7 @@ form[data-leads-form], form#defence-form {
 }
 
 @media (max-width: 768px) {
-  form[data-leads-form] {
+  form[data-leads-form], form#defence-form {
     width:         100%;
     margin-bottom: 0;
   }
