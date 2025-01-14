@@ -578,7 +578,7 @@ form[data-leads-form] {
     .plan {
       background-color: white;
       border-radius:    0.5rem;
-      padding:          1rem;
+      padding:          0.5rem 0.5rem 0.5rem 1rem;
       display:          flex;
       gap:              1rem;
       justify-content:  space-between;
