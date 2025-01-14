@@ -65,6 +65,12 @@ p + h3, ul + h3 {
   margin-top: 2rem;
 }
 
+p.important {
+  font-size:   1.5rem;
+  line-height: 2rem;
+  font-weight: 800;
+}
+
 a {
   color: var(--raven-red);
   &:hover {
@@ -142,6 +148,23 @@ a.large-button {
   width: 75%;
 }
 
+table.description {
+  margin-bottom: 2rem;
+  th, td {
+    padding:        0.5rem;
+    vertical-align: top;
+  }
+  th {
+    text-align: right;
+  }
+  td {
+    ul {
+      list-style-type: none;
+      margin:          0;
+    }
+  }
+}
+
 @media (max-width: 768px) {
   .flex {
     display: block;
@@ -175,7 +198,7 @@ section {
   .reviews {
     div {
       background-color: white;
-      padding: 1rem;
+      padding:          1rem;
     }
   }
 }
