@@ -8,9 +8,11 @@
         <path fill-rule="evenodd" d="M3 6.75A.75.75 0 0 1 3.75 6h16.5a.75.75 0 0 1 0 1.5H3.75A.75.75 0 0 1 3 6.75ZM3 12a.75.75 0 0 1 .75-.75h16.5a.75.75 0 0 1 0 1.5H3.75A.75.75 0 0 1 3 12Zm0 5.25a.75.75 0 0 1 .75-.75h16.5a.75.75 0 0 1 0 1.5H3.75a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd" />
       </svg>
     </button>
+
     <ul data-nav>
       <li>
-        <a href="#" data-nav-dropdown class="{% if page.name contains "kids" or page.name contains "teens" or page.name contains "adults" or page.name contains "workshop" %}active{% endif %}">
+        {% assign program_urls = site.programs | map: "url" %}
+        <a href="#" data-nav-dropdown class="{% if program_urls contains page.url %}active{% endif %}">
           Programs
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -19,7 +21,7 @@
         <ul>
           {% for program in site.programs %}
             <li>
-              <a href="{{program[1].url}}">{{program[1].name}}</a>
+              <a href="{{ program.url }}">{{ program.name }}</a>
             </li>
           {% endfor %}
         </ul>

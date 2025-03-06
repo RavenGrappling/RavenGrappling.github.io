@@ -37,10 +37,10 @@ permalink: /
   </h2>
   <div class="programs flex">
     {% for program in site.programs %}
-      <a href="{{program[1].url}}">
-        <div class="image" style="background-image: url(/assets/images/programs/{{program[0]}}/button.jpg)">
+      <a href="{{program.url}}">
+        <div class="image" style="background-image: url(/assets/images/programs/{{program.id}}/button.jpg)">
         </div>
-        {{program[1].name | remove: " Brazilian Jiu Jitsu"}}
+        {{program.name | remove: " Brazilian Jiu Jitsu"}}
       </a>
     {% endfor %}
   </div>

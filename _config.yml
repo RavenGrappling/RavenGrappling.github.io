@@ -4,19 +4,19 @@ include:
   - pages
 
 programs:
-  womens-self-defence:
+  - id: womens-self-defence
     name: Women's Self-Defence
     url: /womens-self-defence-coquitlam
-  kids:
+  - id: kids
     name: Kids Brazilian Jiu Jitsu
     url: /kids-brazilian-jiu-jitsu-coquitlam
-  junior-teens:
+  - id: junior-teens
     name: Juniors/Teens Brazilian Jiu Jitsu
     url: /junior-teens-brazilian-jiu-jitsu-coquitlam
-  adult-beginner:
+  - id: adult-beginner
     name: Adult Beginner Brazilian Jiu Jitsu
     url: /adult-beginner-brazilian-jiu-jitsu-coquitlam
-  adult-all-levels:
+  - id: adult-all-levels
     name: Adult All Levels Brazilian Jiu Jitsu
     url: /adult-all-levels-brazilian-jiu-jitsu-coquitlam
 
