@@ -591,24 +591,10 @@ form[data-leads-form] {
   }
 }
 
-.page-womens-self-defence {
-  .hero {
-    background-image: var(--tint-gradient), url(/assets/images/bg.jpg);
-  }
-  #defence-plans {
-    display:          flex;
-    justify-content:  center;
-    background-color: var(--raven-gray);
-    padding:          1rem;
-    border-radius:    0.5rem;
-  }
-}
-
 /* -- Schedule ------------------------------------------------------------- */
 body.page-schedule {
   --color-adult-all-transitions: #6ba89d;
   --color-adult-all-submissions: #e21944;
-  --color-womens-defence:        #cb2ba3;
 
   .r-calendar {
     display:               grid;
