@@ -205,7 +205,7 @@ section {
 }
 
 .section-bg {
-  background-color: var(--raven-grey);
+  background-color: var(--raven-gray);
 }
 
 @media (max-width: 768px) {
