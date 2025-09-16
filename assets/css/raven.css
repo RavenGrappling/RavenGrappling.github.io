@@ -662,6 +662,9 @@ body.page-schedule {
   .r-event-open-mat {
     background-color: #009aa4;
   }
+  .r-event-competition-class {
+    background-color: #EAA60D
+  }
   .r-event-off {
     background-color: var(--raven-gray);
     color: #212529;
