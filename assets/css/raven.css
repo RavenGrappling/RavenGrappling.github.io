@@ -376,6 +376,7 @@ footer {
 
 @media (max-width: 768px) {
   footer {
+    text-align:    center;
     .contact-and-social {
       display: block;
       .contact {
