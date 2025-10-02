@@ -480,9 +480,9 @@ form[data-leads-form] {
   gap:             2rem;
   overflow:        auto;
   justify-content: center;
-  a.review {
+  .review {
     flex-shrink:      0;
-    width:            320px;
+    width:            300px;
     background-color: white;
     border-radius:    0.5rem;
     padding:          1rem;
