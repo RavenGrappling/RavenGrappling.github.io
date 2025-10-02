@@ -510,10 +510,10 @@ form[data-leads-form] {
       text-align:       center;
       box-shadow:       var(--shadow);
       .image {
-        height: 200px;
-        border-radius: 0.5rem;
-        margin-bottom: 0.5rem;
-        background-size: cover;
+        height:              200px;
+        border-radius:       0.5rem;
+        margin-bottom:       0.5rem;
+        background-size:     cover;
         background-position: center center;
       }
       &:hover {
@@ -563,8 +563,8 @@ form[data-leads-form] {
     .programs {
       a {
         .image {
-          height: 140px;
-          background-position: center -30px;
+          height:              300px;
+          background-position: center top;
         }
       }
     }
