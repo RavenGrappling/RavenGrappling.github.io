@@ -647,7 +647,7 @@ form[data-leads-form] {
 
 /* -- Schedule ------------------------------------------------------------- */
 body.page-schedule {
-  --color-adult-all-transitions: #6ba89d;
+  --color-adult-all-transitions: #79B382;
   --color-adult-all-submissions: #e21944;
 
   .r-calendar {
