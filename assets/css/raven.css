@@ -647,7 +647,7 @@ form[data-leads-form] {
 
 /* -- Schedule ------------------------------------------------------------- */
 body.page-schedule {
-  --color-adult-all-transitions: #79B382;
+  --color-adult-all-transitions: #6ba89d;
   --color-adult-all-submissions: #e21944;
 
   .r-calendar {
@@ -696,7 +696,7 @@ body.page-schedule {
     background-color: var(--color-womens-defence);
   }
   .r-event-private {
-    background-color: #4287F5;
+    background-color: #0076a8;
   }
   .r-event-kids {
     background-color: #5D0B44;
@@ -720,7 +720,7 @@ body.page-schedule {
     background-color: #DEA626;
   }   
   .r-event-takedowns-for-bjj {
-    background-color: #9D0529;
+    background-color: #C52534;
   }
   .r-event-off {
     background-color: var(--raven-gray);
