@@ -696,10 +696,10 @@ body.page-schedule {
     background-color: var(--color-womens-defence);
   }
   .r-event-private {
-    background-color: #2660DE;
+    background-color: #4287F5;
   }
   .r-event-kids {
-    background-color: #9d2273;
+    background-color: #5D0B44;
   }
   .r-event-teens {
     background-color: #455A89;
@@ -718,6 +718,9 @@ body.page-schedule {
   }
   .r-event-competition-class {
     background-color: #DEA626;
+  }   
+  .r-event-takedowns-for-bjj {
+    background-color: #9D0529;
   }
   .r-event-off {
     background-color: var(--raven-gray);
