@@ -647,7 +647,7 @@ form[data-leads-form] {
 
 /* -- Schedule ------------------------------------------------------------- */
 body.page-schedule {
-  --color-adult-all-transitions: #6ba89d;
+  --color-adult-all-transitions: #6BA89D;
   --color-adult-all-submissions: #e21944;
 
   .r-calendar {
@@ -696,7 +696,7 @@ body.page-schedule {
     background-color: var(--color-womens-defence);
   }
   .r-event-private {
-    background-color: #2F81EB;
+    background-color: #315FEF;
   }
   .r-event-kids {
     background-color: #9d2273;
@@ -714,7 +714,7 @@ body.page-schedule {
     background-color: black;
   }
   .r-event-open-mat {
-    background-color: #5125B3;
+    background-color: #351652;
   }
   .r-event-competition-class {
     background-color: #EBA92F;
@@ -727,8 +727,7 @@ body.page-schedule {
     color: #212529;
   }
   .r-event-kids-teens {
-    background-color: #697da2;
-    background-image: linear-gradient(to bottom right, #9d2273, #697da2);
+    background-color: #B8BE04;
   }
 
   .r-event-start-1  { grid-row-start: 1; }
