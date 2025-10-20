@@ -696,7 +696,7 @@ body.page-schedule {
     background-color: var(--color-womens-defence);
   }
   .r-event-private {
-    background-color: #0160DA;
+    background-color: #2E59F0;
   }
   .r-event-kids {
     background-color: #9d2273;
@@ -717,7 +717,7 @@ body.page-schedule {
     background-color: #73568A;
   }
   .r-event-competition-class {
-    background-color: #EBA92F;
+    background-color: #CA7F2B;
   }   
   .r-event-takedowns-for-bjj {
     background-color: #C52534;
@@ -727,7 +727,7 @@ body.page-schedule {
     color: #212529;
   }
   .r-event-kids-teens {
-    background-color: #9B960D;
+    background-color: #CA49BB;
   }
 
   .r-event-start-1  { grid-row-start: 1; }
