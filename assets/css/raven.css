@@ -696,7 +696,7 @@ body.page-schedule {
     background-color: var(--color-womens-defence);
   }
   .r-event-private {
-    background-color: #2E59F0;
+    background-color: #2344B9;
   }
   .r-event-kids {
     background-color: #9d2273;
@@ -727,7 +727,7 @@ body.page-schedule {
     color: #212529;
   }
   .r-event-kids-teens {
-    background-color: #CA49BB;
+    background-color: #C848B9;
   }
 
   .r-event-start-1  { grid-row-start: 1; }
