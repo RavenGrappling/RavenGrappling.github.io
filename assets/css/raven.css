@@ -649,8 +649,6 @@ form[data-leads-form] {
 body.page-schedule {
   --color-adult-all-transitions: #6BA89D;
   --color-adult-all-submissions: #e21944;
-
-  background-color: var(--raven-blue);
   
   .r-calendar {
     display:               grid;
