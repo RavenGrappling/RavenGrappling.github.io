@@ -1,5 +1,10 @@
 name: Raven Grappling
 
+url: "https://www.ravengrappling.com"
+
+plugins:
+  - jekyll-sitemap
+
 include:
   - pages
 
