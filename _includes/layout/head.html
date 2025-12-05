@@ -5,11 +5,16 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'AW-11017552708');
   </script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% if page.meta_desc %}
+    <meta name="description" content="{{ page.meta_desc }}">
+  {% endif %}
+
   <title>{{ page.title }}</title>
 
   <link rel="stylesheet" href="/assets/css/normalize.css">
