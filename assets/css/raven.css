@@ -647,9 +647,6 @@ form[data-leads-form] {
 
 /* -- Schedule ------------------------------------------------------------- */
 body.page-schedule {
-  --color-adult-all-transitions: #6BA89D;
-  --color-adult-all-submissions: #e21944;
-  
   .r-calendar {
     display:               grid;
     grid-template-columns: auto 1fr;
@@ -665,10 +662,15 @@ body.page-schedule {
     border-radius:    5px;
   }
   .r-calendar-day-name {
-    text-align: center;
-    padding:     5px;
+    text-align:  center;
+    padding:     10px 5px;
     color:       var(--gray-900);
     font-weight: 700;
+    .attire {
+      font-size:   14px;
+      font-weight: normal;
+      font-style:  italic;
+    }
   }
   .r-calendar-day-events {
     display:            grid;
@@ -692,9 +694,6 @@ body.page-schedule {
   .r-calendar-day-event-gi {
     font-style: italic;
   }
-  .r-event-defence {
-    background-color: var(--color-womens-defence);
-  }
   .r-event-private {
     background-color: #2344B9;
   }
@@ -704,11 +703,8 @@ body.page-schedule {
   .r-event-teens {
     background-color: #455A89;
   }
-  .r-event-adult-all-transitions {
-    background-color: var(--color-adult-all-transitions);
-  }
-  .r-event-adult-all-submissions {
-    background-color: var(--color-adult-all-submissions);
+  .r-event-adult-all-levels {
+    background-color: #6BA89D;
   }
   .r-event-adult-beginners {
     background-color: black;
@@ -718,7 +714,7 @@ body.page-schedule {
   }
   .r-event-competition-class {
     background-color: #CA7F2B;
-  }   
+  }
   .r-event-takedowns-for-bjj {
     background-color: #C52534;
   }
@@ -764,16 +760,6 @@ body.page-schedule {
   .r-event-end-15 { grid-row-end: 15; }
   .r-event-end-16 { grid-row-end: 16; }
   .r-event-end-17 { grid-row-end: 17; }
-
-  p.transitions-focus {
-    color: var(--color-adult-all-transitions);
-  }
-  p.submissions-focus {
-    color: var(--color-adult-all-submissions);
-  }
-  p.womens-defence {
-    color: var(--color-womens-defence);
-  }
 
   @media (max-width: 991.98px) {
     .r-calendar,
