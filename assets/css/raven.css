@@ -434,7 +434,7 @@ form.formatted-form {
   }
 }
 
-form[data-leads-form] {
+#leads-form {
   background-color: var(--raven-gray);
   flex-shrink:      0;
   width:            350px;
@@ -468,7 +468,7 @@ form[data-leads-form] {
 }
 
 @media (max-width: 768px) {
-  form[data-leads-form] {
+  #leads-form {
     width:         100%;
     margin-bottom: 0;
   }
