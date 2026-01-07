@@ -43,14 +43,16 @@ function processLeadsForm(event) {
   const form = event.currentTarget;
   const data = new FormData(form);
 
-  // Adjusting data on the fly so spam bots don't just scrape html.
-  data.append("form_id", "lGk3y");
-  data.append("gym", "A91kn");
-
   // changing action from html value of `form.action`
-  const action = "https://gymdesk.com/contact/form";
+  const action = "https://formspree.io/f/maqnrybv";
 
-  fetch(action, { method: "post", body: data })
+  fetch(action, {
+    method: "post",
+    body: data,
+    headers: {
+      Accept: "application/json",
+    },
+  })
     .then((response) => {
       if (response.ok) {
         form.classList.add("success");

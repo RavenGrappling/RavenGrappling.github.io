@@ -1,13 +1,69 @@
-<div id="leads-form" class="text-center">
-  <h3>
-    <strong>RESERVE YOUR <span class="text-red">TRIAL</span> OFFER</strong>
-  </h3>
-  <p>
-    To book or inquire about your free trial please call or text us at
-    <a href="tel:+17788195200">(778) 819-5200</a> or email us at
-    <a href="mailto:info@ravengrappling.com">info@ravengrappling.com</a>
-  </p>
-  <p>
-    Thank you!
-  </p>
-</div>
+<form data-leads-form method="post" action="/contact" id="leads-form" class="formatted-form">
+  <div class="success-message">
+    <h3>
+      Thank You For Your Interest!
+    </h3>
+    <p>
+      We’ll be in touch with you shortly.
+    </p>
+    <p>
+      For more information, feel free to call or text us at
+      <a href="tel:+17788195200">(778) 819-5200</a> or email us at
+      <a href="mailto:info@ravengrappling.com">info@ravengrappling.com</a>
+    </p>
+  </div>
+
+  <div class="failure-message">
+    <h3>
+      Something Went Wrong :(
+    </h3>
+    <p>
+      Please call or text us at
+      <a href="tel:+17788195200">(778) 819-5200</a>
+      or email us at
+      <a href="mailto:info@ravengrappling.com">info@ravengrappling.com</a>
+      instead. Thank you!
+    </p>
+  </div>
+
+  <div class="form">
+    <h3>
+      <strong>RESERVE YOUR <span class="text-red">TRIAL</span> OFFER</strong>
+    </h3>
+
+    <div class="form-field">
+      <label for="name">Your Name</label>
+      <input type="text" name="name" required />
+    </div>
+
+    <div class="form-field">
+      <label for="email">Email Address</label>
+      <input type="email" name="email" required />
+    </div>
+
+    <div class="form-field">
+      <label for="phone">Phone Number</label>
+      <input type="text" name="phone" required />
+    </div>
+
+    {% if include.program %}
+      {% assign program = site.programs | where: "id", include.program | first %}
+      <input type="hidden" name="program" value="{{ program.name }}">
+
+    {% else %}
+      <div class="form-field">
+        <label for="program">Choose a Program</label>
+        <select name="program" required>
+          <option value="">-- Please Select Program --</option>
+          {% for program in site.programs %}
+            <option value="{{ program.name }}">{{ program.name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    {% endif %}
+
+    <button type="submit">
+      <strong>Get Started Today</strong>
+    </button>
+  </div>
+</form>
