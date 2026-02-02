@@ -695,28 +695,28 @@ body.page-schedule {
     font-style: italic;
   }
   .r-event-private {
-    background-color: #2344B9;
+    background-color: #16a6C0;
   }
   .r-event-kids {
-    background-color: #9d2273;
+    background-color: #B0448A;
   }
   .r-event-teens {
-    background-color: #455A89;
+    background-color: #566F9B;
   }
   .r-event-adult-all-levels {
-    background-color: #6BA89D;
+    background-color: #4EAC95;
   }
   .r-event-adult-beginners {
     background-color: black;
   }
   .r-event-open-mat {
-    background-color: #73568A;
+    background-color: #876C9C;
   }
   .r-event-women-bjj {
     background-color: #CA7F2B;
   }
   .r-event-takedowns-for-bjj {
-    background-color: #C52534;
+    background-color: #D59138;
   }
   .r-event-off {
     background-color: var(--raven-gray);
