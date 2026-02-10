@@ -675,7 +675,7 @@ body.page-schedule {
   .r-calendar-day-events {
     display:            grid;
     gap:                2px;
-    grid-template-rows: repeat(16, 50px);
+    grid-template-rows: repeat(19, 60px);
   }
   .r-calendar-day-event {
     display:          flex;
@@ -685,8 +685,12 @@ body.page-schedule {
     text-align:       center;
     color:            #fff;
     background-color: #f5f5f5;
-    border-radius:    5px;
+    border-radius:    0px;
     font-size:        14px;
+  }
+  .r-event-sparring {
+    margin-top: -2px;
+    border-top: 1px dashed white;
   }
   .r-calendar-day-event-time {
     font-weight: 700;
@@ -726,40 +730,56 @@ body.page-schedule {
     background-color: #C848B9;
   }
 
-  .r-event-start-1  { grid-row-start: 1; }
-  .r-event-start-2  { grid-row-start: 2; }
-  .r-event-start-3  { grid-row-start: 3; }
-  .r-event-start-4  { grid-row-start: 4; }
-  .r-event-start-5  { grid-row-start: 5; }
-  .r-event-start-6  { grid-row-start: 6; }
-  .r-event-start-7  { grid-row-start: 7; }
-  .r-event-start-8  { grid-row-start: 8; }
-  .r-event-start-9  { grid-row-start: 9; }
-  .r-event-start-10 { grid-row-start: 10; }
-  .r-event-start-11 { grid-row-start: 11; }
-  .r-event-start-12 { grid-row-start: 12; }
-  .r-event-start-13 { grid-row-start: 13; }
-  .r-event-start-14 { grid-row-start: 14; }
-  .r-event-start-15 { grid-row-start: 15; }
-  .r-event-start-16 { grid-row-start: 16; }
-  .r-event-start-17 { grid-row-start: 17; }
-  .r-event-end-1  { grid-row-end: 1; }
-  .r-event-end-2  { grid-row-end: 2; }
-  .r-event-end-3  { grid-row-end: 3; }
-  .r-event-end-4  { grid-row-end: 4; }
-  .r-event-end-5  { grid-row-end: 5; }
-  .r-event-end-6  { grid-row-end: 6; }
-  .r-event-end-7  { grid-row-end: 7; }
-  .r-event-end-8  { grid-row-end: 8; }
-  .r-event-end-9  { grid-row-end: 9; }
-  .r-event-end-10 { grid-row-end: 10; }
-  .r-event-end-11 { grid-row-end: 11; }
-  .r-event-end-12 { grid-row-end: 12; }
-  .r-event-end-13 { grid-row-end: 13; }
-  .r-event-end-14 { grid-row-end: 14; }
-  .r-event-end-15 { grid-row-end: 15; }
-  .r-event-end-16 { grid-row-end: 16; }
-  .r-event-end-17 { grid-row-end: 17; }
+  .r-event-start-09-00 { grid-row-start: 1; }
+  .r-event-start-09-30 { grid-row-start: 2; }
+  .r-event-start-10-00 { grid-row-start: 3; }
+  .r-event-start-10-30 { grid-row-start: 4; }
+  .r-event-start-11-00 { grid-row-start: 5; }
+  .r-event-start-11-30 { grid-row-start: 6; }
+  .r-event-start-12-00 { grid-row-start: 7; }
+  .r-event-start-12-30 { grid-row-start: 8; }
+  /* nothing to render on schedule from 1 - 3pm
+  .r-event-start-13-00 { grid-row-start: 9; }
+  .r-event-start-13-30 { grid-row-start: 10; }
+  .r-event-start-14-00 { grid-row-start: 11; }
+  .r-event-start-14-30 { grid-row-start: 12; }
+  .r-event-start-15-00 { grid-row-start: 13; }
+  .r-event-start-15-30 { grid-row-start: 14; } */
+  .r-event-start-16-00 { grid-row-start: 10; }
+  .r-event-start-16-30 { grid-row-start: 11; }
+  .r-event-start-17-00 { grid-row-start: 12; }
+  .r-event-start-17-30 { grid-row-start: 13; }
+  .r-event-start-18-00 { grid-row-start: 14; }
+  .r-event-start-18-30 { grid-row-start: 15; }
+  .r-event-start-19-00 { grid-row-start: 16; }
+  .r-event-start-19-30 { grid-row-start: 17; }
+  .r-event-start-20-00 { grid-row-start: 18; }
+  .r-event-start-20-30 { grid-row-start: 19; }
+
+  .r-event-end-10-00 { grid-row-end: 3; }
+  .r-event-end-10-30 { grid-row-end: 4; }
+  .r-event-end-11-00 { grid-row-end: 5; }
+  .r-event-end-11-30 { grid-row-end: 6; }
+  .r-event-end-12-00 { grid-row-end: 7; }
+  .r-event-end-12-30 { grid-row-end: 8; }
+  .r-event-end-13-00 { grid-row-end: 9; }
+  /* nothing to render on schedule from 1 - 3pm
+  .r-event-end-13-30 { grid-row-end: 10; }
+  .r-event-end-14-00 { grid-row-end: 11; }
+  .r-event-end-14-30 { grid-row-end: 12; }
+  .r-event-end-15-00 { grid-row-end: 13; }
+  .r-event-end-15-30 { grid-row-end: 14; }
+  .r-event-end-16-00 { grid-row-end: 15; } */
+  .r-event-end-16-30 { grid-row-end: 11; }
+  .r-event-end-17-00 { grid-row-end: 12; }
+  .r-event-end-17-30 { grid-row-end: 13; }
+  .r-event-end-18-00 { grid-row-end: 14; }
+  .r-event-end-18-30 { grid-row-end: 15; }
+  .r-event-end-19-00 { grid-row-end: 16; }
+  .r-event-end-19-30 { grid-row-end: 17; }
+  .r-event-end-20-00 { grid-row-end: 18; }
+  .r-event-end-20-30 { grid-row-end: 19; }
+  .r-event-end-21-00 { grid-row-end: 20; }
 
   @media (max-width: 991.98px) {
     .r-calendar,
@@ -772,6 +792,9 @@ body.page-schedule {
     }
     .r-calendar-day-event {
       margin-bottom: 5px;
+    }
+    .r-event-sparring {
+      margin-top: -5px;
     }
   }
 }
