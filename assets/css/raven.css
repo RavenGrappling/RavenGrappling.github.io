@@ -695,9 +695,6 @@ body.page-schedule {
   .r-calendar-day-event-time {
     font-weight: 700;
   }
-  .r-calendar-day-event-gi {
-    font-style: italic;
-  }
   .r-event-private {
     background-color: #16a6C0;
   }
@@ -791,10 +788,13 @@ body.page-schedule {
       margin-bottom: 30px;
     }
     .r-calendar-day-event {
-      margin-bottom: 5px;
-    }
-    .r-event-sparring {
-      margin-top: -5px;
+      margin-bottom:   2px;
+      flex-direction:  row;
+      justify-content: flex-start;
+      text-align:      left;
+      .r-calendar-day-event-time {
+        width: 125px;
+      }
     }
   }
 }
