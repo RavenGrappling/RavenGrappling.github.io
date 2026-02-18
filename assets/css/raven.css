@@ -692,6 +692,9 @@ body.page-schedule {
     margin-top: -2px;
     border-top: 1px dashed white;
   }
+  .r-event-padding {
+    margin-top: -2px;
+  }
   .r-calendar-day-event-time {
     font-weight: 700;
   }
@@ -786,6 +789,9 @@ body.page-schedule {
     }
     .r-calendar-day {
       margin-bottom: 30px;
+    }
+    .r-event-padding {
+      display: none;
     }
     .r-calendar-day-event {
       margin-bottom:   2px;
