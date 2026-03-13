@@ -798,6 +798,7 @@ body.page-schedule {
       flex-direction:  row;
       justify-content: flex-start;
       text-align:      left;
+      align-items:     center;
       .r-calendar-day-event-time {
         width: 125px;
       }
