@@ -3,9 +3,19 @@ window.onload = () => {
     .querySelector("[data-nav-toggle]")
     .addEventListener("click", toggleNav);
 
-  document.querySelectorAll("[data-nav-dropdown]").forEach((element) => {
+  document.querySelectorAll("[data-nav-button]").forEach((element) => {
     element.addEventListener("click", toggleDropdown);
   });
+
+  // click away for navigation popups
+  const nav = document.querySelector("[data-nav]")
+  window.addEventListener("click", (event) => {
+    if (!nav.contains(event.target)) {
+      document.querySelectorAll("[data-nav-dropdown").forEach((element) => {
+        element.classList.remove("show");
+      })
+    }
+  })
 
   const leadsForm = document.querySelector("[data-leads-form]");
   if (leadsForm) {
