@@ -142,6 +142,7 @@ a.large-button {
   padding:          1rem 1.5rem;
   border-radius:    0.5rem;
   text-wrap:        nowrap;
+  text-shadow: none;
   &:hover {
     opacity: 0.85;
   }
@@ -164,9 +165,7 @@ a.large-button {
     p {
       font-size:   1.5rem;
       line-height: 2rem;
-      span {
-        background-color: rgba(28, 46, 79, 0.7);
-      }
+      margin-bottom: 2rem;
     }
   }
 }
@@ -563,7 +562,6 @@ form.formatted-form {
       background-image: var(--tint-gradient);
       border-radius:    0.5rem;
       padding:          1rem;
-      margin-top:       2rem;
       display:          inline-flex;
       color:            white;
       svg {
