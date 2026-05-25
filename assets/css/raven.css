@@ -270,6 +270,13 @@ nav {
       gap:        10px;
       > li {
         position: relative;
+        > a.summer-camp {
+          color: var(--raven-blue);
+          background-color: white;
+          &:hover, &.active {
+            color: white;
+          }
+        }
         > a {
           display:         flex;
           align-items:     center;

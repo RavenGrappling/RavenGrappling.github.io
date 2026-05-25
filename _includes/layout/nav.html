@@ -10,6 +10,11 @@
     </button>
 
     <ul data-nav>
+    	<li>
+   			<a href="/bjj-summer-camp-2026" class="summer-camp {% if page.name contains "summer-camp" %}active{% endif %}">
+    			Summer Camp 2026
+     		</a>
+      </li>
       <li>
         {% assign program_urls = site.programs | map: "url" %}
         <a href="#" data-nav-button class="{% if program_urls contains page.url %}active{% endif %}">
