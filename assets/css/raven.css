@@ -835,4 +835,43 @@ body.page-schedule {
   .hero {
     background-image: var(--tint-gradient), url(/assets/images/programs/kids/bg.jpg);
   }
+  .signup {
+    display:         flex;
+    justify-content: center;
+    gap:             1rem;
+  }
+  .cost {
+    display:         flex;
+    align-items:     center;
+    gap:             5rem;
+    margin-bottom:   2rem;
+    .price {
+      display:     flex;
+      align-items: center;
+      gap:         0.5rem;
+      white-space: nowrap;
+      .name {
+        font-weight: bold;
+      }
+      .amount {
+        font-size:   1.5rem;
+        font-weight: bold;
+      }
+      &.early-bird {
+        .name, .amount {
+          color: #B0448A;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 768px) {
+  .page-bjj-summer-camp-2026 {
+    .cost {
+      display: block;
+    }
+    .signup {
+      flex-direction: column;
+    }
+  }
 }
