@@ -148,6 +148,17 @@ a.large-button {
   }
 }
 
+a.banner {
+  display:          block;
+  text-align:       center;
+  background-color: var(--raven-red);
+  color:            white;
+  padding:          0.5rem;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .hero {
   background-color:    black;
   background-size:     cover;
