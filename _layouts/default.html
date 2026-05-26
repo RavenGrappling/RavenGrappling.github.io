@@ -5,6 +5,12 @@
   <body class="page-{{ page.name | remove: ".html" }}">
     {% include layout/nav.html %}
 
+    {% unless page.name contains "summer-camp" %}
+      <a class="banner" href="/bjj-summer-camp-2026">
+        NEW - Jiu Jitsu Summer Camp! EARLY BIRD PRICE ENDS JUNE 15
+      </a>
+    {% endunless %}
+
     <main>
       {{ content }}
     </main>
