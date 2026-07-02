@@ -148,7 +148,7 @@ a.large-button {
   }
 }
 
-a.banner {
+.banner {
   position:         sticky;
   top:              var(--nav-height);
   display:          block;
@@ -156,9 +156,6 @@ a.banner {
   background-color: var(--raven-red);
   color:            white;
   padding:          0.75rem;
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 .hero {
