@@ -745,6 +745,7 @@ body.page-schedule {
   }
   .r-event-private {
     background-color: #d8d8d8;
+    color: #000000;
   }
   .r-event-kids {
     background-color: #B0448A;
