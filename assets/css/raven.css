@@ -155,7 +155,7 @@ a.banner {
   text-align:       center;
   background-color: var(--raven-red);
   color:            white;
-  padding:          0.75rem;
+  padding:          0.9rem;
   &:hover {
     text-decoration: underline;
   }
